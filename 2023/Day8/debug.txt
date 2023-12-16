@@ -1,0 +1,7620 @@
+At BNR. Moving L
+Step 1 moving to DLB
+At DLB. Moving L
+Step 2 moving to DBX
+At DBX. Moving R
+Step 3 moving to QHF
+At QHF. Moving L
+Step 4 moving to GPM
+At GPM. Moving R
+Step 5 moving to SSL
+At SSL. Moving R
+Step 6 moving to KCF
+At KCF. Moving R
+Step 7 moving to BMK
+At BMK. Moving L
+Step 8 moving to JKH
+At JKH. Moving L
+Step 9 moving to QRS
+At QRS. Moving L
+Step 10 moving to RMC
+At RMC. Moving R
+Step 11 moving to PTR
+At PTR. Moving L
+Step 12 moving to KQD
+At KQD. Moving R
+Step 13 moving to KQX
+At KQX. Moving R
+Step 14 moving to LVT
+At LVT. Moving L
+Step 15 moving to DKT
+At DKT. Moving R
+Step 16 moving to GCL
+At GCL. Moving R
+Step 17 moving to KJP
+At KJP. Moving R
+Step 18 moving to QRP
+At QRP. Moving L
+Step 19 moving to CMS
+At CMS. Moving R
+Step 20 moving to XGR
+At XGR. Moving L
+Step 21 moving to BXB
+At BXB. Moving R
+Step 22 moving to KQT
+At KQT. Moving R
+Step 23 moving to KTL
+At KTL. Moving L
+Step 24 moving to PMJ
+At PMJ. Moving R
+Step 25 moving to PJV
+At PJV. Moving L
+Step 26 moving to SPT
+At SPT. Moving R
+Step 27 moving to KSK
+At KSK. Moving L
+Step 28 moving to TFQ
+At TFQ. Moving R
+Step 29 moving to SBB
+At SBB. Moving R
+Step 30 moving to PNB
+At PNB. Moving R
+Step 31 moving to DSS
+At DSS. Moving L
+Step 32 moving to FTJ
+At FTJ. Moving R
+Step 33 moving to QJV
+At QJV. Moving R
+Step 34 moving to NMN
+At NMN. Moving R
+Step 35 moving to NMR
+At NMR. Moving L
+Step 36 moving to RRL
+At RRL. Moving R
+Step 37 moving to CFX
+At CFX. Moving L
+Step 38 moving to BSJ
+At BSJ. Moving R
+Step 39 moving to DCV
+At DCV. Moving L
+Step 40 moving to XXH
+At XXH. Moving R
+Step 41 moving to JTR
+At JTR. Moving R
+Step 42 moving to LFL
+At LFL. Moving L
+Step 43 moving to CMR
+At CMR. Moving L
+Step 44 moving to JQM
+At JQM. Moving R
+Step 45 moving to PJT
+At PJT. Moving R
+Step 46 moving to QLT
+At QLT. Moving R
+Step 47 moving to XDP
+At XDP. Moving L
+Step 48 moving to JQX
+At JQX. Moving R
+Step 49 moving to JBK
+At JBK. Moving R
+Step 50 moving to QJC
+At QJC. Moving L
+Step 51 moving to RJR
+At RJR. Moving R
+Step 52 moving to DRK
+At DRK. Moving R
+Step 53 moving to NVJ
+At NVJ. Moving L
+Step 54 moving to BLM
+At BLM. Moving L
+Step 55 moving to LGT
+At LGT. Moving R
+Step 56 moving to SHP
+At SHP. Moving L
+Step 57 moving to SMM
+At SMM. Moving R
+Step 58 moving to TTK
+At TTK. Moving R
+Step 59 moving to FSH
+At FSH. Moving R
+Step 60 moving to FPX
+At FPX. Moving L
+Step 61 moving to BNR
+At BNR. Moving R
+Step 62 moving to QNM
+At QNM. Moving L
+Step 63 moving to DBX
+At DBX. Moving R
+Step 64 moving to QHF
+At QHF. Moving L
+Step 65 moving to GPM
+At GPM. Moving L
+Step 66 moving to PLN
+At PLN. Moving R
+Step 67 moving to KCF
+At KCF. Moving R
+Step 68 moving to BMK
+At BMK. Moving R
+Step 69 moving to BPL
+At BPL. Moving L
+Step 70 moving to QRS
+At QRS. Moving L
+Step 71 moving to RMC
+At RMC. Moving R
+Step 72 moving to PTR
+At PTR. Moving R
+Step 73 moving to GNP
+At GNP. Moving R
+Step 74 moving to TSS
+At TSS. Moving L
+Step 75 moving to LVT
+At LVT. Moving R
+Step 76 moving to GFK
+At GFK. Moving L
+Step 77 moving to GCL
+At GCL. Moving R
+Step 78 moving to KJP
+At KJP. Moving R
+Step 79 moving to QRP
+At QRP. Moving R
+Step 80 moving to JTL
+At JTL. Moving L
+Step 81 moving to QLS
+At QLS. Moving R
+Step 82 moving to BXB
+At BXB. Moving R
+Step 83 moving to KQT
+At KQT. Moving R
+Step 84 moving to KTL
+At KTL. Moving L
+Step 85 moving to PMJ
+At PMJ. Moving R
+Step 86 moving to PJV
+At PJV. Moving R
+Step 87 moving to SPT
+At SPT. Moving R
+Step 88 moving to KSK
+At KSK. Moving L
+Step 89 moving to TFQ
+At TFQ. Moving L
+Step 90 moving to GST
+At GST. Moving L
+Step 91 moving to PNB
+At PNB. Moving R
+Step 92 moving to DSS
+At DSS. Moving R
+Step 93 moving to TVR
+At TVR. Moving R
+Step 94 moving to QJV
+At QJV. Moving L
+Step 95 moving to HVQ
+At HVQ. Moving R
+Step 96 moving to DRN
+At DRN. Moving R
+Step 97 moving to RRL
+At RRL. Moving L
+Step 98 moving to DHF
+At DHF. Moving R
+Step 99 moving to MCL
+At MCL. Moving R
+Step 100 moving to QBR
+At QBR. Moving L
+Step 101 moving to QMN
+At QMN. Moving R
+Step 102 moving to PHF
+At PHF. Moving L
+Step 103 moving to LFL
+At LFL. Moving R
+Step 104 moving to RCH
+At RCH. Moving R
+Step 105 moving to GDS
+At GDS. Moving L
+Step 106 moving to PJT
+At PJT. Moving R
+Step 107 moving to QLT
+At QLT. Moving L
+Step 108 moving to HQL
+At HQL. Moving R
+Step 109 moving to SVH
+At SVH. Moving R
+Step 110 moving to JBK
+At JBK. Moving R
+Step 111 moving to QJC
+At QJC. Moving L
+Step 112 moving to RJR
+At RJR. Moving R
+Step 113 moving to DRK
+At DRK. Moving L
+Step 114 moving to DRS
+At DRS. Moving R
+Step 115 moving to BLM
+At BLM. Moving R
+Step 116 moving to TFT
+At TFT. Moving L
+Step 117 moving to XPK
+At XPK. Moving R
+Step 118 moving to SMM
+At SMM. Moving L
+Step 119 moving to KGR
+At KGR. Moving R
+Step 120 moving to FSH
+At FSH. Moving L
+Step 121 moving to QSB
+At QSB. Moving R
+Step 122 moving to RSG
+At RSG. Moving R
+Step 123 moving to QNM
+At QNM. Moving R
+Step 124 moving to FNP
+At FNP. Moving L
+Step 125 moving to DHB
+At DHB. Moving R
+Step 126 moving to GPM
+At GPM. Moving L
+Step 127 moving to PLN
+At PLN. Moving L
+Step 128 moving to LMM
+At LMM. Moving L
+Step 129 moving to MPD
+At MPD. Moving R
+Step 130 moving to BPL
+At BPL. Moving R
+Step 131 moving to PJB
+At PJB. Moving R
+Step 132 moving to RMC
+At RMC. Moving L
+Step 133 moving to QHM
+At QHM. Moving L
+Step 134 moving to KQD
+At KQD. Moving L
+Step 135 moving to TSS
+At TSS. Moving R
+Step 136 moving to HSR
+At HSR. Moving L
+Step 137 moving to DKT
+At DKT. Moving R
+Step 138 moving to GCL
+At GCL. Moving R
+Step 139 moving to KJP
+At KJP. Moving R
+Step 140 moving to QRP
+At QRP. Moving L
+Step 141 moving to CMS
+At CMS. Moving R
+Step 142 moving to XGR
+At XGR. Moving L
+Step 143 moving to BXB
+At BXB. Moving R
+Step 144 moving to KQT
+At KQT. Moving R
+Step 145 moving to KTL
+At KTL. Moving L
+Step 146 moving to PMJ
+At PMJ. Moving R
+Step 147 moving to PJV
+At PJV. Moving L
+Step 148 moving to SPT
+At SPT. Moving R
+Step 149 moving to KSK
+At KSK. Moving L
+Step 150 moving to TFQ
+At TFQ. Moving R
+Step 151 moving to SBB
+At SBB. Moving L
+Step 152 moving to DVN
+At DVN. Moving R
+Step 153 moving to DSS
+At DSS. Moving R
+Step 154 moving to TVR
+At TVR. Moving L
+Step 155 moving to LJN
+At LJN. Moving R
+Step 156 moving to NMN
+At NMN. Moving R
+Step 157 moving to NMR
+At NMR. Moving L
+Step 158 moving to RRL
+At RRL. Moving R
+Step 159 moving to CFX
+At CFX. Moving R
+Step 160 moving to MCL
+At MCL. Moving L
+Step 161 moving to DCV
+At DCV. Moving R
+Step 162 moving to QMN
+At QMN. Moving L
+Step 163 moving to JTR
+At JTR. Moving R
+Step 164 moving to LFL
+At LFL. Moving R
+Step 165 moving to RCH
+At RCH. Moving R
+Step 166 moving to GDS
+At GDS. Moving L
+Step 167 moving to PJT
+At PJT. Moving R
+Step 168 moving to QLT
+At QLT. Moving R
+Step 169 moving to XDP
+At XDP. Moving R
+Step 170 moving to SVH
+At SVH. Moving L
+Step 171 moving to SLR
+At SLR. Moving R
+Step 172 moving to QJC
+At QJC. Moving R
+Step 173 moving to CNX
+At CNX. Moving L
+Step 174 moving to CTN
+At CTN. Moving R
+Step 175 moving to DRS
+At DRS. Moving R
+Step 176 moving to BLM
+At BLM. Moving R
+Step 177 moving to TFT
+At TFT. Moving L
+Step 178 moving to XPK
+At XPK. Moving R
+Step 179 moving to SMM
+At SMM. Moving R
+Step 180 moving to TTK
+At TTK. Moving L
+Step 181 moving to VQQ
+At VQQ. Moving R
+Step 182 moving to FPX
+At FPX. Moving R
+Step 183 moving to RSG
+At RSG. Moving L
+Step 184 moving to DLB
+At DLB. Moving R
+Step 185 moving to FNP
+At FNP. Moving R
+Step 186 moving to QHF
+At QHF. Moving R
+Step 187 moving to FHL
+At FHL. Moving L
+Step 188 moving to SSL
+At SSL. Moving L
+Step 189 moving to LMM
+At LMM. Moving R
+Step 190 moving to BMK
+At BMK. Moving L
+Step 191 moving to JKH
+At JKH. Moving R
+Step 192 moving to PJB
+At PJB. Moving R
+Step 193 moving to RMC
+At RMC. Moving L
+Step 194 moving to QHM
+At QHM. Moving L
+Step 195 moving to KQD
+At KQD. Moving L
+Step 196 moving to TSS
+At TSS. Moving R
+Step 197 moving to HSR
+At HSR. Moving R
+Step 198 moving to GFK
+At GFK. Moving L
+Step 199 moving to GCL
+At GCL. Moving R
+Step 200 moving to KJP
+At KJP. Moving R
+Step 201 moving to QRP
+At QRP. Moving L
+Step 202 moving to CMS
+At CMS. Moving R
+Step 203 moving to XGR
+At XGR. Moving L
+Step 204 moving to BXB
+At BXB. Moving R
+Step 205 moving to KQT
+At KQT. Moving L
+Step 206 moving to BHG
+At BHG. Moving L
+Step 207 moving to PMJ
+At PMJ. Moving L
+Step 208 moving to PJV
+At PJV. Moving R
+Step 209 moving to SPT
+At SPT. Moving R
+Step 210 moving to KSK
+At KSK. Moving L
+Step 211 moving to TFQ
+At TFQ. Moving R
+Step 212 moving to SBB
+At SBB. Moving R
+Step 213 moving to PNB
+At PNB. Moving L
+Step 214 moving to PHG
+At PHG. Moving R
+Step 215 moving to TVR
+At TVR. Moving R
+Step 216 moving to QJV
+At QJV. Moving R
+Step 217 moving to NMN
+At NMN. Moving L
+Step 218 moving to DRN
+At DRN. Moving R
+Step 219 moving to RRL
+At RRL. Moving R
+Step 220 moving to CFX
+At CFX. Moving L
+Step 221 moving to BSJ
+At BSJ. Moving L
+Step 222 moving to QBR
+At QBR. Moving R
+Step 223 moving to XXH
+At XXH. Moving L
+Step 224 moving to PHF
+At PHF. Moving R
+Step 225 moving to MDT
+At MDT. Moving R
+Step 226 moving to CMR
+At CMR. Moving R
+Step 227 moving to GDS
+At GDS. Moving L
+Step 228 moving to PJT
+At PJT. Moving R
+Step 229 moving to QLT
+At QLT. Moving R
+Step 230 moving to XDP
+At XDP. Moving R
+Step 231 moving to SVH
+At SVH. Moving L
+Step 232 moving to SLR
+At SLR. Moving R
+Step 233 moving to QJC
+At QJC. Moving R
+Step 234 moving to CNX
+At CNX. Moving L
+Step 235 moving to CTN
+At CTN. Moving R
+Step 236 moving to DRS
+At DRS. Moving R
+Step 237 moving to BLM
+At BLM. Moving L
+Step 238 moving to LGT
+At LGT. Moving R
+Step 239 moving to SHP
+At SHP. Moving L
+Step 240 moving to SMM
+At SMM. Moving R
+Step 241 moving to TTK
+At TTK. Moving R
+Step 242 moving to FSH
+At FSH. Moving L
+Step 243 moving to QSB
+At QSB. Moving R
+Step 244 moving to RSG
+At RSG. Moving L
+Step 245 moving to DLB
+At DLB. Moving R
+Step 246 moving to FNP
+At FNP. Moving R
+Step 247 moving to QHF
+At QHF. Moving R
+Step 248 moving to FHL
+At FHL. Moving L
+Step 249 moving to SSL
+At SSL. Moving R
+Step 250 moving to KCF
+At KCF. Moving R
+Step 251 moving to BMK
+At BMK. Moving L
+Step 252 moving to JKH
+At JKH. Moving R
+Step 253 moving to PJB
+At PJB. Moving R
+Step 254 moving to RMC
+At RMC. Moving R
+Step 255 moving to PTR
+At PTR. Moving L
+Step 256 moving to KQD
+At KQD. Moving L
+Step 257 moving to TSS
+At TSS. Moving R
+Step 258 moving to HSR
+At HSR. Moving R
+Step 259 moving to GFK
+At GFK. Moving R
+Step 260 moving to HGH
+At HGH. Moving L
+Step 261 moving to QKX
+At QKX. Moving R
+Step 262 moving to QRP
+At QRP. Moving L
+Step 263 moving to CMS
+At CMS. Moving R
+Step 264 moving to XGR
+At XGR. Moving L
+Step 265 moving to BXB
+At BXB. Moving L
+Step 266 moving to MTH
+At MTH. Moving L
+Step 267 moving to BHG
+At BHG. Moving R
+Step 268 moving to CRN
+At CRN. Moving R
+Step 269 moving to TBN
+At TBN. Moving R
+Step 270 moving to JCV
+At JCV. Moving L
+Step 271 moving to KSK
+At KSK. Moving L
+Step 272 moving to TFQ
+At TFQ. Moving L
+Step 273 moving to GST
+At GST. Moving R
+Step 274 moving to DVN
+At DVN. Moving R
+Step 275 moving to DSS
+At DSS. Moving L
+Step 276 moving to FTJ
+At FTJ. Moving L
+Step 277 moving to LJN
+At LJN. Moving R
+Step 278 moving to NMN
+At NMN. Moving R
+Step 279 moving to NMR
+At NMR. Moving L
+Step 280 moving to RRL
+At RRL. Moving R
+Step 281 moving to CFX
+At CFX. Moving L
+Step 282 moving to BSJ
+At BSJ. Moving R
+Step 283 moving to DCV
+At DCV. Moving R
+Step 284 moving to QMN
+At QMN. Moving L
+Step 285 moving to JTR
+At JTR. Moving R
+Step 286 moving to LFL
+At LFL. Moving L
+Step 287 moving to CMR
+At CMR. Moving L
+Step 288 moving to JQM
+At JQM. Moving L
+Step 289 moving to DBD
+At DBD. Moving R
+Step 290 moving to TTC
+At TTC. Moving R
+Step 291 moving to XDP
+At XDP. Moving R
+Step 292 moving to SVH
+At SVH. Moving R
+Step 293 moving to JBK
+At JBK. Moving L
+Step 294 moving to BDH
+At BDH. Moving L
+Step 295 moving to CNX
+At CNX. Moving R
+Step 296 moving to DRK
+At DRK. Moving L
+Step 297 moving to DRS
+At DRS. Moving R
+Step 298 moving to BLM
+At BLM. Moving R
+Step 299 moving to TFT
+At TFT. Moving R
+Step 300 moving to SHP
+At SHP. Moving L
+Step 301 moving to SMM
+At SMM. Moving L
+Step 302 moving to KGR
+At KGR. Moving L
+Step 303 moving to VQQ
+At VQQ. Moving R
+Step 304 moving to FPX
+At FPX. Moving L
+Step 305 moving to BNR
+At BNR. Moving R
+Step 306 moving to QNM
+At QNM. Moving R
+Step 307 moving to FNP
+At FNP. Moving L
+Step 308 moving to DHB
+At DHB. Moving R
+Step 309 moving to GPM
+At GPM. Moving R
+Step 310 moving to SSL
+At SSL. Moving R
+Step 311 moving to KCF
+At KCF. Moving L
+Step 312 moving to MPD
+At MPD. Moving R
+Step 313 moving to BPL
+At BPL. Moving L
+Step 314 moving to QRS
+At QRS. Moving R
+Step 315 moving to VCJ
+At VCJ. Moving R
+Step 316 moving to PTR
+At PTR. Moving L
+Step 317 moving to KQD
+At KQD. Moving R
+Step 318 moving to KQX
+At KQX. Moving L
+Step 319 moving to HSR
+At HSR. Moving R
+Step 320 moving to GFK
+At GFK. Moving L
+Step 321 moving to GCL
+At GCL. Moving R
+Step 322 moving to KJP
+At KJP. Moving R
+Step 323 moving to QRP
+At QRP. Moving R
+Step 324 moving to JTL
+At JTL. Moving L
+Step 325 moving to QLS
+At QLS. Moving R
+Step 326 moving to BXB
+At BXB. Moving R
+Step 327 moving to KQT
+At KQT. Moving R
+Step 328 moving to KTL
+At KTL. Moving L
+Step 329 moving to PMJ
+At PMJ. Moving R
+Step 330 moving to PJV
+At PJV. Moving L
+Step 331 moving to SPT
+At SPT. Moving R
+Step 332 moving to KSK
+At KSK. Moving L
+Step 333 moving to TFQ
+At TFQ. Moving R
+Step 334 moving to SBB
+At SBB. Moving R
+Step 335 moving to PNB
+At PNB. Moving L
+Step 336 moving to PHG
+At PHG. Moving L
+Step 337 moving to FTJ
+At FTJ. Moving R
+Step 338 moving to QJV
+At QJV. Moving R
+Step 339 moving to NMN
+At NMN. Moving R
+Step 340 moving to NMR
+At NMR. Moving L
+Step 341 moving to RRL
+At RRL. Moving R
+Step 342 moving to CFX
+At CFX. Moving R
+Step 343 moving to MCL
+At MCL. Moving L
+Step 344 moving to DCV
+At DCV. Moving R
+Step 345 moving to QMN
+At QMN. Moving R
+Step 346 moving to PHF
+At PHF. Moving L
+Step 347 moving to LFL
+At LFL. Moving L
+Step 348 moving to CMR
+At CMR. Moving R
+Step 349 moving to GDS
+At GDS. Moving L
+Step 350 moving to PJT
+At PJT. Moving R
+Step 351 moving to QLT
+At QLT. Moving R
+Step 352 moving to XDP
+At XDP. Moving R
+Step 353 moving to SVH
+At SVH. Moving L
+Step 354 moving to SLR
+At SLR. Moving R
+Step 355 moving to QJC
+At QJC. Moving L
+Step 356 moving to RJR
+At RJR. Moving R
+Step 357 moving to DRK
+At DRK. Moving L
+Step 358 moving to DRS
+At DRS. Moving L
+Step 359 moving to DPN
+At DPN. Moving R
+Step 360 moving to LGT
+At LGT. Moving R
+Step 361 moving to SHP
+At SHP. Moving R
+Step 362 moving to SSN
+At SSN. Moving L
+Step 363 moving to KGR
+At KGR. Moving L
+Step 364 moving to VQQ
+At VQQ. Moving R
+Step 365 moving to FPX
+At FPX. Moving R
+Step 366 moving to RSG
+At RSG. Moving R
+Step 367 moving to QNM
+At QNM. Moving L
+Step 368 moving to DBX
+At DBX. Moving R
+Step 369 moving to QHF
+At QHF. Moving L
+Step 370 moving to GPM
+At GPM. Moving R
+Step 371 moving to SSL
+At SSL. Moving R
+Step 372 moving to KCF
+At KCF. Moving R
+Step 373 moving to BMK
+At BMK. Moving L
+Step 374 moving to JKH
+At JKH. Moving R
+Step 375 moving to PJB
+At PJB. Moving R
+Step 376 moving to RMC
+At RMC. Moving R
+Step 377 moving to PTR
+At PTR. Moving L
+Step 378 moving to KQD
+At KQD. Moving R
+Step 379 moving to KQX
+At KQX. Moving R
+Step 380 moving to LVT
+At LVT. Moving R
+Step 381 moving to GFK
+At GFK. Moving L
+Step 382 moving to GCL
+At GCL. Moving L
+Step 383 moving to QKX
+At QKX. Moving L
+Step 384 moving to XPM
+At XPM. Moving R
+Step 385 moving to CMS
+At CMS. Moving R
+Step 386 moving to XGR
+At XGR. Moving R
+Step 387 moving to TCX
+At TCX. Moving L
+Step 388 moving to KQT
+At KQT. Moving R
+Step 389 moving to KTL
+At KTL. Moving R
+Step 390 moving to CRN
+At CRN. Moving L
+Step 391 moving to PJV
+At PJV. Moving R
+Step 392 moving to SPT
+At SPT. Moving R
+Step 393 moving to KSK
+At KSK. Moving L
+Step 394 moving to TFQ
+At TFQ. Moving R
+Step 395 moving to SBB
+At SBB. Moving L
+Step 396 moving to DVN
+At DVN. Moving R
+Step 397 moving to DSS
+At DSS. Moving R
+Step 398 moving to TVR
+At TVR. Moving L
+Step 399 moving to LJN
+At LJN. Moving R
+Step 400 moving to NMN
+At NMN. Moving L
+Step 401 moving to DRN
+At DRN. Moving R
+Step 402 moving to RRL
+At RRL. Moving R
+Step 403 moving to CFX
+At CFX. Moving R
+Step 404 moving to MCL
+At MCL. Moving L
+Step 405 moving to DCV
+At DCV. Moving R
+Step 406 moving to QMN
+At QMN. Moving L
+Step 407 moving to JTR
+At JTR. Moving R
+Step 408 moving to LFL
+At LFL. Moving R
+Step 409 moving to RCH
+At RCH. Moving L
+Step 410 moving to JQM
+At JQM. Moving R
+Step 411 moving to PJT
+At PJT. Moving L
+Step 412 moving to TTC
+At TTC. Moving R
+Step 413 moving to XDP
+At XDP. Moving L
+Step 414 moving to JQX
+At JQX. Moving R
+Step 415 moving to JBK
+At JBK. Moving R
+Step 416 moving to QJC
+At QJC. Moving R
+Step 417 moving to CNX
+At CNX. Moving L
+Step 418 moving to CTN
+At CTN. Moving R
+Step 419 moving to DRS
+At DRS. Moving L
+Step 420 moving to DPN
+At DPN. Moving L
+Step 421 moving to TFT
+At TFT. Moving L
+Step 422 moving to XPK
+At XPK. Moving R
+Step 423 moving to SMM
+At SMM. Moving R
+Step 424 moving to TTK
+At TTK. Moving R
+Step 425 moving to FSH
+At FSH. Moving L
+Step 426 moving to QSB
+At QSB. Moving L
+Step 427 moving to BNR
+At BNR. Moving L
+Step 428 moving to DLB
+At DLB. Moving R
+Step 429 moving to FNP
+At FNP. Moving L
+Step 430 moving to DHB
+At DHB. Moving R
+Step 431 moving to GPM
+At GPM. Moving R
+Step 432 moving to SSL
+At SSL. Moving R
+Step 433 moving to KCF
+At KCF. Moving L
+Step 434 moving to MPD
+At MPD. Moving R
+Step 435 moving to BPL
+At BPL. Moving L
+Step 436 moving to QRS
+At QRS. Moving R
+Step 437 moving to VCJ
+At VCJ. Moving R
+Step 438 moving to PTR
+At PTR. Moving L
+Step 439 moving to KQD
+At KQD. Moving R
+Step 440 moving to KQX
+At KQX. Moving L
+Step 441 moving to HSR
+At HSR. Moving R
+Step 442 moving to GFK
+At GFK. Moving L
+Step 443 moving to GCL
+At GCL. Moving R
+Step 444 moving to KJP
+At KJP. Moving L
+Step 445 moving to XPM
+At XPM. Moving R
+Step 446 moving to CMS
+At CMS. Moving R
+Step 447 moving to XGR
+At XGR. Moving L
+Step 448 moving to BXB
+At BXB. Moving R
+Step 449 moving to KQT
+At KQT. Moving R
+Step 450 moving to KTL
+At KTL. Moving L
+Step 451 moving to PMJ
+At PMJ. Moving R
+Step 452 moving to PJV
+At PJV. Moving R
+Step 453 moving to SPT
+At SPT. Moving L
+Step 454 moving to KSK
+At KSK. Moving R
+Step 455 moving to VSD
+At VSD. Moving L
+Step 456 moving to SBB
+At SBB. Moving R
+Step 457 moving to PNB
+At PNB. Moving R
+Step 458 moving to DSS
+At DSS. Moving R
+Step 459 moving to TVR
+At TVR. Moving L
+Step 460 moving to LJN
+At LJN. Moving R
+Step 461 moving to NMN
+At NMN. Moving R
+Step 462 moving to NMR
+At NMR. Moving R
+Step 463 moving to XSC
+At XSC. Moving L
+Step 464 moving to CFX
+At CFX. Moving R
+Step 465 moving to MCL
+At MCL. Moving R
+Step 466 moving to QBR
+At QBR. Moving L
+Step 467 moving to QMN
+At QMN. Moving R
+Step 468 moving to PHF
+At PHF. Moving R
+Step 469 moving to MDT
+At MDT. Moving R
+Step 470 moving to CMR
+At CMR. Moving L
+Step 471 moving to JQM
+At JQM. Moving R
+Step 472 moving to PJT
+At PJT. Moving R
+Step 473 moving to QLT
+At QLT. Moving L
+Step 474 moving to HQL
+At HQL. Moving R
+Step 475 moving to SVH
+At SVH. Moving R
+Step 476 moving to JBK
+At JBK. Moving L
+Step 477 moving to BDH
+At BDH. Moving R
+Step 478 moving to RJR
+At RJR. Moving R
+Step 479 moving to DRK
+At DRK. Moving R
+Step 480 moving to NVJ
+At NVJ. Moving L
+Step 481 moving to BLM
+At BLM. Moving L
+Step 482 moving to LGT
+At LGT. Moving R
+Step 483 moving to SHP
+At SHP. Moving L
+Step 484 moving to SMM
+At SMM. Moving R
+Step 485 moving to TTK
+At TTK. Moving R
+Step 486 moving to FSH
+At FSH. Moving L
+Step 487 moving to QSB
+At QSB. Moving L
+Step 488 moving to BNR
+At BNR. Moving L
+Step 489 moving to DLB
+At DLB. Moving R
+Step 490 moving to FNP
+At FNP. Moving R
+Step 491 moving to QHF
+At QHF. Moving L
+Step 492 moving to GPM
+At GPM. Moving R
+Step 493 moving to SSL
+At SSL. Moving R
+Step 494 moving to KCF
+At KCF. Moving L
+Step 495 moving to MPD
+At MPD. Moving R
+Step 496 moving to BPL
+At BPL. Moving L
+Step 497 moving to QRS
+At QRS. Moving R
+Step 498 moving to VCJ
+At VCJ. Moving L
+Step 499 moving to QHM
+At QHM. Moving L
+Step 500 moving to KQD
+At KQD. Moving L
+Step 501 moving to TSS
+At TSS. Moving R
+Step 502 moving to HSR
+At HSR. Moving R
+Step 503 moving to GFK
+At GFK. Moving L
+Step 504 moving to GCL
+At GCL. Moving R
+Step 505 moving to KJP
+At KJP. Moving R
+Step 506 moving to QRP
+At QRP. Moving L
+Step 507 moving to CMS
+At CMS. Moving R
+Step 508 moving to XGR
+At XGR. Moving R
+Step 509 moving to TCX
+At TCX. Moving R
+Step 510 moving to MTH
+At MTH. Moving L
+Step 511 moving to BHG
+At BHG. Moving R
+Step 512 moving to CRN
+At CRN. Moving R
+Step 513 moving to TBN
+At TBN. Moving L
+Step 514 moving to SPT
+At SPT. Moving L
+Step 515 moving to KSK
+At KSK. Moving R
+Step 516 moving to VSD
+At VSD. Moving L
+Step 517 moving to SBB
+At SBB. Moving R
+Step 518 moving to PNB
+At PNB. Moving R
+Step 519 moving to DSS
+At DSS. Moving R
+Step 520 moving to TVR
+At TVR. Moving L
+Step 521 moving to LJN
+At LJN. Moving R
+Step 522 moving to NMN
+At NMN. Moving R
+Step 523 moving to NMR
+At NMR. Moving R
+Step 524 moving to XSC
+At XSC. Moving L
+Step 525 moving to CFX
+At CFX. Moving R
+Step 526 moving to MCL
+At MCL. Moving R
+Step 527 moving to QBR
+At QBR. Moving L
+Step 528 moving to QMN
+At QMN. Moving R
+Step 529 moving to PHF
+At PHF. Moving R
+Step 530 moving to MDT
+At MDT. Moving L
+Step 531 moving to RCH
+At RCH. Moving R
+Step 532 moving to GDS
+At GDS. Moving L
+Step 533 moving to PJT
+At PJT. Moving R
+Step 534 moving to QLT
+At QLT. Moving R
+Step 535 moving to XDP
+At XDP. Moving L
+Step 536 moving to JQX
+At JQX. Moving R
+Step 537 moving to JBK
+At JBK. Moving L
+Step 538 moving to BDH
+At BDH. Moving R
+Step 539 moving to RJR
+At RJR. Moving R
+Step 540 moving to DRK
+At DRK. Moving R
+Step 541 moving to NVJ
+At NVJ. Moving L
+Step 542 moving to BLM
+At BLM. Moving R
+Step 543 moving to TFT
+At TFT. Moving R
+Step 544 moving to SHP
+At SHP. Moving L
+Step 545 moving to SMM
+At SMM. Moving R
+Step 546 moving to TTK
+At TTK. Moving R
+Step 547 moving to FSH
+At FSH. Moving R
+Step 548 moving to FPX
+At FPX. Moving L
+Step 549 moving to BNR
+At BNR. Moving L
+Step 550 moving to DLB
+At DLB. Moving R
+Step 551 moving to FNP
+At FNP. Moving R
+Step 552 moving to QHF
+At QHF. Moving R
+Step 553 moving to FHL
+At FHL. Moving L
+Step 554 moving to SSL
+At SSL. Moving R
+Step 555 moving to KCF
+At KCF. Moving L
+Step 556 moving to MPD
+At MPD. Moving R
+Step 557 moving to BPL
+At BPL. Moving L
+Step 558 moving to QRS
+At QRS. Moving L
+Step 559 moving to RMC
+At RMC. Moving L
+Step 560 moving to QHM
+At QHM. Moving R
+Step 561 moving to GNP
+At GNP. Moving R
+Step 562 moving to TSS
+At TSS. Moving R
+Step 563 moving to HSR
+At HSR. Moving L
+Step 564 moving to DKT
+At DKT. Moving L
+Step 565 moving to HGH
+At HGH. Moving L
+Step 566 moving to QKX
+At QKX. Moving R
+Step 567 moving to QRP
+At QRP. Moving R
+Step 568 moving to JTL
+At JTL. Moving L
+Step 569 moving to QLS
+At QLS. Moving L
+Step 570 moving to TCX
+At TCX. Moving R
+Step 571 moving to MTH
+At MTH. Moving R
+Step 572 moving to KTL
+At KTL. Moving L
+Step 573 moving to PMJ
+At PMJ. Moving R
+Step 574 moving to PJV
+At PJV. Moving L
+Step 575 moving to SPT
+At SPT. Moving R
+Step 576 moving to KSK
+At KSK. Moving R
+Step 577 moving to VSD
+At VSD. Moving L
+Step 578 moving to SBB
+At SBB. Moving R
+Step 579 moving to PNB
+At PNB. Moving L
+Step 580 moving to PHG
+At PHG. Moving L
+Step 581 moving to FTJ
+At FTJ. Moving L
+Step 582 moving to LJN
+At LJN. Moving R
+Step 583 moving to NMN
+At NMN. Moving R
+Step 584 moving to NMR
+At NMR. Moving R
+Step 585 moving to XSC
+At XSC. Moving R
+Step 586 moving to DHF
+At DHF. Moving L
+Step 587 moving to BSJ
+At BSJ. Moving L
+Step 588 moving to QBR
+At QBR. Moving R
+Step 589 moving to XXH
+At XXH. Moving L
+Step 590 moving to PHF
+At PHF. Moving R
+Step 591 moving to MDT
+At MDT. Moving R
+Step 592 moving to CMR
+At CMR. Moving R
+Step 593 moving to GDS
+At GDS. Moving L
+Step 594 moving to PJT
+At PJT. Moving L
+Step 595 moving to TTC
+At TTC. Moving L
+Step 596 moving to HQL
+At HQL. Moving R
+Step 597 moving to SVH
+At SVH. Moving L
+Step 598 moving to SLR
+At SLR. Moving R
+Step 599 moving to QJC
+At QJC. Moving R
+Step 600 moving to CNX
+At CNX. Moving L
+Step 601 moving to CTN
+At CTN. Moving R
+Step 602 moving to DRS
+At DRS. Moving R
+Step 603 moving to BLM
+At BLM. Moving R
+Step 604 moving to TFT
+At TFT. Moving L
+Step 605 moving to XPK
+At XPK. Moving R
+Step 606 moving to SMM
+At SMM. Moving L
+Step 607 moving to KGR
+At KGR. Moving R
+Step 608 moving to FSH
+At FSH. Moving R
+Step 609 moving to FPX
+At FPX. Moving L
+Step 610 moving to BNR
+At BNR. Moving R
+Step 611 moving to QNM
+At QNM. Moving L
+Step 612 moving to DBX
+At DBX. Moving R
+Step 613 moving to QHF
+At QHF. Moving L
+Step 614 moving to GPM
+At GPM. Moving R
+Step 615 moving to SSL
+At SSL. Moving R
+Step 616 moving to KCF
+At KCF. Moving R
+Step 617 moving to BMK
+At BMK. Moving L
+Step 618 moving to JKH
+At JKH. Moving R
+Step 619 moving to PJB
+At PJB. Moving R
+Step 620 moving to RMC
+At RMC. Moving R
+Step 621 moving to PTR
+At PTR. Moving L
+Step 622 moving to KQD
+At KQD. Moving R
+Step 623 moving to KQX
+At KQX. Moving L
+Step 624 moving to HSR
+At HSR. Moving R
+Step 625 moving to GFK
+At GFK. Moving L
+Step 626 moving to GCL
+At GCL. Moving R
+Step 627 moving to KJP
+At KJP. Moving R
+Step 628 moving to QRP
+At QRP. Moving L
+Step 629 moving to CMS
+At CMS. Moving L
+Step 630 moving to QLS
+At QLS. Moving R
+Step 631 moving to BXB
+At BXB. Moving R
+Step 632 moving to KQT
+At KQT. Moving R
+Step 633 moving to KTL
+At KTL. Moving L
+Step 634 moving to PMJ
+At PMJ. Moving R
+Step 635 moving to PJV
+At PJV. Moving R
+Step 636 moving to SPT
+At SPT. Moving L
+Step 637 moving to KSK
+At KSK. Moving R
+Step 638 moving to VSD
+At VSD. Moving R
+Step 639 moving to GST
+At GST. Moving L
+Step 640 moving to PNB
+At PNB. Moving L
+Step 641 moving to PHG
+At PHG. Moving R
+Step 642 moving to TVR
+At TVR. Moving L
+Step 643 moving to LJN
+At LJN. Moving R
+Step 644 moving to NMN
+At NMN. Moving R
+Step 645 moving to NMR
+At NMR. Moving R
+Step 646 moving to XSC
+At XSC. Moving L
+Step 647 moving to CFX
+At CFX. Moving R
+Step 648 moving to MCL
+At MCL. Moving L
+Step 649 moving to DCV
+At DCV. Moving R
+Step 650 moving to QMN
+At QMN. Moving L
+Step 651 moving to JTR
+At JTR. Moving L
+Step 652 moving to MDT
+At MDT. Moving R
+Step 653 moving to CMR
+At CMR. Moving R
+Step 654 moving to GDS
+At GDS. Moving R
+Step 655 moving to DBD
+At DBD. Moving L
+Step 656 moving to QLT
+At QLT. Moving L
+Step 657 moving to HQL
+At HQL. Moving R
+Step 658 moving to SVH
+At SVH. Moving R
+Step 659 moving to JBK
+At JBK. Moving R
+Step 660 moving to QJC
+At QJC. Moving L
+Step 661 moving to RJR
+At RJR. Moving R
+Step 662 moving to DRK
+At DRK. Moving L
+Step 663 moving to DRS
+At DRS. Moving R
+Step 664 moving to BLM
+At BLM. Moving R
+Step 665 moving to TFT
+At TFT. Moving R
+Step 666 moving to SHP
+At SHP. Moving L
+Step 667 moving to SMM
+At SMM. Moving R
+Step 668 moving to TTK
+At TTK. Moving R
+Step 669 moving to FSH
+At FSH. Moving R
+Step 670 moving to FPX
+At FPX. Moving L
+Step 671 moving to BNR
+At BNR. Moving R
+Step 672 moving to QNM
+At QNM. Moving R
+Step 673 moving to FNP
+At FNP. Moving R
+Step 674 moving to QHF
+At QHF. Moving L
+Step 675 moving to GPM
+At GPM. Moving L
+Step 676 moving to PLN
+At PLN. Moving L
+Step 677 moving to LMM
+At LMM. Moving R
+Step 678 moving to BMK
+At BMK. Moving R
+Step 679 moving to BPL
+At BPL. Moving R
+Step 680 moving to PJB
+At PJB. Moving L
+Step 681 moving to VCJ
+At VCJ. Moving R
+Step 682 moving to PTR
+At PTR. Moving R
+Step 683 moving to GNP
+At GNP. Moving L
+Step 684 moving to KQX
+At KQX. Moving R
+Step 685 moving to LVT
+At LVT. Moving R
+Step 686 moving to GFK
+At GFK. Moving L
+Step 687 moving to GCL
+At GCL. Moving R
+Step 688 moving to KJP
+At KJP. Moving L
+Step 689 moving to XPM
+At XPM. Moving R
+Step 690 moving to CMS
+At CMS. Moving R
+Step 691 moving to XGR
+At XGR. Moving L
+Step 692 moving to BXB
+At BXB. Moving R
+Step 693 moving to KQT
+At KQT. Moving L
+Step 694 moving to BHG
+At BHG. Moving R
+Step 695 moving to CRN
+At CRN. Moving R
+Step 696 moving to TBN
+At TBN. Moving R
+Step 697 moving to JCV
+At JCV. Moving L
+Step 698 moving to KSK
+At KSK. Moving R
+Step 699 moving to VSD
+At VSD. Moving L
+Step 700 moving to SBB
+At SBB. Moving R
+Step 701 moving to PNB
+At PNB. Moving R
+Step 702 moving to DSS
+At DSS. Moving L
+Step 703 moving to FTJ
+At FTJ. Moving R
+Step 704 moving to QJV
+At QJV. Moving L
+Step 705 moving to HVQ
+At HVQ. Moving R
+Step 706 moving to DRN
+At DRN. Moving L
+Step 707 moving to XSC
+At XSC. Moving R
+Step 708 moving to DHF
+At DHF. Moving R
+Step 709 moving to MCL
+At MCL. Moving R
+Step 710 moving to QBR
+At QBR. Moving L
+Step 711 moving to QMN
+At QMN. Moving R
+Step 712 moving to PHF
+At PHF. Moving L
+Step 713 moving to LFL
+At LFL. Moving L
+Step 714 moving to CMR
+At CMR. Moving L
+Step 715 moving to JQM
+At JQM. Moving R
+Step 716 moving to PJT
+At PJT. Moving R
+Step 717 moving to QLT
+At QLT. Moving R
+Step 718 moving to XDP
+At XDP. Moving L
+Step 719 moving to JQX
+At JQX. Moving L
+Step 720 moving to SLR
+At SLR. Moving L
+Step 721 moving to BDH
+At BDH. Moving R
+Step 722 moving to RJR
+At RJR. Moving L
+Step 723 moving to CTN
+At CTN. Moving R
+Step 724 moving to DRS
+At DRS. Moving R
+Step 725 moving to BLM
+At BLM. Moving R
+Step 726 moving to TFT
+At TFT. Moving L
+Step 727 moving to XPK
+At XPK. Moving R
+Step 728 moving to SMM
+At SMM. Moving L
+Step 729 moving to KGR
+At KGR. Moving R
+Step 730 moving to FSH
+At FSH. Moving R
+Step 731 moving to FPX
+At FPX. Moving L
+Step 732 moving to BNR
+At BNR. Moving R
+Step 733 moving to QNM
+At QNM. Moving L
+Step 734 moving to DBX
+At DBX. Moving R
+Step 735 moving to QHF
+At QHF. Moving L
+Step 736 moving to GPM
+At GPM. Moving R
+Step 737 moving to SSL
+At SSL. Moving L
+Step 738 moving to LMM
+At LMM. Moving R
+Step 739 moving to BMK
+At BMK. Moving R
+Step 740 moving to BPL
+At BPL. Moving L
+Step 741 moving to QRS
+At QRS. Moving R
+Step 742 moving to VCJ
+At VCJ. Moving R
+Step 743 moving to PTR
+At PTR. Moving L
+Step 744 moving to KQD
+At KQD. Moving R
+Step 745 moving to KQX
+At KQX. Moving R
+Step 746 moving to LVT
+At LVT. Moving L
+Step 747 moving to DKT
+At DKT. Moving R
+Step 748 moving to GCL
+At GCL. Moving L
+Step 749 moving to QKX
+At QKX. Moving R
+Step 750 moving to QRP
+At QRP. Moving R
+Step 751 moving to JTL
+At JTL. Moving R
+Step 752 moving to XGR
+At XGR. Moving L
+Step 753 moving to BXB
+At BXB. Moving R
+Step 754 moving to KQT
+At KQT. Moving R
+Step 755 moving to KTL
+At KTL. Moving R
+Step 756 moving to CRN
+At CRN. Moving L
+Step 757 moving to PJV
+At PJV. Moving R
+Step 758 moving to SPT
+At SPT. Moving R
+Step 759 moving to KSK
+At KSK. Moving L
+Step 760 moving to TFQ
+At TFQ. Moving R
+Step 761 moving to SBB
+At SBB. Moving R
+Step 762 moving to PNB
+At PNB. Moving R
+Step 763 moving to DSS
+At DSS. Moving L
+Step 764 moving to FTJ
+At FTJ. Moving R
+Step 765 moving to QJV
+At QJV. Moving R
+Step 766 moving to NMN
+At NMN. Moving L
+Step 767 moving to DRN
+At DRN. Moving R
+Step 768 moving to RRL
+At RRL. Moving R
+Step 769 moving to CFX
+At CFX. Moving L
+Step 770 moving to BSJ
+At BSJ. Moving R
+Step 771 moving to DCV
+At DCV. Moving R
+Step 772 moving to QMN
+At QMN. Moving R
+Step 773 moving to PHF
+At PHF. Moving L
+Step 774 moving to LFL
+At LFL. Moving L
+Step 775 moving to CMR
+At CMR. Moving R
+Step 776 moving to GDS
+At GDS. Moving L
+Step 777 moving to PJT
+At PJT. Moving R
+Step 778 moving to QLT
+At QLT. Moving R
+Step 779 moving to XDP
+At XDP. Moving L
+Step 780 moving to JQX
+At JQX. Moving L
+Step 781 moving to SLR
+At SLR. Moving L
+Step 782 moving to BDH
+At BDH. Moving R
+Step 783 moving to RJR
+At RJR. Moving R
+Step 784 moving to DRK
+At DRK. Moving L
+Step 785 moving to DRS
+At DRS. Moving R
+Step 786 moving to BLM
+At BLM. Moving R
+Step 787 moving to TFT
+At TFT. Moving L
+Step 788 moving to XPK
+At XPK. Moving R
+Step 789 moving to SMM
+At SMM. Moving L
+Step 790 moving to KGR
+At KGR. Moving R
+Step 791 moving to FSH
+At FSH. Moving L
+Step 792 moving to QSB
+At QSB. Moving L
+Step 793 moving to BNR
+At BNR. Moving L
+Step 794 moving to DLB
+At DLB. Moving R
+Step 795 moving to FNP
+At FNP. Moving R
+Step 796 moving to QHF
+At QHF. Moving L
+Step 797 moving to GPM
+At GPM. Moving R
+Step 798 moving to SSL
+At SSL. Moving R
+Step 799 moving to KCF
+At KCF. Moving L
+Step 800 moving to MPD
+At MPD. Moving R
+Step 801 moving to BPL
+At BPL. Moving R
+Step 802 moving to PJB
+At PJB. Moving R
+Step 803 moving to RMC
+At RMC. Moving L
+Step 804 moving to QHM
+At QHM. Moving R
+Step 805 moving to GNP
+At GNP. Moving R
+Step 806 moving to TSS
+At TSS. Moving L
+Step 807 moving to LVT
+At LVT. Moving L
+Step 808 moving to DKT
+At DKT. Moving R
+Step 809 moving to GCL
+At GCL. Moving L
+Step 810 moving to QKX
+At QKX. Moving R
+Step 811 moving to QRP
+At QRP. Moving R
+Step 812 moving to JTL
+At JTL. Moving R
+Step 813 moving to XGR
+At XGR. Moving L
+Step 814 moving to BXB
+At BXB. Moving R
+Step 815 moving to KQT
+At KQT. Moving R
+Step 816 moving to KTL
+At KTL. Moving R
+Step 817 moving to CRN
+At CRN. Moving L
+Step 818 moving to PJV
+At PJV. Moving R
+Step 819 moving to SPT
+At SPT. Moving R
+Step 820 moving to KSK
+At KSK. Moving L
+Step 821 moving to TFQ
+At TFQ. Moving R
+Step 822 moving to SBB
+At SBB. Moving R
+Step 823 moving to PNB
+At PNB. Moving L
+Step 824 moving to PHG
+At PHG. Moving R
+Step 825 moving to TVR
+At TVR. Moving L
+Step 826 moving to LJN
+At LJN. Moving R
+Step 827 moving to NMN
+At NMN. Moving R
+Step 828 moving to NMR
+At NMR. Moving L
+Step 829 moving to RRL
+At RRL. Moving R
+Step 830 moving to CFX
+At CFX. Moving L
+Step 831 moving to BSJ
+At BSJ. Moving R
+Step 832 moving to DCV
+At DCV. Moving R
+Step 833 moving to QMN
+At QMN. Moving R
+Step 834 moving to PHF
+At PHF. Moving L
+Step 835 moving to LFL
+At LFL. Moving R
+Step 836 moving to RCH
+At RCH. Moving R
+Step 837 moving to GDS
+At GDS. Moving L
+Step 838 moving to PJT
+At PJT. Moving R
+Step 839 moving to QLT
+At QLT. Moving R
+Step 840 moving to XDP
+At XDP. Moving R
+Step 841 moving to SVH
+At SVH. Moving L
+Step 842 moving to SLR
+At SLR. Moving L
+Step 843 moving to BDH
+At BDH. Moving R
+Step 844 moving to RJR
+At RJR. Moving R
+Step 845 moving to DRK
+At DRK. Moving R
+Step 846 moving to NVJ
+At NVJ. Moving L
+Step 847 moving to BLM
+At BLM. Moving R
+Step 848 moving to TFT
+At TFT. Moving L
+Step 849 moving to XPK
+At XPK. Moving R
+Step 850 moving to SMM
+At SMM. Moving L
+Step 851 moving to KGR
+At KGR. Moving L
+Step 852 moving to VQQ
+At VQQ. Moving L
+Step 853 moving to QSB
+At QSB. Moving R
+Step 854 moving to RSG
+At RSG. Moving R
+Step 855 moving to QNM
+At QNM. Moving R
+Step 856 moving to FNP
+At FNP. Moving L
+Step 857 moving to DHB
+At DHB. Moving L
+Step 858 moving to FHL
+At FHL. Moving L
+Step 859 moving to SSL
+At SSL. Moving R
+Step 860 moving to KCF
+At KCF. Moving R
+Step 861 moving to BMK
+At BMK. Moving L
+Step 862 moving to JKH
+At JKH. Moving L
+Step 863 moving to QRS
+At QRS. Moving R
+Step 864 moving to VCJ
+At VCJ. Moving R
+Step 865 moving to PTR
+At PTR. Moving L
+Step 866 moving to KQD
+At KQD. Moving R
+Step 867 moving to KQX
+At KQX. Moving L
+Step 868 moving to HSR
+At HSR. Moving R
+Step 869 moving to GFK
+At GFK. Moving R
+Step 870 moving to HGH
+At HGH. Moving L
+Step 871 moving to QKX
+At QKX. Moving R
+Step 872 moving to QRP
+At QRP. Moving L
+Step 873 moving to CMS
+At CMS. Moving L
+Step 874 moving to QLS
+At QLS. Moving L
+Step 875 moving to TCX
+At TCX. Moving R
+Step 876 moving to MTH
+At MTH. Moving R
+Step 877 moving to KTL
+At KTL. Moving R
+Step 878 moving to CRN
+At CRN. Moving R
+Step 879 moving to TBN
+At TBN. Moving L
+Step 880 moving to SPT
+At SPT. Moving L
+Step 881 moving to KSK
+At KSK. Moving R
+Step 882 moving to VSD
+At VSD. Moving L
+Step 883 moving to SBB
+At SBB. Moving R
+Step 884 moving to PNB
+At PNB. Moving R
+Step 885 moving to DSS
+At DSS. Moving R
+Step 886 moving to TVR
+At TVR. Moving L
+Step 887 moving to LJN
+At LJN. Moving L
+Step 888 moving to HVQ
+At HVQ. Moving L
+Step 889 moving to NMR
+At NMR. Moving R
+Step 890 moving to XSC
+At XSC. Moving L
+Step 891 moving to CFX
+At CFX. Moving R
+Step 892 moving to MCL
+At MCL. Moving R
+Step 893 moving to QBR
+At QBR. Moving L
+Step 894 moving to QMN
+At QMN. Moving R
+Step 895 moving to PHF
+At PHF. Moving R
+Step 896 moving to MDT
+At MDT. Moving R
+Step 897 moving to CMR
+At CMR. Moving L
+Step 898 moving to JQM
+At JQM. Moving R
+Step 899 moving to PJT
+At PJT. Moving L
+Step 900 moving to TTC
+At TTC. Moving R
+Step 901 moving to XDP
+At XDP. Moving R
+Step 902 moving to SVH
+At SVH. Moving L
+Step 903 moving to SLR
+At SLR. Moving R
+Step 904 moving to QJC
+At QJC. Moving L
+Step 905 moving to RJR
+At RJR. Moving R
+Step 906 moving to DRK
+At DRK. Moving L
+Step 907 moving to DRS
+At DRS. Moving R
+Step 908 moving to BLM
+At BLM. Moving R
+Step 909 moving to TFT
+At TFT. Moving R
+Step 910 moving to SHP
+At SHP. Moving L
+Step 911 moving to SMM
+At SMM. Moving R
+Step 912 moving to TTK
+At TTK. Moving R
+Step 913 moving to FSH
+At FSH. Moving R
+Step 914 moving to FPX
+At FPX. Moving L
+Step 915 moving to BNR
+At BNR. Moving R
+Step 916 moving to QNM
+At QNM. Moving L
+Step 917 moving to DBX
+At DBX. Moving R
+Step 918 moving to QHF
+At QHF. Moving L
+Step 919 moving to GPM
+At GPM. Moving R
+Step 920 moving to SSL
+At SSL. Moving R
+Step 921 moving to KCF
+At KCF. Moving L
+Step 922 moving to MPD
+At MPD. Moving L
+Step 923 moving to JKH
+At JKH. Moving R
+Step 924 moving to PJB
+At PJB. Moving R
+Step 925 moving to RMC
+At RMC. Moving R
+Step 926 moving to PTR
+At PTR. Moving L
+Step 927 moving to KQD
+At KQD. Moving R
+Step 928 moving to KQX
+At KQX. Moving R
+Step 929 moving to LVT
+At LVT. Moving L
+Step 930 moving to DKT
+At DKT. Moving R
+Step 931 moving to GCL
+At GCL. Moving R
+Step 932 moving to KJP
+At KJP. Moving L
+Step 933 moving to XPM
+At XPM. Moving L
+Step 934 moving to JTL
+At JTL. Moving R
+Step 935 moving to XGR
+At XGR. Moving L
+Step 936 moving to BXB
+At BXB. Moving R
+Step 937 moving to KQT
+At KQT. Moving R
+Step 938 moving to KTL
+At KTL. Moving R
+Step 939 moving to CRN
+At CRN. Moving L
+Step 940 moving to PJV
+At PJV. Moving R
+Step 941 moving to SPT
+At SPT. Moving L
+Step 942 moving to KSK
+At KSK. Moving R
+Step 943 moving to VSD
+At VSD. Moving L
+Step 944 moving to SBB
+At SBB. Moving L
+Step 945 moving to DVN
+At DVN. Moving R
+Step 946 moving to DSS
+At DSS. Moving R
+Step 947 moving to TVR
+At TVR. Moving R
+Step 948 moving to QJV
+At QJV. Moving L
+Step 949 moving to HVQ
+At HVQ. Moving L
+Step 950 moving to NMR
+At NMR. Moving R
+Step 951 moving to XSC
+At XSC. Moving R
+Step 952 moving to DHF
+At DHF. Moving R
+Step 953 moving to MCL
+At MCL. Moving L
+Step 954 moving to DCV
+At DCV. Moving R
+Step 955 moving to QMN
+At QMN. Moving L
+Step 956 moving to JTR
+At JTR. Moving R
+Step 957 moving to LFL
+At LFL. Moving R
+Step 958 moving to RCH
+At RCH. Moving R
+Step 959 moving to GDS
+At GDS. Moving L
+Step 960 moving to PJT
+At PJT. Moving R
+Step 961 moving to QLT
+At QLT. Moving R
+Step 962 moving to XDP
+At XDP. Moving R
+Step 963 moving to SVH
+At SVH. Moving L
+Step 964 moving to SLR
+At SLR. Moving R
+Step 965 moving to QJC
+At QJC. Moving R
+Step 966 moving to CNX
+At CNX. Moving R
+Step 967 moving to DRK
+At DRK. Moving L
+Step 968 moving to DRS
+At DRS. Moving L
+Step 969 moving to DPN
+At DPN. Moving L
+Step 970 moving to TFT
+At TFT. Moving R
+Step 971 moving to SHP
+At SHP. Moving R
+Step 972 moving to SSN
+At SSN. Moving R
+Step 973 moving to TTK
+At TTK. Moving L
+Step 974 moving to VQQ
+At VQQ. Moving R
+Step 975 moving to FPX
+At FPX. Moving R
+Step 976 moving to RSG
+At RSG. Moving L
+Step 977 moving to DLB
+At DLB. Moving R
+Step 978 moving to FNP
+At FNP. Moving R
+Step 979 moving to QHF
+At QHF. Moving L
+Step 980 moving to GPM
+At GPM. Moving R
+Step 981 moving to SSL
+At SSL. Moving L
+Step 982 moving to LMM
+At LMM. Moving R
+Step 983 moving to BMK
+At BMK. Moving R
+Step 984 moving to BPL
+At BPL. Moving L
+Step 985 moving to QRS
+At QRS. Moving R
+Step 986 moving to VCJ
+At VCJ. Moving L
+Step 987 moving to QHM
+At QHM. Moving R
+Step 988 moving to GNP
+At GNP. Moving R
+Step 989 moving to TSS
+At TSS. Moving R
+Step 990 moving to HSR
+At HSR. Moving L
+Step 991 moving to DKT
+At DKT. Moving R
+Step 992 moving to GCL
+At GCL. Moving L
+Step 993 moving to QKX
+At QKX. Moving R
+Step 994 moving to QRP
+At QRP. Moving R
+Step 995 moving to JTL
+At JTL. Moving L
+Step 996 moving to QLS
+At QLS. Moving R
+Step 997 moving to BXB
+At BXB. Moving L
+Step 998 moving to MTH
+At MTH. Moving R
+Step 999 moving to KTL
+At KTL. Moving L
+Step 1000 moving to PMJ
+At PMJ. Moving R
+Step 1001 moving to PJV
+At PJV. Moving R
+Step 1002 moving to SPT
+At SPT. Moving R
+Step 1003 moving to KSK
+At KSK. Moving L
+Step 1004 moving to TFQ
+At TFQ. Moving R
+Step 1005 moving to SBB
+At SBB. Moving L
+Step 1006 moving to DVN
+At DVN. Moving L
+Step 1007 moving to PHG
+At PHG. Moving L
+Step 1008 moving to FTJ
+At FTJ. Moving R
+Step 1009 moving to QJV
+At QJV. Moving R
+Step 1010 moving to NMN
+At NMN. Moving R
+Step 1011 moving to NMR
+At NMR. Moving L
+Step 1012 moving to RRL
+At RRL. Moving L
+Step 1013 moving to DHF
+At DHF. Moving L
+Step 1014 moving to BSJ
+At BSJ. Moving R
+Step 1015 moving to DCV
+At DCV. Moving L
+Step 1016 moving to XXH
+At XXH. Moving R
+Step 1017 moving to JTR
+At JTR. Moving R
+Step 1018 moving to LFL
+At LFL. Moving R
+Step 1019 moving to RCH
+At RCH. Moving L
+Step 1020 moving to JQM
+At JQM. Moving R
+Step 1021 moving to PJT
+At PJT. Moving L
+Step 1022 moving to TTC
+At TTC. Moving R
+Step 1023 moving to XDP
+At XDP. Moving R
+Step 1024 moving to SVH
+At SVH. Moving L
+Step 1025 moving to SLR
+At SLR. Moving R
+Step 1026 moving to QJC
+At QJC. Moving L
+Step 1027 moving to RJR
+At RJR. Moving R
+Step 1028 moving to DRK
+At DRK. Moving L
+Step 1029 moving to DRS
+At DRS. Moving R
+Step 1030 moving to BLM
+At BLM. Moving L
+Step 1031 moving to LGT
+At LGT. Moving R
+Step 1032 moving to SHP
+At SHP. Moving R
+Step 1033 moving to SSN
+At SSN. Moving L
+Step 1034 moving to KGR
+At KGR. Moving R
+Step 1035 moving to FSH
+At FSH. Moving R
+Step 1036 moving to FPX
+At FPX. Moving L
+Step 1037 moving to BNR
+At BNR. Moving R
+Step 1038 moving to QNM
+At QNM. Moving R
+Step 1039 moving to FNP
+At FNP. Moving L
+Step 1040 moving to DHB
+At DHB. Moving R
+Step 1041 moving to GPM
+At GPM. Moving L
+Step 1042 moving to PLN
+At PLN. Moving R
+Step 1043 moving to KCF
+At KCF. Moving R
+Step 1044 moving to BMK
+At BMK. Moving R
+Step 1045 moving to BPL
+At BPL. Moving L
+Step 1046 moving to QRS
+At QRS. Moving R
+Step 1047 moving to VCJ
+At VCJ. Moving R
+Step 1048 moving to PTR
+At PTR. Moving R
+Step 1049 moving to GNP
+At GNP. Moving L
+Step 1050 moving to KQX
+At KQX. Moving R
+Step 1051 moving to LVT
+At LVT. Moving R
+Step 1052 moving to GFK
+At GFK. Moving L
+Step 1053 moving to GCL
+At GCL. Moving R
+Step 1054 moving to KJP
+At KJP. Moving R
+Step 1055 moving to QRP
+At QRP. Moving R
+Step 1056 moving to JTL
+At JTL. Moving L
+Step 1057 moving to QLS
+At QLS. Moving R
+Step 1058 moving to BXB
+At BXB. Moving R
+Step 1059 moving to KQT
+At KQT. Moving L
+Step 1060 moving to BHG
+At BHG. Moving R
+Step 1061 moving to CRN
+At CRN. Moving R
+Step 1062 moving to TBN
+At TBN. Moving L
+Step 1063 moving to SPT
+At SPT. Moving R
+Step 1064 moving to KSK
+At KSK. Moving R
+Step 1065 moving to VSD
+At VSD. Moving R
+Step 1066 moving to GST
+At GST. Moving L
+Step 1067 moving to PNB
+At PNB. Moving L
+Step 1068 moving to PHG
+At PHG. Moving R
+Step 1069 moving to TVR
+At TVR. Moving L
+Step 1070 moving to LJN
+At LJN. Moving R
+Step 1071 moving to NMN
+At NMN. Moving R
+Step 1072 moving to NMR
+At NMR. Moving L
+Step 1073 moving to RRL
+At RRL. Moving L
+Step 1074 moving to DHF
+At DHF. Moving L
+Step 1075 moving to BSJ
+At BSJ. Moving R
+Step 1076 moving to DCV
+At DCV. Moving R
+Step 1077 moving to QMN
+At QMN. Moving L
+Step 1078 moving to JTR
+At JTR. Moving R
+Step 1079 moving to LFL
+At LFL. Moving R
+Step 1080 moving to RCH
+At RCH. Moving L
+Step 1081 moving to JQM
+At JQM. Moving R
+Step 1082 moving to PJT
+At PJT. Moving L
+Step 1083 moving to TTC
+At TTC. Moving R
+Step 1084 moving to XDP
+At XDP. Moving L
+Step 1085 moving to JQX
+At JQX. Moving L
+Step 1086 moving to SLR
+At SLR. Moving L
+Step 1087 moving to BDH
+At BDH. Moving R
+Step 1088 moving to RJR
+At RJR. Moving R
+Step 1089 moving to DRK
+At DRK. Moving L
+Step 1090 moving to DRS
+At DRS. Moving R
+Step 1091 moving to BLM
+At BLM. Moving R
+Step 1092 moving to TFT
+At TFT. Moving L
+Step 1093 moving to XPK
+At XPK. Moving R
+Step 1094 moving to SMM
+At SMM. Moving R
+Step 1095 moving to TTK
+At TTK. Moving R
+Step 1096 moving to FSH
+At FSH. Moving L
+Step 1097 moving to QSB
+At QSB. Moving R
+Step 1098 moving to RSG
+At RSG. Moving R
+Step 1099 moving to QNM
+At QNM. Moving L
+Step 1100 moving to DBX
+At DBX. Moving L
+Step 1101 moving to DHB
+At DHB. Moving R
+Step 1102 moving to GPM
+At GPM. Moving L
+Step 1103 moving to PLN
+At PLN. Moving R
+Step 1104 moving to KCF
+At KCF. Moving R
+Step 1105 moving to BMK
+At BMK. Moving R
+Step 1106 moving to BPL
+At BPL. Moving L
+Step 1107 moving to QRS
+At QRS. Moving R
+Step 1108 moving to VCJ
+At VCJ. Moving R
+Step 1109 moving to PTR
+At PTR. Moving R
+Step 1110 moving to GNP
+At GNP. Moving L
+Step 1111 moving to KQX
+At KQX. Moving R
+Step 1112 moving to LVT
+At LVT. Moving R
+Step 1113 moving to GFK
+At GFK. Moving L
+Step 1114 moving to GCL
+At GCL. Moving R
+Step 1115 moving to KJP
+At KJP. Moving R
+Step 1116 moving to QRP
+At QRP. Moving L
+Step 1117 moving to CMS
+At CMS. Moving R
+Step 1118 moving to XGR
+At XGR. Moving L
+Step 1119 moving to BXB
+At BXB. Moving R
+Step 1120 moving to KQT
+At KQT. Moving R
+Step 1121 moving to KTL
+At KTL. Moving L
+Step 1122 moving to PMJ
+At PMJ. Moving R
+Step 1123 moving to PJV
+At PJV. Moving L
+Step 1124 moving to SPT
+At SPT. Moving R
+Step 1125 moving to KSK
+At KSK. Moving R
+Step 1126 moving to VSD
+At VSD. Moving R
+Step 1127 moving to GST
+At GST. Moving L
+Step 1128 moving to PNB
+At PNB. Moving R
+Step 1129 moving to DSS
+At DSS. Moving R
+Step 1130 moving to TVR
+At TVR. Moving L
+Step 1131 moving to LJN
+At LJN. Moving R
+Step 1132 moving to NMN
+At NMN. Moving R
+Step 1133 moving to NMR
+At NMR. Moving R
+Step 1134 moving to XSC
+At XSC. Moving L
+Step 1135 moving to CFX
+At CFX. Moving L
+Step 1136 moving to BSJ
+At BSJ. Moving R
+Step 1137 moving to DCV
+At DCV. Moving R
+Step 1138 moving to QMN
+At QMN. Moving R
+Step 1139 moving to PHF
+At PHF. Moving L
+Step 1140 moving to LFL
+At LFL. Moving R
+Step 1141 moving to RCH
+At RCH. Moving L
+Step 1142 moving to JQM
+At JQM. Moving R
+Step 1143 moving to PJT
+At PJT. Moving L
+Step 1144 moving to TTC
+At TTC. Moving L
+Step 1145 moving to HQL
+At HQL. Moving L
+Step 1146 moving to JQX
+At JQX. Moving R
+Step 1147 moving to JBK
+At JBK. Moving R
+Step 1148 moving to QJC
+At QJC. Moving R
+Step 1149 moving to CNX
+At CNX. Moving L
+Step 1150 moving to CTN
+At CTN. Moving L
+Step 1151 moving to NVJ
+At NVJ. Moving L
+Step 1152 moving to BLM
+At BLM. Moving R
+Step 1153 moving to TFT
+At TFT. Moving R
+Step 1154 moving to SHP
+At SHP. Moving L
+Step 1155 moving to SMM
+At SMM. Moving L
+Step 1156 moving to KGR
+At KGR. Moving R
+Step 1157 moving to FSH
+At FSH. Moving R
+Step 1158 moving to FPX
+At FPX. Moving L
+Step 1159 moving to BNR
+At BNR. Moving R
+Step 1160 moving to QNM
+At QNM. Moving L
+Step 1161 moving to DBX
+At DBX. Moving R
+Step 1162 moving to QHF
+At QHF. Moving R
+Step 1163 moving to FHL
+At FHL. Moving L
+Step 1164 moving to SSL
+At SSL. Moving R
+Step 1165 moving to KCF
+At KCF. Moving L
+Step 1166 moving to MPD
+At MPD. Moving L
+Step 1167 moving to JKH
+At JKH. Moving L
+Step 1168 moving to QRS
+At QRS. Moving R
+Step 1169 moving to VCJ
+At VCJ. Moving R
+Step 1170 moving to PTR
+At PTR. Moving R
+Step 1171 moving to GNP
+At GNP. Moving R
+Step 1172 moving to TSS
+At TSS. Moving L
+Step 1173 moving to LVT
+At LVT. Moving L
+Step 1174 moving to DKT
+At DKT. Moving R
+Step 1175 moving to GCL
+At GCL. Moving L
+Step 1176 moving to QKX
+At QKX. Moving R
+Step 1177 moving to QRP
+At QRP. Moving R
+Step 1178 moving to JTL
+At JTL. Moving R
+Step 1179 moving to XGR
+At XGR. Moving L
+Step 1180 moving to BXB
+At BXB. Moving L
+Step 1181 moving to MTH
+At MTH. Moving L
+Step 1182 moving to BHG
+At BHG. Moving R
+Step 1183 moving to CRN
+At CRN. Moving L
+Step 1184 moving to PJV
+At PJV. Moving R
+Step 1185 moving to SPT
+At SPT. Moving R
+Step 1186 moving to KSK
+At KSK. Moving L
+Step 1187 moving to TFQ
+At TFQ. Moving R
+Step 1188 moving to SBB
+At SBB. Moving R
+Step 1189 moving to PNB
+At PNB. Moving R
+Step 1190 moving to DSS
+At DSS. Moving L
+Step 1191 moving to FTJ
+At FTJ. Moving R
+Step 1192 moving to QJV
+At QJV. Moving L
+Step 1193 moving to HVQ
+At HVQ. Moving R
+Step 1194 moving to DRN
+At DRN. Moving R
+Step 1195 moving to RRL
+At RRL. Moving L
+Step 1196 moving to DHF
+At DHF. Moving R
+Step 1197 moving to MCL
+At MCL. Moving L
+Step 1198 moving to DCV
+At DCV. Moving R
+Step 1199 moving to QMN
+At QMN. Moving L
+Step 1200 moving to JTR
+At JTR. Moving R
+Step 1201 moving to LFL
+At LFL. Moving R
+Step 1202 moving to RCH
+At RCH. Moving R
+Step 1203 moving to GDS
+At GDS. Moving L
+Step 1204 moving to PJT
+At PJT. Moving R
+Step 1205 moving to QLT
+At QLT. Moving R
+Step 1206 moving to XDP
+At XDP. Moving R
+Step 1207 moving to SVH
+At SVH. Moving L
+Step 1208 moving to SLR
+At SLR. Moving R
+Step 1209 moving to QJC
+At QJC. Moving L
+Step 1210 moving to RJR
+At RJR. Moving R
+Step 1211 moving to DRK
+At DRK. Moving L
+Step 1212 moving to DRS
+At DRS. Moving R
+Step 1213 moving to BLM
+At BLM. Moving R
+Step 1214 moving to TFT
+At TFT. Moving L
+Step 1215 moving to XPK
+At XPK. Moving L
+Step 1216 moving to SSN
+At SSN. Moving R
+Step 1217 moving to TTK
+At TTK. Moving R
+Step 1218 moving to FSH
+At FSH. Moving R
+Step 1219 moving to FPX
+At FPX. Moving L
+Step 1220 moving to BNR
+At BNR. Moving R
+Step 1221 moving to QNM
+At QNM. Moving R
+Step 1222 moving to FNP
+At FNP. Moving L
+Step 1223 moving to DHB
+At DHB. Moving R
+Step 1224 moving to GPM
+At GPM. Moving R
+Step 1225 moving to SSL
+At SSL. Moving L
+Step 1226 moving to LMM
+At LMM. Moving L
+Step 1227 moving to MPD
+At MPD. Moving R
+Step 1228 moving to BPL
+At BPL. Moving L
+Step 1229 moving to QRS
+At QRS. Moving R
+Step 1230 moving to VCJ
+At VCJ. Moving R
+Step 1231 moving to PTR
+At PTR. Moving R
+Step 1232 moving to GNP
+At GNP. Moving L
+Step 1233 moving to KQX
+At KQX. Moving R
+Step 1234 moving to LVT
+At LVT. Moving L
+Step 1235 moving to DKT
+At DKT. Moving R
+Step 1236 moving to GCL
+At GCL. Moving L
+Step 1237 moving to QKX
+At QKX. Moving L
+Step 1238 moving to XPM
+At XPM. Moving R
+Step 1239 moving to CMS
+At CMS. Moving R
+Step 1240 moving to XGR
+At XGR. Moving R
+Step 1241 moving to TCX
+At TCX. Moving L
+Step 1242 moving to KQT
+At KQT. Moving L
+Step 1243 moving to BHG
+At BHG. Moving R
+Step 1244 moving to CRN
+At CRN. Moving R
+Step 1245 moving to TBN
+At TBN. Moving R
+Step 1246 moving to JCV
+At JCV. Moving L
+Step 1247 moving to KSK
+At KSK. Moving R
+Step 1248 moving to VSD
+At VSD. Moving L
+Step 1249 moving to SBB
+At SBB. Moving R
+Step 1250 moving to PNB
+At PNB. Moving R
+Step 1251 moving to DSS
+At DSS. Moving R
+Step 1252 moving to TVR
+At TVR. Moving L
+Step 1253 moving to LJN
+At LJN. Moving R
+Step 1254 moving to NMN
+At NMN. Moving R
+Step 1255 moving to NMR
+At NMR. Moving R
+Step 1256 moving to XSC
+At XSC. Moving L
+Step 1257 moving to CFX
+At CFX. Moving R
+Step 1258 moving to MCL
+At MCL. Moving R
+Step 1259 moving to QBR
+At QBR. Moving R
+Step 1260 moving to XXH
+At XXH. Moving L
+Step 1261 moving to PHF
+At PHF. Moving L
+Step 1262 moving to LFL
+At LFL. Moving L
+Step 1263 moving to CMR
+At CMR. Moving R
+Step 1264 moving to GDS
+At GDS. Moving R
+Step 1265 moving to DBD
+At DBD. Moving R
+Step 1266 moving to TTC
+At TTC. Moving L
+Step 1267 moving to HQL
+At HQL. Moving R
+Step 1268 moving to SVH
+At SVH. Moving R
+Step 1269 moving to JBK
+At JBK. Moving L
+Step 1270 moving to BDH
+At BDH. Moving R
+Step 1271 moving to RJR
+At RJR. Moving R
+Step 1272 moving to DRK
+At DRK. Moving L
+Step 1273 moving to DRS
+At DRS. Moving R
+Step 1274 moving to BLM
+At BLM. Moving L
+Step 1275 moving to LGT
+At LGT. Moving R
+Step 1276 moving to SHP
+At SHP. Moving R
+Step 1277 moving to SSN
+At SSN. Moving L
+Step 1278 moving to KGR
+At KGR. Moving R
+Step 1279 moving to FSH
+At FSH. Moving L
+Step 1280 moving to QSB
+At QSB. Moving R
+Step 1281 moving to RSG
+At RSG. Moving R
+Step 1282 moving to QNM
+At QNM. Moving R
+Step 1283 moving to FNP
+At FNP. Moving L
+Step 1284 moving to DHB
+At DHB. Moving R
+Step 1285 moving to GPM
+At GPM. Moving L
+Step 1286 moving to PLN
+At PLN. Moving R
+Step 1287 moving to KCF
+At KCF. Moving R
+Step 1288 moving to BMK
+At BMK. Moving L
+Step 1289 moving to JKH
+At JKH. Moving R
+Step 1290 moving to PJB
+At PJB. Moving L
+Step 1291 moving to VCJ
+At VCJ. Moving R
+Step 1292 moving to PTR
+At PTR. Moving L
+Step 1293 moving to KQD
+At KQD. Moving R
+Step 1294 moving to KQX
+At KQX. Moving R
+Step 1295 moving to LVT
+At LVT. Moving R
+Step 1296 moving to GFK
+At GFK. Moving L
+Step 1297 moving to GCL
+At GCL. Moving R
+Step 1298 moving to KJP
+At KJP. Moving L
+Step 1299 moving to XPM
+At XPM. Moving L
+Step 1300 moving to JTL
+At JTL. Moving L
+Step 1301 moving to QLS
+At QLS. Moving R
+Step 1302 moving to BXB
+At BXB. Moving R
+Step 1303 moving to KQT
+At KQT. Moving R
+Step 1304 moving to KTL
+At KTL. Moving L
+Step 1305 moving to PMJ
+At PMJ. Moving L
+Step 1306 moving to PJV
+At PJV. Moving L
+Step 1307 moving to SPT
+At SPT. Moving R
+Step 1308 moving to KSK
+At KSK. Moving L
+Step 1309 moving to TFQ
+At TFQ. Moving R
+Step 1310 moving to SBB
+At SBB. Moving R
+Step 1311 moving to PNB
+At PNB. Moving R
+Step 1312 moving to DSS
+At DSS. Moving L
+Step 1313 moving to FTJ
+At FTJ. Moving R
+Step 1314 moving to QJV
+At QJV. Moving L
+Step 1315 moving to HVQ
+At HVQ. Moving R
+Step 1316 moving to DRN
+At DRN. Moving R
+Step 1317 moving to RRL
+At RRL. Moving L
+Step 1318 moving to DHF
+At DHF. Moving R
+Step 1319 moving to MCL
+At MCL. Moving L
+Step 1320 moving to DCV
+At DCV. Moving R
+Step 1321 moving to QMN
+At QMN. Moving L
+Step 1322 moving to JTR
+At JTR. Moving R
+Step 1323 moving to LFL
+At LFL. Moving L
+Step 1324 moving to CMR
+At CMR. Moving R
+Step 1325 moving to GDS
+At GDS. Moving R
+Step 1326 moving to DBD
+At DBD. Moving L
+Step 1327 moving to QLT
+At QLT. Moving R
+Step 1328 moving to XDP
+At XDP. Moving R
+Step 1329 moving to SVH
+At SVH. Moving L
+Step 1330 moving to SLR
+At SLR. Moving R
+Step 1331 moving to QJC
+At QJC. Moving R
+Step 1332 moving to CNX
+At CNX. Moving L
+Step 1333 moving to CTN
+At CTN. Moving R
+Step 1334 moving to DRS
+At DRS. Moving L
+Step 1335 moving to DPN
+At DPN. Moving R
+Step 1336 moving to LGT
+At LGT. Moving R
+Step 1337 moving to SHP
+At SHP. Moving R
+Step 1338 moving to SSN
+At SSN. Moving L
+Step 1339 moving to KGR
+At KGR. Moving R
+Step 1340 moving to FSH
+At FSH. Moving R
+Step 1341 moving to FPX
+At FPX. Moving R
+Step 1342 moving to RSG
+At RSG. Moving L
+Step 1343 moving to DLB
+At DLB. Moving R
+Step 1344 moving to FNP
+At FNP. Moving R
+Step 1345 moving to QHF
+At QHF. Moving L
+Step 1346 moving to GPM
+At GPM. Moving R
+Step 1347 moving to SSL
+At SSL. Moving R
+Step 1348 moving to KCF
+At KCF. Moving R
+Step 1349 moving to BMK
+At BMK. Moving L
+Step 1350 moving to JKH
+At JKH. Moving R
+Step 1351 moving to PJB
+At PJB. Moving R
+Step 1352 moving to RMC
+At RMC. Moving L
+Step 1353 moving to QHM
+At QHM. Moving R
+Step 1354 moving to GNP
+At GNP. Moving R
+Step 1355 moving to TSS
+At TSS. Moving L
+Step 1356 moving to LVT
+At LVT. Moving R
+Step 1357 moving to GFK
+At GFK. Moving R
+Step 1358 moving to HGH
+At HGH. Moving R
+Step 1359 moving to KJP
+At KJP. Moving L
+Step 1360 moving to XPM
+At XPM. Moving L
+Step 1361 moving to JTL
+At JTL. Moving R
+Step 1362 moving to XGR
+At XGR. Moving L
+Step 1363 moving to BXB
+At BXB. Moving R
+Step 1364 moving to KQT
+At KQT. Moving R
+Step 1365 moving to KTL
+At KTL. Moving L
+Step 1366 moving to PMJ
+At PMJ. Moving L
+Step 1367 moving to PJV
+At PJV. Moving L
+Step 1368 moving to SPT
+At SPT. Moving R
+Step 1369 moving to KSK
+At KSK. Moving R
+Step 1370 moving to VSD
+At VSD. Moving L
+Step 1371 moving to SBB
+At SBB. Moving R
+Step 1372 moving to PNB
+At PNB. Moving R
+Step 1373 moving to DSS
+At DSS. Moving L
+Step 1374 moving to FTJ
+At FTJ. Moving R
+Step 1375 moving to QJV
+At QJV. Moving L
+Step 1376 moving to HVQ
+At HVQ. Moving R
+Step 1377 moving to DRN
+At DRN. Moving L
+Step 1378 moving to XSC
+At XSC. Moving L
+Step 1379 moving to CFX
+At CFX. Moving L
+Step 1380 moving to BSJ
+At BSJ. Moving R
+Step 1381 moving to DCV
+At DCV. Moving R
+Step 1382 moving to QMN
+At QMN. Moving L
+Step 1383 moving to JTR
+At JTR. Moving R
+Step 1384 moving to LFL
+At LFL. Moving R
+Step 1385 moving to RCH
+At RCH. Moving L
+Step 1386 moving to JQM
+At JQM. Moving R
+Step 1387 moving to PJT
+At PJT. Moving R
+Step 1388 moving to QLT
+At QLT. Moving R
+Step 1389 moving to XDP
+At XDP. Moving L
+Step 1390 moving to JQX
+At JQX. Moving R
+Step 1391 moving to JBK
+At JBK. Moving R
+Step 1392 moving to QJC
+At QJC. Moving L
+Step 1393 moving to RJR
+At RJR. Moving L
+Step 1394 moving to CTN
+At CTN. Moving R
+Step 1395 moving to DRS
+At DRS. Moving L
+Step 1396 moving to DPN
+At DPN. Moving R
+Step 1397 moving to LGT
+At LGT. Moving R
+Step 1398 moving to SHP
+At SHP. Moving R
+Step 1399 moving to SSN
+At SSN. Moving L
+Step 1400 moving to KGR
+At KGR. Moving R
+Step 1401 moving to FSH
+At FSH. Moving R
+Step 1402 moving to FPX
+At FPX. Moving R
+Step 1403 moving to RSG
+At RSG. Moving L
+Step 1404 moving to DLB
+At DLB. Moving R
+Step 1405 moving to FNP
+At FNP. Moving R
+Step 1406 moving to QHF
+At QHF. Moving L
+Step 1407 moving to GPM
+At GPM. Moving R
+Step 1408 moving to SSL
+At SSL. Moving R
+Step 1409 moving to KCF
+At KCF. Moving L
+Step 1410 moving to MPD
+At MPD. Moving R
+Step 1411 moving to BPL
+At BPL. Moving L
+Step 1412 moving to QRS
+At QRS. Moving R
+Step 1413 moving to VCJ
+At VCJ. Moving R
+Step 1414 moving to PTR
+At PTR. Moving L
+Step 1415 moving to KQD
+At KQD. Moving R
+Step 1416 moving to KQX
+At KQX. Moving L
+Step 1417 moving to HSR
+At HSR. Moving R
+Step 1418 moving to GFK
+At GFK. Moving R
+Step 1419 moving to HGH
+At HGH. Moving R
+Step 1420 moving to KJP
+At KJP. Moving L
+Step 1421 moving to XPM
+At XPM. Moving R
+Step 1422 moving to CMS
+At CMS. Moving R
+Step 1423 moving to XGR
+At XGR. Moving L
+Step 1424 moving to BXB
+At BXB. Moving R
+Step 1425 moving to KQT
+At KQT. Moving R
+Step 1426 moving to KTL
+At KTL. Moving R
+Step 1427 moving to CRN
+At CRN. Moving L
+Step 1428 moving to PJV
+At PJV. Moving L
+Step 1429 moving to SPT
+At SPT. Moving R
+Step 1430 moving to KSK
+At KSK. Moving R
+Step 1431 moving to VSD
+At VSD. Moving R
+Step 1432 moving to GST
+At GST. Moving L
+Step 1433 moving to PNB
+At PNB. Moving R
+Step 1434 moving to DSS
+At DSS. Moving L
+Step 1435 moving to FTJ
+At FTJ. Moving R
+Step 1436 moving to QJV
+At QJV. Moving L
+Step 1437 moving to HVQ
+At HVQ. Moving L
+Step 1438 moving to NMR
+At NMR. Moving L
+Step 1439 moving to RRL
+At RRL. Moving R
+Step 1440 moving to CFX
+At CFX. Moving R
+Step 1441 moving to MCL
+At MCL. Moving R
+Step 1442 moving to QBR
+At QBR. Moving L
+Step 1443 moving to QMN
+At QMN. Moving L
+Step 1444 moving to JTR
+At JTR. Moving L
+Step 1445 moving to MDT
+At MDT. Moving R
+Step 1446 moving to CMR
+At CMR. Moving R
+Step 1447 moving to GDS
+At GDS. Moving L
+Step 1448 moving to PJT
+At PJT. Moving L
+Step 1449 moving to TTC
+At TTC. Moving R
+Step 1450 moving to XDP
+At XDP. Moving R
+Step 1451 moving to SVH
+At SVH. Moving L
+Step 1452 moving to SLR
+At SLR. Moving R
+Step 1453 moving to QJC
+At QJC. Moving L
+Step 1454 moving to RJR
+At RJR. Moving R
+Step 1455 moving to DRK
+At DRK. Moving R
+Step 1456 moving to NVJ
+At NVJ. Moving L
+Step 1457 moving to BLM
+At BLM. Moving R
+Step 1458 moving to TFT
+At TFT. Moving L
+Step 1459 moving to XPK
+At XPK. Moving L
+Step 1460 moving to SSN
+At SSN. Moving L
+Step 1461 moving to KGR
+At KGR. Moving R
+Step 1462 moving to FSH
+At FSH. Moving R
+Step 1463 moving to FPX
+At FPX. Moving R
+Step 1464 moving to RSG
+At RSG. Moving R
+Step 1465 moving to QNM
+At QNM. Moving L
+Step 1466 moving to DBX
+At DBX. Moving L
+Step 1467 moving to DHB
+At DHB. Moving R
+Step 1468 moving to GPM
+At GPM. Moving L
+Step 1469 moving to PLN
+At PLN. Moving R
+Step 1470 moving to KCF
+At KCF. Moving R
+Step 1471 moving to BMK
+At BMK. Moving R
+Step 1472 moving to BPL
+At BPL. Moving L
+Step 1473 moving to QRS
+At QRS. Moving L
+Step 1474 moving to RMC
+At RMC. Moving L
+Step 1475 moving to QHM
+At QHM. Moving R
+Step 1476 moving to GNP
+At GNP. Moving L
+Step 1477 moving to KQX
+At KQX. Moving R
+Step 1478 moving to LVT
+At LVT. Moving R
+Step 1479 moving to GFK
+At GFK. Moving L
+Step 1480 moving to GCL
+At GCL. Moving R
+Step 1481 moving to KJP
+At KJP. Moving R
+Step 1482 moving to QRP
+At QRP. Moving R
+Step 1483 moving to JTL
+At JTL. Moving L
+Step 1484 moving to QLS
+At QLS. Moving R
+Step 1485 moving to BXB
+At BXB. Moving L
+Step 1486 moving to MTH
+At MTH. Moving R
+Step 1487 moving to KTL
+At KTL. Moving R
+Step 1488 moving to CRN
+At CRN. Moving L
+Step 1489 moving to PJV
+At PJV. Moving R
+Step 1490 moving to SPT
+At SPT. Moving L
+Step 1491 moving to KSK
+At KSK. Moving R
+Step 1492 moving to VSD
+At VSD. Moving L
+Step 1493 moving to SBB
+At SBB. Moving R
+Step 1494 moving to PNB
+At PNB. Moving R
+Step 1495 moving to DSS
+At DSS. Moving R
+Step 1496 moving to TVR
+At TVR. Moving L
+Step 1497 moving to LJN
+At LJN. Moving R
+Step 1498 moving to NMN
+At NMN. Moving R
+Step 1499 moving to NMR
+At NMR. Moving R
+Step 1500 moving to XSC
+At XSC. Moving L
+Step 1501 moving to CFX
+At CFX. Moving R
+Step 1502 moving to MCL
+At MCL. Moving L
+Step 1503 moving to DCV
+At DCV. Moving R
+Step 1504 moving to QMN
+At QMN. Moving L
+Step 1505 moving to JTR
+At JTR. Moving R
+Step 1506 moving to LFL
+At LFL. Moving R
+Step 1507 moving to RCH
+At RCH. Moving L
+Step 1508 moving to JQM
+At JQM. Moving L
+Step 1509 moving to DBD
+At DBD. Moving R
+Step 1510 moving to TTC
+At TTC. Moving R
+Step 1511 moving to XDP
+At XDP. Moving R
+Step 1512 moving to SVH
+At SVH. Moving L
+Step 1513 moving to SLR
+At SLR. Moving R
+Step 1514 moving to QJC
+At QJC. Moving R
+Step 1515 moving to CNX
+At CNX. Moving L
+Step 1516 moving to CTN
+At CTN. Moving R
+Step 1517 moving to DRS
+At DRS. Moving R
+Step 1518 moving to BLM
+At BLM. Moving L
+Step 1519 moving to LGT
+At LGT. Moving L
+Step 1520 moving to XPK
+At XPK. Moving R
+Step 1521 moving to SMM
+At SMM. Moving L
+Step 1522 moving to KGR
+At KGR. Moving R
+Step 1523 moving to FSH
+At FSH. Moving R
+Step 1524 moving to FPX
+At FPX. Moving R
+Step 1525 moving to RSG
+At RSG. Moving L
+Step 1526 moving to DLB
+At DLB. Moving R
+Step 1527 moving to FNP
+At FNP. Moving L
+Step 1528 moving to DHB
+At DHB. Moving R
+Step 1529 moving to GPM
+At GPM. Moving L
+Step 1530 moving to PLN
+At PLN. Moving L
+Step 1531 moving to LMM
+At LMM. Moving R
+Step 1532 moving to BMK
+At BMK. Moving R
+Step 1533 moving to BPL
+At BPL. Moving R
+Step 1534 moving to PJB
+At PJB. Moving L
+Step 1535 moving to VCJ
+At VCJ. Moving L
+Step 1536 moving to QHM
+At QHM. Moving R
+Step 1537 moving to GNP
+At GNP. Moving R
+Step 1538 moving to TSS
+At TSS. Moving R
+Step 1539 moving to HSR
+At HSR. Moving L
+Step 1540 moving to DKT
+At DKT. Moving R
+Step 1541 moving to GCL
+At GCL. Moving L
+Step 1542 moving to QKX
+At QKX. Moving R
+Step 1543 moving to QRP
+At QRP. Moving R
+Step 1544 moving to JTL
+At JTL. Moving R
+Step 1545 moving to XGR
+At XGR. Moving L
+Step 1546 moving to BXB
+At BXB. Moving R
+Step 1547 moving to KQT
+At KQT. Moving R
+Step 1548 moving to KTL
+At KTL. Moving R
+Step 1549 moving to CRN
+At CRN. Moving L
+Step 1550 moving to PJV
+At PJV. Moving R
+Step 1551 moving to SPT
+At SPT. Moving R
+Step 1552 moving to KSK
+At KSK. Moving R
+Step 1553 moving to VSD
+At VSD. Moving L
+Step 1554 moving to SBB
+At SBB. Moving L
+Step 1555 moving to DVN
+At DVN. Moving L
+Step 1556 moving to PHG
+At PHG. Moving R
+Step 1557 moving to TVR
+At TVR. Moving R
+Step 1558 moving to QJV
+At QJV. Moving R
+Step 1559 moving to NMN
+At NMN. Moving L
+Step 1560 moving to DRN
+At DRN. Moving R
+Step 1561 moving to RRL
+At RRL. Moving R
+Step 1562 moving to CFX
+At CFX. Moving L
+Step 1563 moving to BSJ
+At BSJ. Moving R
+Step 1564 moving to DCV
+At DCV. Moving R
+Step 1565 moving to QMN
+At QMN. Moving L
+Step 1566 moving to JTR
+At JTR. Moving R
+Step 1567 moving to LFL
+At LFL. Moving L
+Step 1568 moving to CMR
+At CMR. Moving R
+Step 1569 moving to GDS
+At GDS. Moving R
+Step 1570 moving to DBD
+At DBD. Moving L
+Step 1571 moving to QLT
+At QLT. Moving R
+Step 1572 moving to XDP
+At XDP. Moving L
+Step 1573 moving to JQX
+At JQX. Moving R
+Step 1574 moving to JBK
+At JBK. Moving R
+Step 1575 moving to QJC
+At QJC. Moving R
+Step 1576 moving to CNX
+At CNX. Moving L
+Step 1577 moving to CTN
+At CTN. Moving R
+Step 1578 moving to DRS
+At DRS. Moving L
+Step 1579 moving to DPN
+At DPN. Moving R
+Step 1580 moving to LGT
+At LGT. Moving R
+Step 1581 moving to SHP
+At SHP. Moving L
+Step 1582 moving to SMM
+At SMM. Moving R
+Step 1583 moving to TTK
+At TTK. Moving L
+Step 1584 moving to VQQ
+At VQQ. Moving R
+Step 1585 moving to FPX
+At FPX. Moving L
+Step 1586 moving to BNR
+At BNR. Moving R
+Step 1587 moving to QNM
+At QNM. Moving R
+Step 1588 moving to FNP
+At FNP. Moving R
+Step 1589 moving to QHF
+At QHF. Moving L
+Step 1590 moving to GPM
+At GPM. Moving R
+Step 1591 moving to SSL
+At SSL. Moving L
+Step 1592 moving to LMM
+At LMM. Moving L
+Step 1593 moving to MPD
+At MPD. Moving L
+Step 1594 moving to JKH
+At JKH. Moving R
+Step 1595 moving to PJB
+At PJB. Moving R
+Step 1596 moving to RMC
+At RMC. Moving R
+Step 1597 moving to PTR
+At PTR. Moving L
+Step 1598 moving to KQD
+At KQD. Moving L
+Step 1599 moving to TSS
+At TSS. Moving L
+Step 1600 moving to LVT
+At LVT. Moving R
+Step 1601 moving to GFK
+At GFK. Moving L
+Step 1602 moving to GCL
+At GCL. Moving R
+Step 1603 moving to KJP
+At KJP. Moving R
+Step 1604 moving to QRP
+At QRP. Moving R
+Step 1605 moving to JTL
+At JTL. Moving L
+Step 1606 moving to QLS
+At QLS. Moving R
+Step 1607 moving to BXB
+At BXB. Moving L
+Step 1608 moving to MTH
+At MTH. Moving R
+Step 1609 moving to KTL
+At KTL. Moving R
+Step 1610 moving to CRN
+At CRN. Moving L
+Step 1611 moving to PJV
+At PJV. Moving R
+Step 1612 moving to SPT
+At SPT. Moving L
+Step 1613 moving to KSK
+At KSK. Moving R
+Step 1614 moving to VSD
+At VSD. Moving L
+Step 1615 moving to SBB
+At SBB. Moving R
+Step 1616 moving to PNB
+At PNB. Moving L
+Step 1617 moving to PHG
+At PHG. Moving R
+Step 1618 moving to TVR
+At TVR. Moving R
+Step 1619 moving to QJV
+At QJV. Moving L
+Step 1620 moving to HVQ
+At HVQ. Moving R
+Step 1621 moving to DRN
+At DRN. Moving R
+Step 1622 moving to RRL
+At RRL. Moving L
+Step 1623 moving to DHF
+At DHF. Moving R
+Step 1624 moving to MCL
+At MCL. Moving R
+Step 1625 moving to QBR
+At QBR. Moving L
+Step 1626 moving to QMN
+At QMN. Moving R
+Step 1627 moving to PHF
+At PHF. Moving L
+Step 1628 moving to LFL
+At LFL. Moving R
+Step 1629 moving to RCH
+At RCH. Moving R
+Step 1630 moving to GDS
+At GDS. Moving R
+Step 1631 moving to DBD
+At DBD. Moving L
+Step 1632 moving to QLT
+At QLT. Moving R
+Step 1633 moving to XDP
+At XDP. Moving R
+Step 1634 moving to SVH
+At SVH. Moving R
+Step 1635 moving to JBK
+At JBK. Moving L
+Step 1636 moving to BDH
+At BDH. Moving R
+Step 1637 moving to RJR
+At RJR. Moving R
+Step 1638 moving to DRK
+At DRK. Moving L
+Step 1639 moving to DRS
+At DRS. Moving R
+Step 1640 moving to BLM
+At BLM. Moving R
+Step 1641 moving to TFT
+At TFT. Moving R
+Step 1642 moving to SHP
+At SHP. Moving L
+Step 1643 moving to SMM
+At SMM. Moving R
+Step 1644 moving to TTK
+At TTK. Moving R
+Step 1645 moving to FSH
+At FSH. Moving L
+Step 1646 moving to QSB
+At QSB. Moving R
+Step 1647 moving to RSG
+At RSG. Moving R
+Step 1648 moving to QNM
+At QNM. Moving L
+Step 1649 moving to DBX
+At DBX. Moving R
+Step 1650 moving to QHF
+At QHF. Moving R
+Step 1651 moving to FHL
+At FHL. Moving R
+Step 1652 moving to PLN
+At PLN. Moving L
+Step 1653 moving to LMM
+At LMM. Moving L
+Step 1654 moving to MPD
+At MPD. Moving R
+Step 1655 moving to BPL
+At BPL. Moving L
+Step 1656 moving to QRS
+At QRS. Moving R
+Step 1657 moving to VCJ
+At VCJ. Moving R
+Step 1658 moving to PTR
+At PTR. Moving L
+Step 1659 moving to KQD
+At KQD. Moving L
+Step 1660 moving to TSS
+At TSS. Moving L
+Step 1661 moving to LVT
+At LVT. Moving R
+Step 1662 moving to GFK
+At GFK. Moving R
+Step 1663 moving to HGH
+At HGH. Moving L
+Step 1664 moving to QKX
+At QKX. Moving R
+Step 1665 moving to QRP
+At QRP. Moving R
+Step 1666 moving to JTL
+At JTL. Moving L
+Step 1667 moving to QLS
+At QLS. Moving R
+Step 1668 moving to BXB
+At BXB. Moving L
+Step 1669 moving to MTH
+At MTH. Moving R
+Step 1670 moving to KTL
+At KTL. Moving L
+Step 1671 moving to PMJ
+At PMJ. Moving L
+Step 1672 moving to PJV
+At PJV. Moving L
+Step 1673 moving to SPT
+At SPT. Moving R
+Step 1674 moving to KSK
+At KSK. Moving R
+Step 1675 moving to VSD
+At VSD. Moving L
+Step 1676 moving to SBB
+At SBB. Moving R
+Step 1677 moving to PNB
+At PNB. Moving R
+Step 1678 moving to DSS
+At DSS. Moving L
+Step 1679 moving to FTJ
+At FTJ. Moving R
+Step 1680 moving to QJV
+At QJV. Moving R
+Step 1681 moving to NMN
+At NMN. Moving R
+Step 1682 moving to NMR
+At NMR. Moving L
+Step 1683 moving to RRL
+At RRL. Moving R
+Step 1684 moving to CFX
+At CFX. Moving R
+Step 1685 moving to MCL
+At MCL. Moving L
+Step 1686 moving to DCV
+At DCV. Moving L
+Step 1687 moving to XXH
+At XXH. Moving R
+Step 1688 moving to JTR
+At JTR. Moving L
+Step 1689 moving to MDT
+At MDT. Moving R
+Step 1690 moving to CMR
+At CMR. Moving R
+Step 1691 moving to GDS
+At GDS. Moving R
+Step 1692 moving to DBD
+At DBD. Moving L
+Step 1693 moving to QLT
+At QLT. Moving R
+Step 1694 moving to XDP
+At XDP. Moving R
+Step 1695 moving to SVH
+At SVH. Moving R
+Step 1696 moving to JBK
+At JBK. Moving L
+Step 1697 moving to BDH
+At BDH. Moving R
+Step 1698 moving to RJR
+At RJR. Moving R
+Step 1699 moving to DRK
+At DRK. Moving L
+Step 1700 moving to DRS
+At DRS. Moving R
+Step 1701 moving to BLM
+At BLM. Moving R
+Step 1702 moving to TFT
+At TFT. Moving L
+Step 1703 moving to XPK
+At XPK. Moving R
+Step 1704 moving to SMM
+At SMM. Moving L
+Step 1705 moving to KGR
+At KGR. Moving R
+Step 1706 moving to FSH
+At FSH. Moving R
+Step 1707 moving to FPX
+At FPX. Moving L
+Step 1708 moving to BNR
+At BNR. Moving R
+Step 1709 moving to QNM
+At QNM. Moving L
+Step 1710 moving to DBX
+At DBX. Moving R
+Step 1711 moving to QHF
+At QHF. Moving R
+Step 1712 moving to FHL
+At FHL. Moving R
+Step 1713 moving to PLN
+At PLN. Moving L
+Step 1714 moving to LMM
+At LMM. Moving R
+Step 1715 moving to BMK
+At BMK. Moving R
+Step 1716 moving to BPL
+At BPL. Moving L
+Step 1717 moving to QRS
+At QRS. Moving R
+Step 1718 moving to VCJ
+At VCJ. Moving R
+Step 1719 moving to PTR
+At PTR. Moving R
+Step 1720 moving to GNP
+At GNP. Moving L
+Step 1721 moving to KQX
+At KQX. Moving L
+Step 1722 moving to HSR
+At HSR. Moving R
+Step 1723 moving to GFK
+At GFK. Moving R
+Step 1724 moving to HGH
+At HGH. Moving R
+Step 1725 moving to KJP
+At KJP. Moving L
+Step 1726 moving to XPM
+At XPM. Moving R
+Step 1727 moving to CMS
+At CMS. Moving L
+Step 1728 moving to QLS
+At QLS. Moving R
+Step 1729 moving to BXB
+At BXB. Moving L
+Step 1730 moving to MTH
+At MTH. Moving L
+Step 1731 moving to BHG
+At BHG. Moving L
+Step 1732 moving to PMJ
+At PMJ. Moving R
+Step 1733 moving to PJV
+At PJV. Moving R
+Step 1734 moving to SPT
+At SPT. Moving R
+Step 1735 moving to KSK
+At KSK. Moving L
+Step 1736 moving to TFQ
+At TFQ. Moving L
+Step 1737 moving to GST
+At GST. Moving L
+Step 1738 moving to PNB
+At PNB. Moving R
+Step 1739 moving to DSS
+At DSS. Moving R
+Step 1740 moving to TVR
+At TVR. Moving L
+Step 1741 moving to LJN
+At LJN. Moving L
+Step 1742 moving to HVQ
+At HVQ. Moving R
+Step 1743 moving to DRN
+At DRN. Moving R
+Step 1744 moving to RRL
+At RRL. Moving L
+Step 1745 moving to DHF
+At DHF. Moving R
+Step 1746 moving to MCL
+At MCL. Moving L
+Step 1747 moving to DCV
+At DCV. Moving R
+Step 1748 moving to QMN
+At QMN. Moving R
+Step 1749 moving to PHF
+At PHF. Moving L
+Step 1750 moving to LFL
+At LFL. Moving R
+Step 1751 moving to RCH
+At RCH. Moving L
+Step 1752 moving to JQM
+At JQM. Moving L
+Step 1753 moving to DBD
+At DBD. Moving L
+Step 1754 moving to QLT
+At QLT. Moving R
+Step 1755 moving to XDP
+At XDP. Moving R
+Step 1756 moving to SVH
+At SVH. Moving R
+Step 1757 moving to JBK
+At JBK. Moving R
+Step 1758 moving to QJC
+At QJC. Moving L
+Step 1759 moving to RJR
+At RJR. Moving L
+Step 1760 moving to CTN
+At CTN. Moving R
+Step 1761 moving to DRS
+At DRS. Moving L
+Step 1762 moving to DPN
+At DPN. Moving R
+Step 1763 moving to LGT
+At LGT. Moving R
+Step 1764 moving to SHP
+At SHP. Moving R
+Step 1765 moving to SSN
+At SSN. Moving L
+Step 1766 moving to KGR
+At KGR. Moving L
+Step 1767 moving to VQQ
+At VQQ. Moving L
+Step 1768 moving to QSB
+At QSB. Moving R
+Step 1769 moving to RSG
+At RSG. Moving L
+Step 1770 moving to DLB
+At DLB. Moving R
+Step 1771 moving to FNP
+At FNP. Moving R
+Step 1772 moving to QHF
+At QHF. Moving L
+Step 1773 moving to GPM
+At GPM. Moving R
+Step 1774 moving to SSL
+At SSL. Moving R
+Step 1775 moving to KCF
+At KCF. Moving R
+Step 1776 moving to BMK
+At BMK. Moving L
+Step 1777 moving to JKH
+At JKH. Moving R
+Step 1778 moving to PJB
+At PJB. Moving L
+Step 1779 moving to VCJ
+At VCJ. Moving R
+Step 1780 moving to PTR
+At PTR. Moving R
+Step 1781 moving to GNP
+At GNP. Moving L
+Step 1782 moving to KQX
+At KQX. Moving R
+Step 1783 moving to LVT
+At LVT. Moving L
+Step 1784 moving to DKT
+At DKT. Moving R
+Step 1785 moving to GCL
+At GCL. Moving L
+Step 1786 moving to QKX
+At QKX. Moving R
+Step 1787 moving to QRP
+At QRP. Moving R
+Step 1788 moving to JTL
+At JTL. Moving R
+Step 1789 moving to XGR
+At XGR. Moving L
+Step 1790 moving to BXB
+At BXB. Moving R
+Step 1791 moving to KQT
+At KQT. Moving R
+Step 1792 moving to KTL
+At KTL. Moving R
+Step 1793 moving to CRN
+At CRN. Moving L
+Step 1794 moving to PJV
+At PJV. Moving R
+Step 1795 moving to SPT
+At SPT. Moving L
+Step 1796 moving to KSK
+At KSK. Moving R
+Step 1797 moving to VSD
+At VSD. Moving L
+Step 1798 moving to SBB
+At SBB. Moving R
+Step 1799 moving to PNB
+At PNB. Moving R
+Step 1800 moving to DSS
+At DSS. Moving L
+Step 1801 moving to FTJ
+At FTJ. Moving L
+Step 1802 moving to LJN
+At LJN. Moving R
+Step 1803 moving to NMN
+At NMN. Moving R
+Step 1804 moving to NMR
+At NMR. Moving R
+Step 1805 moving to XSC
+At XSC. Moving L
+Step 1806 moving to CFX
+At CFX. Moving R
+Step 1807 moving to MCL
+At MCL. Moving R
+Step 1808 moving to QBR
+At QBR. Moving L
+Step 1809 moving to QMN
+At QMN. Moving R
+Step 1810 moving to PHF
+At PHF. Moving R
+Step 1811 moving to MDT
+At MDT. Moving L
+Step 1812 moving to RCH
+At RCH. Moving L
+Step 1813 moving to JQM
+At JQM. Moving R
+Step 1814 moving to PJT
+At PJT. Moving L
+Step 1815 moving to TTC
+At TTC. Moving R
+Step 1816 moving to XDP
+At XDP. Moving R
+Step 1817 moving to SVH
+At SVH. Moving R
+Step 1818 moving to JBK
+At JBK. Moving L
+Step 1819 moving to BDH
+At BDH. Moving R
+Step 1820 moving to RJR
+At RJR. Moving L
+Step 1821 moving to CTN
+At CTN. Moving R
+Step 1822 moving to DRS
+At DRS. Moving L
+Step 1823 moving to DPN
+At DPN. Moving L
+Step 1824 moving to TFT
+At TFT. Moving R
+Step 1825 moving to SHP
+At SHP. Moving R
+Step 1826 moving to SSN
+At SSN. Moving R
+Step 1827 moving to TTK
+At TTK. Moving L
+Step 1828 moving to VQQ
+At VQQ. Moving L
+Step 1829 moving to QSB
+At QSB. Moving R
+Step 1830 moving to RSG
+At RSG. Moving R
+Step 1831 moving to QNM
+At QNM. Moving R
+Step 1832 moving to FNP
+At FNP. Moving L
+Step 1833 moving to DHB
+At DHB. Moving R
+Step 1834 moving to GPM
+At GPM. Moving L
+Step 1835 moving to PLN
+At PLN. Moving R
+Step 1836 moving to KCF
+At KCF. Moving R
+Step 1837 moving to BMK
+At BMK. Moving R
+Step 1838 moving to BPL
+At BPL. Moving L
+Step 1839 moving to QRS
+At QRS. Moving R
+Step 1840 moving to VCJ
+At VCJ. Moving R
+Step 1841 moving to PTR
+At PTR. Moving R
+Step 1842 moving to GNP
+At GNP. Moving L
+Step 1843 moving to KQX
+At KQX. Moving R
+Step 1844 moving to LVT
+At LVT. Moving R
+Step 1845 moving to GFK
+At GFK. Moving R
+Step 1846 moving to HGH
+At HGH. Moving L
+Step 1847 moving to QKX
+At QKX. Moving L
+Step 1848 moving to XPM
+At XPM. Moving L
+Step 1849 moving to JTL
+At JTL. Moving R
+Step 1850 moving to XGR
+At XGR. Moving R
+Step 1851 moving to TCX
+At TCX. Moving R
+Step 1852 moving to MTH
+At MTH. Moving L
+Step 1853 moving to BHG
+At BHG. Moving R
+Step 1854 moving to CRN
+At CRN. Moving R
+Step 1855 moving to TBN
+At TBN. Moving L
+Step 1856 moving to SPT
+At SPT. Moving R
+Step 1857 moving to KSK
+At KSK. Moving R
+Step 1858 moving to VSD
+At VSD. Moving L
+Step 1859 moving to SBB
+At SBB. Moving R
+Step 1860 moving to PNB
+At PNB. Moving L
+Step 1861 moving to PHG
+At PHG. Moving R
+Step 1862 moving to TVR
+At TVR. Moving R
+Step 1863 moving to QJV
+At QJV. Moving L
+Step 1864 moving to HVQ
+At HVQ. Moving R
+Step 1865 moving to DRN
+At DRN. Moving L
+Step 1866 moving to XSC
+At XSC. Moving R
+Step 1867 moving to DHF
+At DHF. Moving R
+Step 1868 moving to MCL
+At MCL. Moving R
+Step 1869 moving to QBR
+At QBR. Moving L
+Step 1870 moving to QMN
+At QMN. Moving R
+Step 1871 moving to PHF
+At PHF. Moving L
+Step 1872 moving to LFL
+At LFL. Moving R
+Step 1873 moving to RCH
+At RCH. Moving R
+Step 1874 moving to GDS
+At GDS. Moving L
+Step 1875 moving to PJT
+At PJT. Moving R
+Step 1876 moving to QLT
+At QLT. Moving L
+Step 1877 moving to HQL
+At HQL. Moving R
+Step 1878 moving to SVH
+At SVH. Moving L
+Step 1879 moving to SLR
+At SLR. Moving R
+Step 1880 moving to QJC
+At QJC. Moving R
+Step 1881 moving to CNX
+At CNX. Moving R
+Step 1882 moving to DRK
+At DRK. Moving L
+Step 1883 moving to DRS
+At DRS. Moving R
+Step 1884 moving to BLM
+At BLM. Moving L
+Step 1885 moving to LGT
+At LGT. Moving L
+Step 1886 moving to XPK
+At XPK. Moving L
+Step 1887 moving to SSN
+At SSN. Moving R
+Step 1888 moving to TTK
+At TTK. Moving R
+Step 1889 moving to FSH
+At FSH. Moving R
+Step 1890 moving to FPX
+At FPX. Moving L
+Step 1891 moving to BNR
+At BNR. Moving L
+Step 1892 moving to DLB
+At DLB. Moving L
+Step 1893 moving to DBX
+At DBX. Moving R
+Step 1894 moving to QHF
+At QHF. Moving L
+Step 1895 moving to GPM
+At GPM. Moving R
+Step 1896 moving to SSL
+At SSL. Moving R
+Step 1897 moving to KCF
+At KCF. Moving R
+Step 1898 moving to BMK
+At BMK. Moving L
+Step 1899 moving to JKH
+At JKH. Moving R
+Step 1900 moving to PJB
+At PJB. Moving L
+Step 1901 moving to VCJ
+At VCJ. Moving R
+Step 1902 moving to PTR
+At PTR. Moving R
+Step 1903 moving to GNP
+At GNP. Moving L
+Step 1904 moving to KQX
+At KQX. Moving R
+Step 1905 moving to LVT
+At LVT. Moving L
+Step 1906 moving to DKT
+At DKT. Moving R
+Step 1907 moving to GCL
+At GCL. Moving L
+Step 1908 moving to QKX
+At QKX. Moving R
+Step 1909 moving to QRP
+At QRP. Moving L
+Step 1910 moving to CMS
+At CMS. Moving R
+Step 1911 moving to XGR
+At XGR. Moving R
+Step 1912 moving to TCX
+At TCX. Moving L
+Step 1913 moving to KQT
+At KQT. Moving R
+Step 1914 moving to KTL
+At KTL. Moving R
+Step 1915 moving to CRN
+At CRN. Moving L
+Step 1916 moving to PJV
+At PJV. Moving R
+Step 1917 moving to SPT
+At SPT. Moving R
+Step 1918 moving to KSK
+At KSK. Moving L
+Step 1919 moving to TFQ
+At TFQ. Moving R
+Step 1920 moving to SBB
+At SBB. Moving L
+Step 1921 moving to DVN
+At DVN. Moving R
+Step 1922 moving to DSS
+At DSS. Moving R
+Step 1923 moving to TVR
+At TVR. Moving R
+Step 1924 moving to QJV
+At QJV. Moving L
+Step 1925 moving to HVQ
+At HVQ. Moving R
+Step 1926 moving to DRN
+At DRN. Moving R
+Step 1927 moving to RRL
+At RRL. Moving R
+Step 1928 moving to CFX
+At CFX. Moving L
+Step 1929 moving to BSJ
+At BSJ. Moving R
+Step 1930 moving to DCV
+At DCV. Moving R
+Step 1931 moving to QMN
+At QMN. Moving L
+Step 1932 moving to JTR
+At JTR. Moving R
+Step 1933 moving to LFL
+At LFL. Moving R
+Step 1934 moving to RCH
+At RCH. Moving R
+Step 1935 moving to GDS
+At GDS. Moving L
+Step 1936 moving to PJT
+At PJT. Moving R
+Step 1937 moving to QLT
+At QLT. Moving R
+Step 1938 moving to XDP
+At XDP. Moving L
+Step 1939 moving to JQX
+At JQX. Moving R
+Step 1940 moving to JBK
+At JBK. Moving R
+Step 1941 moving to QJC
+At QJC. Moving L
+Step 1942 moving to RJR
+At RJR. Moving R
+Step 1943 moving to DRK
+At DRK. Moving R
+Step 1944 moving to NVJ
+At NVJ. Moving R
+Step 1945 moving to DPN
+At DPN. Moving L
+Step 1946 moving to TFT
+At TFT. Moving L
+Step 1947 moving to XPK
+At XPK. Moving R
+Step 1948 moving to SMM
+At SMM. Moving L
+Step 1949 moving to KGR
+At KGR. Moving R
+Step 1950 moving to FSH
+At FSH. Moving R
+Step 1951 moving to FPX
+At FPX. Moving L
+Step 1952 moving to BNR
+At BNR. Moving L
+Step 1953 moving to DLB
+At DLB. Moving L
+Step 1954 moving to DBX
+At DBX. Moving R
+Step 1955 moving to QHF
+At QHF. Moving R
+Step 1956 moving to FHL
+At FHL. Moving L
+Step 1957 moving to SSL
+At SSL. Moving R
+Step 1958 moving to KCF
+At KCF. Moving R
+Step 1959 moving to BMK
+At BMK. Moving L
+Step 1960 moving to JKH
+At JKH. Moving R
+Step 1961 moving to PJB
+At PJB. Moving L
+Step 1962 moving to VCJ
+At VCJ. Moving R
+Step 1963 moving to PTR
+At PTR. Moving L
+Step 1964 moving to KQD
+At KQD. Moving L
+Step 1965 moving to TSS
+At TSS. Moving L
+Step 1966 moving to LVT
+At LVT. Moving R
+Step 1967 moving to GFK
+At GFK. Moving R
+Step 1968 moving to HGH
+At HGH. Moving L
+Step 1969 moving to QKX
+At QKX. Moving R
+Step 1970 moving to QRP
+At QRP. Moving R
+Step 1971 moving to JTL
+At JTL. Moving L
+Step 1972 moving to QLS
+At QLS. Moving R
+Step 1973 moving to BXB
+At BXB. Moving R
+Step 1974 moving to KQT
+At KQT. Moving R
+Step 1975 moving to KTL
+At KTL. Moving L
+Step 1976 moving to PMJ
+At PMJ. Moving R
+Step 1977 moving to PJV
+At PJV. Moving R
+Step 1978 moving to SPT
+At SPT. Moving L
+Step 1979 moving to KSK
+At KSK. Moving L
+Step 1980 moving to TFQ
+At TFQ. Moving R
+Step 1981 moving to SBB
+At SBB. Moving L
+Step 1982 moving to DVN
+At DVN. Moving R
+Step 1983 moving to DSS
+At DSS. Moving R
+Step 1984 moving to TVR
+At TVR. Moving R
+Step 1985 moving to QJV
+At QJV. Moving L
+Step 1986 moving to HVQ
+At HVQ. Moving R
+Step 1987 moving to DRN
+At DRN. Moving R
+Step 1988 moving to RRL
+At RRL. Moving R
+Step 1989 moving to CFX
+At CFX. Moving L
+Step 1990 moving to BSJ
+At BSJ. Moving R
+Step 1991 moving to DCV
+At DCV. Moving R
+Step 1992 moving to QMN
+At QMN. Moving L
+Step 1993 moving to JTR
+At JTR. Moving R
+Step 1994 moving to LFL
+At LFL. Moving R
+Step 1995 moving to RCH
+At RCH. Moving L
+Step 1996 moving to JQM
+At JQM. Moving R
+Step 1997 moving to PJT
+At PJT. Moving L
+Step 1998 moving to TTC
+At TTC. Moving R
+Step 1999 moving to XDP
+At XDP. Moving R
+Step 2000 moving to SVH
+At SVH. Moving L
+Step 2001 moving to SLR
+At SLR. Moving R
+Step 2002 moving to QJC
+At QJC. Moving L
+Step 2003 moving to RJR
+At RJR. Moving R
+Step 2004 moving to DRK
+At DRK. Moving R
+Step 2005 moving to NVJ
+At NVJ. Moving R
+Step 2006 moving to DPN
+At DPN. Moving L
+Step 2007 moving to TFT
+At TFT. Moving R
+Step 2008 moving to SHP
+At SHP. Moving R
+Step 2009 moving to SSN
+At SSN. Moving L
+Step 2010 moving to KGR
+At KGR. Moving R
+Step 2011 moving to FSH
+At FSH. Moving R
+Step 2012 moving to FPX
+At FPX. Moving R
+Step 2013 moving to RSG
+At RSG. Moving L
+Step 2014 moving to DLB
+At DLB. Moving L
+Step 2015 moving to DBX
+At DBX. Moving R
+Step 2016 moving to QHF
+At QHF. Moving R
+Step 2017 moving to FHL
+At FHL. Moving R
+Step 2018 moving to PLN
+At PLN. Moving L
+Step 2019 moving to LMM
+At LMM. Moving R
+Step 2020 moving to BMK
+At BMK. Moving L
+Step 2021 moving to JKH
+At JKH. Moving R
+Step 2022 moving to PJB
+At PJB. Moving L
+Step 2023 moving to VCJ
+At VCJ. Moving L
+Step 2024 moving to QHM
+At QHM. Moving L
+Step 2025 moving to KQD
+At KQD. Moving R
+Step 2026 moving to KQX
+At KQX. Moving R
+Step 2027 moving to LVT
+At LVT. Moving R
+Step 2028 moving to GFK
+At GFK. Moving L
+Step 2029 moving to GCL
+At GCL. Moving L
+Step 2030 moving to QKX
+At QKX. Moving L
+Step 2031 moving to XPM
+At XPM. Moving R
+Step 2032 moving to CMS
+At CMS. Moving R
+Step 2033 moving to XGR
+At XGR. Moving L
+Step 2034 moving to BXB
+At BXB. Moving L
+Step 2035 moving to MTH
+At MTH. Moving R
+Step 2036 moving to KTL
+At KTL. Moving R
+Step 2037 moving to CRN
+At CRN. Moving L
+Step 2038 moving to PJV
+At PJV. Moving R
+Step 2039 moving to SPT
+At SPT. Moving L
+Step 2040 moving to KSK
+At KSK. Moving R
+Step 2041 moving to VSD
+At VSD. Moving R
+Step 2042 moving to GST
+At GST. Moving L
+Step 2043 moving to PNB
+At PNB. Moving R
+Step 2044 moving to DSS
+At DSS. Moving L
+Step 2045 moving to FTJ
+At FTJ. Moving L
+Step 2046 moving to LJN
+At LJN. Moving L
+Step 2047 moving to HVQ
+At HVQ. Moving R
+Step 2048 moving to DRN
+At DRN. Moving R
+Step 2049 moving to RRL
+At RRL. Moving R
+Step 2050 moving to CFX
+At CFX. Moving R
+Step 2051 moving to MCL
+At MCL. Moving L
+Step 2052 moving to DCV
+At DCV. Moving L
+Step 2053 moving to XXH
+At XXH. Moving R
+Step 2054 moving to JTR
+At JTR. Moving L
+Step 2055 moving to MDT
+At MDT. Moving R
+Step 2056 moving to CMR
+At CMR. Moving R
+Step 2057 moving to GDS
+At GDS. Moving R
+Step 2058 moving to DBD
+At DBD. Moving L
+Step 2059 moving to QLT
+At QLT. Moving L
+Step 2060 moving to HQL
+At HQL. Moving L
+Step 2061 moving to JQX
+At JQX. Moving R
+Step 2062 moving to JBK
+At JBK. Moving L
+Step 2063 moving to BDH
+At BDH. Moving R
+Step 2064 moving to RJR
+At RJR. Moving R
+Step 2065 moving to DRK
+At DRK. Moving L
+Step 2066 moving to DRS
+At DRS. Moving R
+Step 2067 moving to BLM
+At BLM. Moving R
+Step 2068 moving to TFT
+At TFT. Moving R
+Step 2069 moving to SHP
+At SHP. Moving L
+Step 2070 moving to SMM
+At SMM. Moving R
+Step 2071 moving to TTK
+At TTK. Moving L
+Step 2072 moving to VQQ
+At VQQ. Moving R
+Step 2073 moving to FPX
+At FPX. Moving R
+Step 2074 moving to RSG
+At RSG. Moving L
+Step 2075 moving to DLB
+At DLB. Moving R
+Step 2076 moving to FNP
+At FNP. Moving L
+Step 2077 moving to DHB
+At DHB. Moving R
+Step 2078 moving to GPM
+At GPM. Moving L
+Step 2079 moving to PLN
+At PLN. Moving R
+Step 2080 moving to KCF
+At KCF. Moving R
+Step 2081 moving to BMK
+At BMK. Moving R
+Step 2082 moving to BPL
+At BPL. Moving L
+Step 2083 moving to QRS
+At QRS. Moving R
+Step 2084 moving to VCJ
+At VCJ. Moving R
+Step 2085 moving to PTR
+At PTR. Moving R
+Step 2086 moving to GNP
+At GNP. Moving L
+Step 2087 moving to KQX
+At KQX. Moving R
+Step 2088 moving to LVT
+At LVT. Moving L
+Step 2089 moving to DKT
+At DKT. Moving R
+Step 2090 moving to GCL
+At GCL. Moving L
+Step 2091 moving to QKX
+At QKX. Moving R
+Step 2092 moving to QRP
+At QRP. Moving R
+Step 2093 moving to JTL
+At JTL. Moving L
+Step 2094 moving to QLS
+At QLS. Moving L
+Step 2095 moving to TCX
+At TCX. Moving R
+Step 2096 moving to MTH
+At MTH. Moving R
+Step 2097 moving to KTL
+At KTL. Moving R
+Step 2098 moving to CRN
+At CRN. Moving L
+Step 2099 moving to PJV
+At PJV. Moving R
+Step 2100 moving to SPT
+At SPT. Moving R
+Step 2101 moving to KSK
+At KSK. Moving L
+Step 2102 moving to TFQ
+At TFQ. Moving R
+Step 2103 moving to SBB
+At SBB. Moving R
+Step 2104 moving to PNB
+At PNB. Moving L
+Step 2105 moving to PHG
+At PHG. Moving L
+Step 2106 moving to FTJ
+At FTJ. Moving R
+Step 2107 moving to QJV
+At QJV. Moving L
+Step 2108 moving to HVQ
+At HVQ. Moving R
+Step 2109 moving to DRN
+At DRN. Moving R
+Step 2110 moving to RRL
+At RRL. Moving R
+Step 2111 moving to CFX
+At CFX. Moving L
+Step 2112 moving to BSJ
+At BSJ. Moving R
+Step 2113 moving to DCV
+At DCV. Moving L
+Step 2114 moving to XXH
+At XXH. Moving R
+Step 2115 moving to JTR
+At JTR. Moving L
+Step 2116 moving to MDT
+At MDT. Moving L
+Step 2117 moving to RCH
+At RCH. Moving R
+Step 2118 moving to GDS
+At GDS. Moving R
+Step 2119 moving to DBD
+At DBD. Moving R
+Step 2120 moving to TTC
+At TTC. Moving L
+Step 2121 moving to HQL
+At HQL. Moving L
+Step 2122 moving to JQX
+At JQX. Moving R
+Step 2123 moving to JBK
+At JBK. Moving R
+Step 2124 moving to QJC
+At QJC. Moving R
+Step 2125 moving to CNX
+At CNX. Moving L
+Step 2126 moving to CTN
+At CTN. Moving R
+Step 2127 moving to DRS
+At DRS. Moving L
+Step 2128 moving to DPN
+At DPN. Moving R
+Step 2129 moving to LGT
+At LGT. Moving R
+Step 2130 moving to SHP
+At SHP. Moving R
+Step 2131 moving to SSN
+At SSN. Moving L
+Step 2132 moving to KGR
+At KGR. Moving R
+Step 2133 moving to FSH
+At FSH. Moving R
+Step 2134 moving to FPX
+At FPX. Moving R
+Step 2135 moving to RSG
+At RSG. Moving L
+Step 2136 moving to DLB
+At DLB. Moving R
+Step 2137 moving to FNP
+At FNP. Moving R
+Step 2138 moving to QHF
+At QHF. Moving R
+Step 2139 moving to FHL
+At FHL. Moving L
+Step 2140 moving to SSL
+At SSL. Moving L
+Step 2141 moving to LMM
+At LMM. Moving L
+Step 2142 moving to MPD
+At MPD. Moving R
+Step 2143 moving to BPL
+At BPL. Moving R
+Step 2144 moving to PJB
+At PJB. Moving R
+Step 2145 moving to RMC
+At RMC. Moving L
+Step 2146 moving to QHM
+At QHM. Moving R
+Step 2147 moving to GNP
+At GNP. Moving R
+Step 2148 moving to TSS
+At TSS. Moving L
+Step 2149 moving to LVT
+At LVT. Moving R
+Step 2150 moving to GFK
+At GFK. Moving R
+Step 2151 moving to HGH
+At HGH. Moving L
+Step 2152 moving to QKX
+At QKX. Moving R
+Step 2153 moving to QRP
+At QRP. Moving L
+Step 2154 moving to CMS
+At CMS. Moving R
+Step 2155 moving to XGR
+At XGR. Moving R
+Step 2156 moving to TCX
+At TCX. Moving L
+Step 2157 moving to KQT
+At KQT. Moving R
+Step 2158 moving to KTL
+At KTL. Moving L
+Step 2159 moving to PMJ
+At PMJ. Moving R
+Step 2160 moving to PJV
+At PJV. Moving R
+Step 2161 moving to SPT
+At SPT. Moving R
+Step 2162 moving to KSK
+At KSK. Moving L
+Step 2163 moving to TFQ
+At TFQ. Moving R
+Step 2164 moving to SBB
+At SBB. Moving L
+Step 2165 moving to DVN
+At DVN. Moving R
+Step 2166 moving to DSS
+At DSS. Moving R
+Step 2167 moving to TVR
+At TVR. Moving L
+Step 2168 moving to LJN
+At LJN. Moving R
+Step 2169 moving to NMN
+At NMN. Moving L
+Step 2170 moving to DRN
+At DRN. Moving R
+Step 2171 moving to RRL
+At RRL. Moving L
+Step 2172 moving to DHF
+At DHF. Moving R
+Step 2173 moving to MCL
+At MCL. Moving R
+Step 2174 moving to QBR
+At QBR. Moving R
+Step 2175 moving to XXH
+At XXH. Moving L
+Step 2176 moving to PHF
+At PHF. Moving R
+Step 2177 moving to MDT
+At MDT. Moving L
+Step 2178 moving to RCH
+At RCH. Moving L
+Step 2179 moving to JQM
+At JQM. Moving L
+Step 2180 moving to DBD
+At DBD. Moving R
+Step 2181 moving to TTC
+At TTC. Moving R
+Step 2182 moving to XDP
+At XDP. Moving R
+Step 2183 moving to SVH
+At SVH. Moving L
+Step 2184 moving to SLR
+At SLR. Moving L
+Step 2185 moving to BDH
+At BDH. Moving L
+Step 2186 moving to CNX
+At CNX. Moving R
+Step 2187 moving to DRK
+At DRK. Moving L
+Step 2188 moving to DRS
+At DRS. Moving R
+Step 2189 moving to BLM
+At BLM. Moving R
+Step 2190 moving to TFT
+At TFT. Moving R
+Step 2191 moving to SHP
+At SHP. Moving L
+Step 2192 moving to SMM
+At SMM. Moving R
+Step 2193 moving to TTK
+At TTK. Moving L
+Step 2194 moving to VQQ
+At VQQ. Moving R
+Step 2195 moving to FPX
+At FPX. Moving R
+Step 2196 moving to RSG
+At RSG. Moving L
+Step 2197 moving to DLB
+At DLB. Moving R
+Step 2198 moving to FNP
+At FNP. Moving L
+Step 2199 moving to DHB
+At DHB. Moving R
+Step 2200 moving to GPM
+At GPM. Moving L
+Step 2201 moving to PLN
+At PLN. Moving R
+Step 2202 moving to KCF
+At KCF. Moving L
+Step 2203 moving to MPD
+At MPD. Moving R
+Step 2204 moving to BPL
+At BPL. Moving R
+Step 2205 moving to PJB
+At PJB. Moving L
+Step 2206 moving to VCJ
+At VCJ. Moving R
+Step 2207 moving to PTR
+At PTR. Moving R
+Step 2208 moving to GNP
+At GNP. Moving L
+Step 2209 moving to KQX
+At KQX. Moving R
+Step 2210 moving to LVT
+At LVT. Moving R
+Step 2211 moving to GFK
+At GFK. Moving L
+Step 2212 moving to GCL
+At GCL. Moving R
+Step 2213 moving to KJP
+At KJP. Moving L
+Step 2214 moving to XPM
+At XPM. Moving R
+Step 2215 moving to CMS
+At CMS. Moving R
+Step 2216 moving to XGR
+At XGR. Moving R
+Step 2217 moving to TCX
+At TCX. Moving L
+Step 2218 moving to KQT
+At KQT. Moving R
+Step 2219 moving to KTL
+At KTL. Moving R
+Step 2220 moving to CRN
+At CRN. Moving R
+Step 2221 moving to TBN
+At TBN. Moving L
+Step 2222 moving to SPT
+At SPT. Moving R
+Step 2223 moving to KSK
+At KSK. Moving R
+Step 2224 moving to VSD
+At VSD. Moving L
+Step 2225 moving to SBB
+At SBB. Moving R
+Step 2226 moving to PNB
+At PNB. Moving R
+Step 2227 moving to DSS
+At DSS. Moving R
+Step 2228 moving to TVR
+At TVR. Moving L
+Step 2229 moving to LJN
+At LJN. Moving R
+Step 2230 moving to NMN
+At NMN. Moving R
+Step 2231 moving to NMR
+At NMR. Moving L
+Step 2232 moving to RRL
+At RRL. Moving R
+Step 2233 moving to CFX
+At CFX. Moving R
+Step 2234 moving to MCL
+At MCL. Moving L
+Step 2235 moving to DCV
+At DCV. Moving R
+Step 2236 moving to QMN
+At QMN. Moving R
+Step 2237 moving to PHF
+At PHF. Moving R
+Step 2238 moving to MDT
+At MDT. Moving L
+Step 2239 moving to RCH
+At RCH. Moving L
+Step 2240 moving to JQM
+At JQM. Moving R
+Step 2241 moving to PJT
+At PJT. Moving L
+Step 2242 moving to TTC
+At TTC. Moving R
+Step 2243 moving to XDP
+At XDP. Moving R
+Step 2244 moving to SVH
+At SVH. Moving L
+Step 2245 moving to SLR
+At SLR. Moving L
+Step 2246 moving to BDH
+At BDH. Moving L
+Step 2247 moving to CNX
+At CNX. Moving R
+Step 2248 moving to DRK
+At DRK. Moving R
+Step 2249 moving to NVJ
+At NVJ. Moving L
+Step 2250 moving to BLM
+At BLM. Moving R
+Step 2251 moving to TFT
+At TFT. Moving R
+Step 2252 moving to SHP
+At SHP. Moving L
+Step 2253 moving to SMM
+At SMM. Moving R
+Step 2254 moving to TTK
+At TTK. Moving L
+Step 2255 moving to VQQ
+At VQQ. Moving R
+Step 2256 moving to FPX
+At FPX. Moving L
+Step 2257 moving to BNR
+At BNR. Moving L
+Step 2258 moving to DLB
+At DLB. Moving L
+Step 2259 moving to DBX
+At DBX. Moving R
+Step 2260 moving to QHF
+At QHF. Moving R
+Step 2261 moving to FHL
+At FHL. Moving L
+Step 2262 moving to SSL
+At SSL. Moving R
+Step 2263 moving to KCF
+At KCF. Moving R
+Step 2264 moving to BMK
+At BMK. Moving L
+Step 2265 moving to JKH
+At JKH. Moving R
+Step 2266 moving to PJB
+At PJB. Moving R
+Step 2267 moving to RMC
+At RMC. Moving R
+Step 2268 moving to PTR
+At PTR. Moving L
+Step 2269 moving to KQD
+At KQD. Moving R
+Step 2270 moving to KQX
+At KQX. Moving R
+Step 2271 moving to LVT
+At LVT. Moving L
+Step 2272 moving to DKT
+At DKT. Moving L
+Step 2273 moving to HGH
+At HGH. Moving R
+Step 2274 moving to KJP
+At KJP. Moving L
+Step 2275 moving to XPM
+At XPM. Moving R
+Step 2276 moving to CMS
+At CMS. Moving R
+Step 2277 moving to XGR
+At XGR. Moving R
+Step 2278 moving to TCX
+At TCX. Moving L
+Step 2279 moving to KQT
+At KQT. Moving R
+Step 2280 moving to KTL
+At KTL. Moving R
+Step 2281 moving to CRN
+At CRN. Moving R
+Step 2282 moving to TBN
+At TBN. Moving L
+Step 2283 moving to SPT
+At SPT. Moving R
+Step 2284 moving to KSK
+At KSK. Moving R
+Step 2285 moving to VSD
+At VSD. Moving L
+Step 2286 moving to SBB
+At SBB. Moving R
+Step 2287 moving to PNB
+At PNB. Moving R
+Step 2288 moving to DSS
+At DSS. Moving L
+Step 2289 moving to FTJ
+At FTJ. Moving R
+Step 2290 moving to QJV
+At QJV. Moving L
+Step 2291 moving to HVQ
+At HVQ. Moving R
+Step 2292 moving to DRN
+At DRN. Moving R
+Step 2293 moving to RRL
+At RRL. Moving L
+Step 2294 moving to DHF
+At DHF. Moving R
+Step 2295 moving to MCL
+At MCL. Moving L
+Step 2296 moving to DCV
+At DCV. Moving R
+Step 2297 moving to QMN
+At QMN. Moving R
+Step 2298 moving to PHF
+At PHF. Moving R
+Step 2299 moving to MDT
+At MDT. Moving L
+Step 2300 moving to RCH
+At RCH. Moving R
+Step 2301 moving to GDS
+At GDS. Moving R
+Step 2302 moving to DBD
+At DBD. Moving L
+Step 2303 moving to QLT
+At QLT. Moving R
+Step 2304 moving to XDP
+At XDP. Moving R
+Step 2305 moving to SVH
+At SVH. Moving R
+Step 2306 moving to JBK
+At JBK. Moving L
+Step 2307 moving to BDH
+At BDH. Moving L
+Step 2308 moving to CNX
+At CNX. Moving R
+Step 2309 moving to DRK
+At DRK. Moving R
+Step 2310 moving to NVJ
+At NVJ. Moving R
+Step 2311 moving to DPN
+At DPN. Moving L
+Step 2312 moving to TFT
+At TFT. Moving R
+Step 2313 moving to SHP
+At SHP. Moving L
+Step 2314 moving to SMM
+At SMM. Moving R
+Step 2315 moving to TTK
+At TTK. Moving L
+Step 2316 moving to VQQ
+At VQQ. Moving L
+Step 2317 moving to QSB
+At QSB. Moving L
+Step 2318 moving to BNR
+At BNR. Moving R
+Step 2319 moving to QNM
+At QNM. Moving R
+Step 2320 moving to FNP
+At FNP. Moving R
+Step 2321 moving to QHF
+At QHF. Moving L
+Step 2322 moving to GPM
+At GPM. Moving L
+Step 2323 moving to PLN
+At PLN. Moving L
+Step 2324 moving to LMM
+At LMM. Moving R
+Step 2325 moving to BMK
+At BMK. Moving R
+Step 2326 moving to BPL
+At BPL. Moving L
+Step 2327 moving to QRS
+At QRS. Moving L
+Step 2328 moving to RMC
+At RMC. Moving R
+Step 2329 moving to PTR
+At PTR. Moving R
+Step 2330 moving to GNP
+At GNP. Moving L
+Step 2331 moving to KQX
+At KQX. Moving R
+Step 2332 moving to LVT
+At LVT. Moving L
+Step 2333 moving to DKT
+At DKT. Moving R
+Step 2334 moving to GCL
+At GCL. Moving R
+Step 2335 moving to KJP
+At KJP. Moving L
+Step 2336 moving to XPM
+At XPM. Moving R
+Step 2337 moving to CMS
+At CMS. Moving L
+Step 2338 moving to QLS
+At QLS. Moving L
+Step 2339 moving to TCX
+At TCX. Moving L
+Step 2340 moving to KQT
+At KQT. Moving R
+Step 2341 moving to KTL
+At KTL. Moving R
+Step 2342 moving to CRN
+At CRN. Moving R
+Step 2343 moving to TBN
+At TBN. Moving R
+Step 2344 moving to JCV
+At JCV. Moving L
+Step 2345 moving to KSK
+At KSK. Moving L
+Step 2346 moving to TFQ
+At TFQ. Moving R
+Step 2347 moving to SBB
+At SBB. Moving L
+Step 2348 moving to DVN
+At DVN. Moving R
+Step 2349 moving to DSS
+At DSS. Moving R
+Step 2350 moving to TVR
+At TVR. Moving R
+Step 2351 moving to QJV
+At QJV. Moving L
+Step 2352 moving to HVQ
+At HVQ. Moving L
+Step 2353 moving to NMR
+At NMR. Moving L
+Step 2354 moving to RRL
+At RRL. Moving R
+Step 2355 moving to CFX
+At CFX. Moving L
+Step 2356 moving to BSJ
+At BSJ. Moving R
+Step 2357 moving to DCV
+At DCV. Moving R
+Step 2358 moving to QMN
+At QMN. Moving L
+Step 2359 moving to JTR
+At JTR. Moving R
+Step 2360 moving to LFL
+At LFL. Moving R
+Step 2361 moving to RCH
+At RCH. Moving R
+Step 2362 moving to GDS
+At GDS. Moving L
+Step 2363 moving to PJT
+At PJT. Moving R
+Step 2364 moving to QLT
+At QLT. Moving L
+Step 2365 moving to HQL
+At HQL. Moving R
+Step 2366 moving to SVH
+At SVH. Moving R
+Step 2367 moving to JBK
+At JBK. Moving L
+Step 2368 moving to BDH
+At BDH. Moving R
+Step 2369 moving to RJR
+At RJR. Moving L
+Step 2370 moving to CTN
+At CTN. Moving R
+Step 2371 moving to DRS
+At DRS. Moving L
+Step 2372 moving to DPN
+At DPN. Moving R
+Step 2373 moving to LGT
+At LGT. Moving R
+Step 2374 moving to SHP
+At SHP. Moving R
+Step 2375 moving to SSN
+At SSN. Moving L
+Step 2376 moving to KGR
+At KGR. Moving R
+Step 2377 moving to FSH
+At FSH. Moving R
+Step 2378 moving to FPX
+At FPX. Moving R
+Step 2379 moving to RSG
+At RSG. Moving L
+Step 2380 moving to DLB
+At DLB. Moving R
+Step 2381 moving to FNP
+At FNP. Moving L
+Step 2382 moving to DHB
+At DHB. Moving R
+Step 2383 moving to GPM
+At GPM. Moving L
+Step 2384 moving to PLN
+At PLN. Moving R
+Step 2385 moving to KCF
+At KCF. Moving R
+Step 2386 moving to BMK
+At BMK. Moving L
+Step 2387 moving to JKH
+At JKH. Moving L
+Step 2388 moving to QRS
+At QRS. Moving R
+Step 2389 moving to VCJ
+At VCJ. Moving R
+Step 2390 moving to PTR
+At PTR. Moving R
+Step 2391 moving to GNP
+At GNP. Moving L
+Step 2392 moving to KQX
+At KQX. Moving R
+Step 2393 moving to LVT
+At LVT. Moving R
+Step 2394 moving to GFK
+At GFK. Moving L
+Step 2395 moving to GCL
+At GCL. Moving R
+Step 2396 moving to KJP
+At KJP. Moving R
+Step 2397 moving to QRP
+At QRP. Moving L
+Step 2398 moving to CMS
+At CMS. Moving L
+Step 2399 moving to QLS
+At QLS. Moving R
+Step 2400 moving to BXB
+At BXB. Moving L
+Step 2401 moving to MTH
+At MTH. Moving R
+Step 2402 moving to KTL
+At KTL. Moving R
+Step 2403 moving to CRN
+At CRN. Moving R
+Step 2404 moving to TBN
+At TBN. Moving L
+Step 2405 moving to SPT
+At SPT. Moving R
+Step 2406 moving to KSK
+At KSK. Moving L
+Step 2407 moving to TFQ
+At TFQ. Moving R
+Step 2408 moving to SBB
+At SBB. Moving L
+Step 2409 moving to DVN
+At DVN. Moving L
+Step 2410 moving to PHG
+At PHG. Moving R
+Step 2411 moving to TVR
+At TVR. Moving R
+Step 2412 moving to QJV
+At QJV. Moving R
+Step 2413 moving to NMN
+At NMN. Moving L
+Step 2414 moving to DRN
+At DRN. Moving L
+Step 2415 moving to XSC
+At XSC. Moving R
+Step 2416 moving to DHF
+At DHF. Moving R
+Step 2417 moving to MCL
+At MCL. Moving R
+Step 2418 moving to QBR
+At QBR. Moving L
+Step 2419 moving to QMN
+At QMN. Moving R
+Step 2420 moving to PHF
+At PHF. Moving L
+Step 2421 moving to LFL
+At LFL. Moving R
+Step 2422 moving to RCH
+At RCH. Moving R
+Step 2423 moving to GDS
+At GDS. Moving R
+Step 2424 moving to DBD
+At DBD. Moving L
+Step 2425 moving to QLT
+At QLT. Moving R
+Step 2426 moving to XDP
+At XDP. Moving R
+Step 2427 moving to SVH
+At SVH. Moving R
+Step 2428 moving to JBK
+At JBK. Moving L
+Step 2429 moving to BDH
+At BDH. Moving R
+Step 2430 moving to RJR
+At RJR. Moving R
+Step 2431 moving to DRK
+At DRK. Moving R
+Step 2432 moving to NVJ
+At NVJ. Moving L
+Step 2433 moving to BLM
+At BLM. Moving L
+Step 2434 moving to LGT
+At LGT. Moving L
+Step 2435 moving to XPK
+At XPK. Moving R
+Step 2436 moving to SMM
+At SMM. Moving R
+Step 2437 moving to TTK
+At TTK. Moving R
+Step 2438 moving to FSH
+At FSH. Moving L
+Step 2439 moving to QSB
+At QSB. Moving R
+Step 2440 moving to RSG
+At RSG. Moving R
+Step 2441 moving to QNM
+At QNM. Moving L
+Step 2442 moving to DBX
+At DBX. Moving R
+Step 2443 moving to QHF
+At QHF. Moving R
+Step 2444 moving to FHL
+At FHL. Moving L
+Step 2445 moving to SSL
+At SSL. Moving R
+Step 2446 moving to KCF
+At KCF. Moving L
+Step 2447 moving to MPD
+At MPD. Moving R
+Step 2448 moving to BPL
+At BPL. Moving R
+Step 2449 moving to PJB
+At PJB. Moving L
+Step 2450 moving to VCJ
+At VCJ. Moving R
+Step 2451 moving to PTR
+At PTR. Moving L
+Step 2452 moving to KQD
+At KQD. Moving R
+Step 2453 moving to KQX
+At KQX. Moving R
+Step 2454 moving to LVT
+At LVT. Moving R
+Step 2455 moving to GFK
+At GFK. Moving L
+Step 2456 moving to GCL
+At GCL. Moving R
+Step 2457 moving to KJP
+At KJP. Moving L
+Step 2458 moving to XPM
+At XPM. Moving R
+Step 2459 moving to CMS
+At CMS. Moving R
+Step 2460 moving to XGR
+At XGR. Moving L
+Step 2461 moving to BXB
+At BXB. Moving R
+Step 2462 moving to KQT
+At KQT. Moving L
+Step 2463 moving to BHG
+At BHG. Moving R
+Step 2464 moving to CRN
+At CRN. Moving L
+Step 2465 moving to PJV
+At PJV. Moving R
+Step 2466 moving to SPT
+At SPT. Moving R
+Step 2467 moving to KSK
+At KSK. Moving R
+Step 2468 moving to VSD
+At VSD. Moving L
+Step 2469 moving to SBB
+At SBB. Moving R
+Step 2470 moving to PNB
+At PNB. Moving L
+Step 2471 moving to PHG
+At PHG. Moving L
+Step 2472 moving to FTJ
+At FTJ. Moving L
+Step 2473 moving to LJN
+At LJN. Moving R
+Step 2474 moving to NMN
+At NMN. Moving R
+Step 2475 moving to NMR
+At NMR. Moving R
+Step 2476 moving to XSC
+At XSC. Moving L
+Step 2477 moving to CFX
+At CFX. Moving L
+Step 2478 moving to BSJ
+At BSJ. Moving L
+Step 2479 moving to QBR
+At QBR. Moving R
+Step 2480 moving to XXH
+At XXH. Moving L
+Step 2481 moving to PHF
+At PHF. Moving R
+Step 2482 moving to MDT
+At MDT. Moving R
+Step 2483 moving to CMR
+At CMR. Moving R
+Step 2484 moving to GDS
+At GDS. Moving L
+Step 2485 moving to PJT
+At PJT. Moving R
+Step 2486 moving to QLT
+At QLT. Moving L
+Step 2487 moving to HQL
+At HQL. Moving R
+Step 2488 moving to SVH
+At SVH. Moving R
+Step 2489 moving to JBK
+At JBK. Moving L
+Step 2490 moving to BDH
+At BDH. Moving R
+Step 2491 moving to RJR
+At RJR. Moving L
+Step 2492 moving to CTN
+At CTN. Moving R
+Step 2493 moving to DRS
+At DRS. Moving L
+Step 2494 moving to DPN
+At DPN. Moving R
+Step 2495 moving to LGT
+At LGT. Moving L
+Step 2496 moving to XPK
+At XPK. Moving R
+Step 2497 moving to SMM
+At SMM. Moving R
+Step 2498 moving to TTK
+At TTK. Moving L
+Step 2499 moving to VQQ
+At VQQ. Moving R
+Step 2500 moving to FPX
+At FPX. Moving R
+Step 2501 moving to RSG
+At RSG. Moving L
+Step 2502 moving to DLB
+At DLB. Moving R
+Step 2503 moving to FNP
+At FNP. Moving R
+Step 2504 moving to QHF
+At QHF. Moving L
+Step 2505 moving to GPM
+At GPM. Moving R
+Step 2506 moving to SSL
+At SSL. Moving L
+Step 2507 moving to LMM
+At LMM. Moving R
+Step 2508 moving to BMK
+At BMK. Moving R
+Step 2509 moving to BPL
+At BPL. Moving R
+Step 2510 moving to PJB
+At PJB. Moving L
+Step 2511 moving to VCJ
+At VCJ. Moving R
+Step 2512 moving to PTR
+At PTR. Moving R
+Step 2513 moving to GNP
+At GNP. Moving R
+Step 2514 moving to TSS
+At TSS. Moving L
+Step 2515 moving to LVT
+At LVT. Moving R
+Step 2516 moving to GFK
+At GFK. Moving R
+Step 2517 moving to HGH
+At HGH. Moving L
+Step 2518 moving to QKX
+At QKX. Moving R
+Step 2519 moving to QRP
+At QRP. Moving R
+Step 2520 moving to JTL
+At JTL. Moving R
+Step 2521 moving to XGR
+At XGR. Moving L
+Step 2522 moving to BXB
+At BXB. Moving R
+Step 2523 moving to KQT
+At KQT. Moving R
+Step 2524 moving to KTL
+At KTL. Moving L
+Step 2525 moving to PMJ
+At PMJ. Moving R
+Step 2526 moving to PJV
+At PJV. Moving R
+Step 2527 moving to SPT
+At SPT. Moving L
+Step 2528 moving to KSK
+At KSK. Moving R
+Step 2529 moving to VSD
+At VSD. Moving R
+Step 2530 moving to GST
+At GST. Moving R
+Step 2531 moving to DVN
+At DVN. Moving L
+Step 2532 moving to PHG
+At PHG. Moving L
+Step 2533 moving to FTJ
+At FTJ. Moving R
+Step 2534 moving to QJV
+At QJV. Moving L
+Step 2535 moving to HVQ
+At HVQ. Moving R
+Step 2536 moving to DRN
+At DRN. Moving R
+Step 2537 moving to RRL
+At RRL. Moving L
+Step 2538 moving to DHF
+At DHF. Moving L
+Step 2539 moving to BSJ
+At BSJ. Moving L
+Step 2540 moving to QBR
+At QBR. Moving R
+Step 2541 moving to XXH
+At XXH. Moving R
+Step 2542 moving to JTR
+At JTR. Moving L
+Step 2543 moving to MDT
+At MDT. Moving R
+Step 2544 moving to CMR
+At CMR. Moving R
+Step 2545 moving to GDS
+At GDS. Moving L
+Step 2546 moving to PJT
+At PJT. Moving R
+Step 2547 moving to QLT
+At QLT. Moving L
+Step 2548 moving to HQL
+At HQL. Moving R
+Step 2549 moving to SVH
+At SVH. Moving L
+Step 2550 moving to SLR
+At SLR. Moving L
+Step 2551 moving to BDH
+At BDH. Moving L
+Step 2552 moving to CNX
+At CNX. Moving R
+Step 2553 moving to DRK
+At DRK. Moving R
+Step 2554 moving to NVJ
+At NVJ. Moving L
+Step 2555 moving to BLM
+At BLM. Moving R
+Step 2556 moving to TFT
+At TFT. Moving R
+Step 2557 moving to SHP
+At SHP. Moving L
+Step 2558 moving to SMM
+At SMM. Moving R
+Step 2559 moving to TTK
+At TTK. Moving R
+Step 2560 moving to FSH
+At FSH. Moving R
+Step 2561 moving to FPX
+At FPX. Moving L
+Step 2562 moving to BNR
+At BNR. Moving R
+Step 2563 moving to QNM
+At QNM. Moving R
+Step 2564 moving to FNP
+At FNP. Moving L
+Step 2565 moving to DHB
+At DHB. Moving L
+Step 2566 moving to FHL
+At FHL. Moving R
+Step 2567 moving to PLN
+At PLN. Moving L
+Step 2568 moving to LMM
+At LMM. Moving R
+Step 2569 moving to BMK
+At BMK. Moving R
+Step 2570 moving to BPL
+At BPL. Moving R
+Step 2571 moving to PJB
+At PJB. Moving L
+Step 2572 moving to VCJ
+At VCJ. Moving R
+Step 2573 moving to PTR
+At PTR. Moving R
+Step 2574 moving to GNP
+At GNP. Moving R
+Step 2575 moving to TSS
+At TSS. Moving L
+Step 2576 moving to LVT
+At LVT. Moving R
+Step 2577 moving to GFK
+At GFK. Moving R
+Step 2578 moving to HGH
+At HGH. Moving L
+Step 2579 moving to QKX
+At QKX. Moving R
+Step 2580 moving to QRP
+At QRP. Moving R
+Step 2581 moving to JTL
+At JTL. Moving L
+Step 2582 moving to QLS
+At QLS. Moving R
+Step 2583 moving to BXB
+At BXB. Moving L
+Step 2584 moving to MTH
+At MTH. Moving R
+Step 2585 moving to KTL
+At KTL. Moving R
+Step 2586 moving to CRN
+At CRN. Moving L
+Step 2587 moving to PJV
+At PJV. Moving R
+Step 2588 moving to SPT
+At SPT. Moving L
+Step 2589 moving to KSK
+At KSK. Moving R
+Step 2590 moving to VSD
+At VSD. Moving R
+Step 2591 moving to GST
+At GST. Moving R
+Step 2592 moving to DVN
+At DVN. Moving L
+Step 2593 moving to PHG
+At PHG. Moving R
+Step 2594 moving to TVR
+At TVR. Moving R
+Step 2595 moving to QJV
+At QJV. Moving L
+Step 2596 moving to HVQ
+At HVQ. Moving R
+Step 2597 moving to DRN
+At DRN. Moving R
+Step 2598 moving to RRL
+At RRL. Moving R
+Step 2599 moving to CFX
+At CFX. Moving L
+Step 2600 moving to BSJ
+At BSJ. Moving L
+Step 2601 moving to QBR
+At QBR. Moving R
+Step 2602 moving to XXH
+At XXH. Moving R
+Step 2603 moving to JTR
+At JTR. Moving R
+Step 2604 moving to LFL
+At LFL. Moving L
+Step 2605 moving to CMR
+At CMR. Moving R
+Step 2606 moving to GDS
+At GDS. Moving L
+Step 2607 moving to PJT
+At PJT. Moving R
+Step 2608 moving to QLT
+At QLT. Moving L
+Step 2609 moving to HQL
+At HQL. Moving L
+Step 2610 moving to JQX
+At JQX. Moving L
+Step 2611 moving to SLR
+At SLR. Moving R
+Step 2612 moving to QJC
+At QJC. Moving R
+Step 2613 moving to CNX
+At CNX. Moving R
+Step 2614 moving to DRK
+At DRK. Moving L
+Step 2615 moving to DRS
+At DRS. Moving L
+Step 2616 moving to DPN
+At DPN. Moving L
+Step 2617 moving to TFT
+At TFT. Moving R
+Step 2618 moving to SHP
+At SHP. Moving R
+Step 2619 moving to SSN
+At SSN. Moving L
+Step 2620 moving to KGR
+At KGR. Moving L
+Step 2621 moving to VQQ
+At VQQ. Moving R
+Step 2622 moving to FPX
+At FPX. Moving R
+Step 2623 moving to RSG
+At RSG. Moving L
+Step 2624 moving to DLB
+At DLB. Moving R
+Step 2625 moving to FNP
+At FNP. Moving L
+Step 2626 moving to DHB
+At DHB. Moving R
+Step 2627 moving to GPM
+At GPM. Moving R
+Step 2628 moving to SSL
+At SSL. Moving L
+Step 2629 moving to LMM
+At LMM. Moving R
+Step 2630 moving to BMK
+At BMK. Moving L
+Step 2631 moving to JKH
+At JKH. Moving L
+Step 2632 moving to QRS
+At QRS. Moving L
+Step 2633 moving to RMC
+At RMC. Moving R
+Step 2634 moving to PTR
+At PTR. Moving R
+Step 2635 moving to GNP
+At GNP. Moving R
+Step 2636 moving to TSS
+At TSS. Moving R
+Step 2637 moving to HSR
+At HSR. Moving L
+Step 2638 moving to DKT
+At DKT. Moving L
+Step 2639 moving to HGH
+At HGH. Moving R
+Step 2640 moving to KJP
+At KJP. Moving L
+Step 2641 moving to XPM
+At XPM. Moving R
+Step 2642 moving to CMS
+At CMS. Moving R
+Step 2643 moving to XGR
+At XGR. Moving R
+Step 2644 moving to TCX
+At TCX. Moving L
+Step 2645 moving to KQT
+At KQT. Moving L
+Step 2646 moving to BHG
+At BHG. Moving L
+Step 2647 moving to PMJ
+At PMJ. Moving R
+Step 2648 moving to PJV
+At PJV. Moving L
+Step 2649 moving to SPT
+At SPT. Moving R
+Step 2650 moving to KSK
+At KSK. Moving R
+Step 2651 moving to VSD
+At VSD. Moving L
+Step 2652 moving to SBB
+At SBB. Moving R
+Step 2653 moving to PNB
+At PNB. Moving R
+Step 2654 moving to DSS
+At DSS. Moving R
+Step 2655 moving to TVR
+At TVR. Moving L
+Step 2656 moving to LJN
+At LJN. Moving R
+Step 2657 moving to NMN
+At NMN. Moving L
+Step 2658 moving to DRN
+At DRN. Moving R
+Step 2659 moving to RRL
+At RRL. Moving R
+Step 2660 moving to CFX
+At CFX. Moving L
+Step 2661 moving to BSJ
+At BSJ. Moving R
+Step 2662 moving to DCV
+At DCV. Moving L
+Step 2663 moving to XXH
+At XXH. Moving R
+Step 2664 moving to JTR
+At JTR. Moving L
+Step 2665 moving to MDT
+At MDT. Moving R
+Step 2666 moving to CMR
+At CMR. Moving R
+Step 2667 moving to GDS
+At GDS. Moving R
+Step 2668 moving to DBD
+At DBD. Moving L
+Step 2669 moving to QLT
+At QLT. Moving R
+Step 2670 moving to XDP
+At XDP. Moving R
+Step 2671 moving to SVH
+At SVH. Moving R
+Step 2672 moving to JBK
+At JBK. Moving L
+Step 2673 moving to BDH
+At BDH. Moving R
+Step 2674 moving to RJR
+At RJR. Moving L
+Step 2675 moving to CTN
+At CTN. Moving R
+Step 2676 moving to DRS
+At DRS. Moving L
+Step 2677 moving to DPN
+At DPN. Moving R
+Step 2678 moving to LGT
+At LGT. Moving R
+Step 2679 moving to SHP
+At SHP. Moving L
+Step 2680 moving to SMM
+At SMM. Moving L
+Step 2681 moving to KGR
+At KGR. Moving R
+Step 2682 moving to FSH
+At FSH. Moving R
+Step 2683 moving to FPX
+At FPX. Moving R
+Step 2684 moving to RSG
+At RSG. Moving L
+Step 2685 moving to DLB
+At DLB. Moving R
+Step 2686 moving to FNP
+At FNP. Moving R
+Step 2687 moving to QHF
+At QHF. Moving L
+Step 2688 moving to GPM
+At GPM. Moving R
+Step 2689 moving to SSL
+At SSL. Moving R
+Step 2690 moving to KCF
+At KCF. Moving L
+Step 2691 moving to MPD
+At MPD. Moving L
+Step 2692 moving to JKH
+At JKH. Moving R
+Step 2693 moving to PJB
+At PJB. Moving L
+Step 2694 moving to VCJ
+At VCJ. Moving R
+Step 2695 moving to PTR
+At PTR. Moving R
+Step 2696 moving to GNP
+At GNP. Moving R
+Step 2697 moving to TSS
+At TSS. Moving L
+Step 2698 moving to LVT
+At LVT. Moving R
+Step 2699 moving to GFK
+At GFK. Moving L
+Step 2700 moving to GCL
+At GCL. Moving R
+Step 2701 moving to KJP
+At KJP. Moving L
+Step 2702 moving to XPM
+At XPM. Moving L
+Step 2703 moving to JTL
+At JTL. Moving R
+Step 2704 moving to XGR
+At XGR. Moving R
+Step 2705 moving to TCX
+At TCX. Moving R
+Step 2706 moving to MTH
+At MTH. Moving L
+Step 2707 moving to BHG
+At BHG. Moving L
+Step 2708 moving to PMJ
+At PMJ. Moving R
+Step 2709 moving to PJV
+At PJV. Moving R
+Step 2710 moving to SPT
+At SPT. Moving R
+Step 2711 moving to KSK
+At KSK. Moving L
+Step 2712 moving to TFQ
+At TFQ. Moving R
+Step 2713 moving to SBB
+At SBB. Moving L
+Step 2714 moving to DVN
+At DVN. Moving R
+Step 2715 moving to DSS
+At DSS. Moving R
+Step 2716 moving to TVR
+At TVR. Moving R
+Step 2717 moving to QJV
+At QJV. Moving L
+Step 2718 moving to HVQ
+At HVQ. Moving R
+Step 2719 moving to DRN
+At DRN. Moving R
+Step 2720 moving to RRL
+At RRL. Moving R
+Step 2721 moving to CFX
+At CFX. Moving L
+Step 2722 moving to BSJ
+At BSJ. Moving R
+Step 2723 moving to DCV
+At DCV. Moving R
+Step 2724 moving to QMN
+At QMN. Moving R
+Step 2725 moving to PHF
+At PHF. Moving L
+Step 2726 moving to LFL
+At LFL. Moving L
+Step 2727 moving to CMR
+At CMR. Moving L
+Step 2728 moving to JQM
+At JQM. Moving R
+Step 2729 moving to PJT
+At PJT. Moving R
+Step 2730 moving to QLT
+At QLT. Moving R
+Step 2731 moving to XDP
+At XDP. Moving L
+Step 2732 moving to JQX
+At JQX. Moving R
+Step 2733 moving to JBK
+At JBK. Moving R
+Step 2734 moving to QJC
+At QJC. Moving L
+Step 2735 moving to RJR
+At RJR. Moving R
+Step 2736 moving to DRK
+At DRK. Moving R
+Step 2737 moving to NVJ
+At NVJ. Moving L
+Step 2738 moving to BLM
+At BLM. Moving R
+Step 2739 moving to TFT
+At TFT. Moving L
+Step 2740 moving to XPK
+At XPK. Moving R
+Step 2741 moving to SMM
+At SMM. Moving R
+Step 2742 moving to TTK
+At TTK. Moving L
+Step 2743 moving to VQQ
+At VQQ. Moving R
+Step 2744 moving to FPX
+At FPX. Moving L
+Step 2745 moving to BNR
+At BNR. Moving R
+Step 2746 moving to QNM
+At QNM. Moving R
+Step 2747 moving to FNP
+At FNP. Moving R
+Step 2748 moving to QHF
+At QHF. Moving L
+Step 2749 moving to GPM
+At GPM. Moving R
+Step 2750 moving to SSL
+At SSL. Moving L
+Step 2751 moving to LMM
+At LMM. Moving R
+Step 2752 moving to BMK
+At BMK. Moving R
+Step 2753 moving to BPL
+At BPL. Moving L
+Step 2754 moving to QRS
+At QRS. Moving R
+Step 2755 moving to VCJ
+At VCJ. Moving L
+Step 2756 moving to QHM
+At QHM. Moving R
+Step 2757 moving to GNP
+At GNP. Moving L
+Step 2758 moving to KQX
+At KQX. Moving R
+Step 2759 moving to LVT
+At LVT. Moving R
+Step 2760 moving to GFK
+At GFK. Moving R
+Step 2761 moving to HGH
+At HGH. Moving L
+Step 2762 moving to QKX
+At QKX. Moving R
+Step 2763 moving to QRP
+At QRP. Moving L
+Step 2764 moving to CMS
+At CMS. Moving L
+Step 2765 moving to QLS
+At QLS. Moving L
+Step 2766 moving to TCX
+At TCX. Moving R
+Step 2767 moving to MTH
+At MTH. Moving R
+Step 2768 moving to KTL
+At KTL. Moving R
+Step 2769 moving to CRN
+At CRN. Moving L
+Step 2770 moving to PJV
+At PJV. Moving L
+Step 2771 moving to SPT
+At SPT. Moving L
+Step 2772 moving to KSK
+At KSK. Moving R
+Step 2773 moving to VSD
+At VSD. Moving L
+Step 2774 moving to SBB
+At SBB. Moving R
+Step 2775 moving to PNB
+At PNB. Moving R
+Step 2776 moving to DSS
+At DSS. Moving R
+Step 2777 moving to TVR
+At TVR. Moving L
+Step 2778 moving to LJN
+At LJN. Moving R
+Step 2779 moving to NMN
+At NMN. Moving L
+Step 2780 moving to DRN
+At DRN. Moving R
+Step 2781 moving to RRL
+At RRL. Moving R
+Step 2782 moving to CFX
+At CFX. Moving L
+Step 2783 moving to BSJ
+At BSJ. Moving R
+Step 2784 moving to DCV
+At DCV. Moving L
+Step 2785 moving to XXH
+At XXH. Moving R
+Step 2786 moving to JTR
+At JTR. Moving L
+Step 2787 moving to MDT
+At MDT. Moving R
+Step 2788 moving to CMR
+At CMR. Moving L
+Step 2789 moving to JQM
+At JQM. Moving R
+Step 2790 moving to PJT
+At PJT. Moving R
+Step 2791 moving to QLT
+At QLT. Moving L
+Step 2792 moving to HQL
+At HQL. Moving R
+Step 2793 moving to SVH
+At SVH. Moving R
+Step 2794 moving to JBK
+At JBK. Moving L
+Step 2795 moving to BDH
+At BDH. Moving R
+Step 2796 moving to RJR
+At RJR. Moving R
+Step 2797 moving to DRK
+At DRK. Moving L
+Step 2798 moving to DRS
+At DRS. Moving R
+Step 2799 moving to BLM
+At BLM. Moving L
+Step 2800 moving to LGT
+At LGT. Moving R
+Step 2801 moving to SHP
+At SHP. Moving R
+Step 2802 moving to SSN
+At SSN. Moving R
+Step 2803 moving to TTK
+At TTK. Moving L
+Step 2804 moving to VQQ
+At VQQ. Moving R
+Step 2805 moving to FPX
+At FPX. Moving R
+Step 2806 moving to RSG
+At RSG. Moving R
+Step 2807 moving to QNM
+At QNM. Moving L
+Step 2808 moving to DBX
+At DBX. Moving R
+Step 2809 moving to QHF
+At QHF. Moving R
+Step 2810 moving to FHL
+At FHL. Moving L
+Step 2811 moving to SSL
+At SSL. Moving R
+Step 2812 moving to KCF
+At KCF. Moving R
+Step 2813 moving to BMK
+At BMK. Moving R
+Step 2814 moving to BPL
+At BPL. Moving L
+Step 2815 moving to QRS
+At QRS. Moving R
+Step 2816 moving to VCJ
+At VCJ. Moving R
+Step 2817 moving to PTR
+At PTR. Moving L
+Step 2818 moving to KQD
+At KQD. Moving R
+Step 2819 moving to KQX
+At KQX. Moving R
+Step 2820 moving to LVT
+At LVT. Moving L
+Step 2821 moving to DKT
+At DKT. Moving R
+Step 2822 moving to GCL
+At GCL. Moving R
+Step 2823 moving to KJP
+At KJP. Moving R
+Step 2824 moving to QRP
+At QRP. Moving L
+Step 2825 moving to CMS
+At CMS. Moving L
+Step 2826 moving to QLS
+At QLS. Moving R
+Step 2827 moving to BXB
+At BXB. Moving L
+Step 2828 moving to MTH
+At MTH. Moving R
+Step 2829 moving to KTL
+At KTL. Moving R
+Step 2830 moving to CRN
+At CRN. Moving L
+Step 2831 moving to PJV
+At PJV. Moving L
+Step 2832 moving to SPT
+At SPT. Moving L
+Step 2833 moving to KSK
+At KSK. Moving R
+Step 2834 moving to VSD
+At VSD. Moving R
+Step 2835 moving to GST
+At GST. Moving L
+Step 2836 moving to PNB
+At PNB. Moving R
+Step 2837 moving to DSS
+At DSS. Moving R
+Step 2838 moving to TVR
+At TVR. Moving L
+Step 2839 moving to LJN
+At LJN. Moving R
+Step 2840 moving to NMN
+At NMN. Moving L
+Step 2841 moving to DRN
+At DRN. Moving R
+Step 2842 moving to RRL
+At RRL. Moving L
+Step 2843 moving to DHF
+At DHF. Moving L
+Step 2844 moving to BSJ
+At BSJ. Moving L
+Step 2845 moving to QBR
+At QBR. Moving R
+Step 2846 moving to XXH
+At XXH. Moving R
+Step 2847 moving to JTR
+At JTR. Moving L
+Step 2848 moving to MDT
+At MDT. Moving R
+Step 2849 moving to CMR
+At CMR. Moving R
+Step 2850 moving to GDS
+At GDS. Moving L
+Step 2851 moving to PJT
+At PJT. Moving R
+Step 2852 moving to QLT
+At QLT. Moving R
+Step 2853 moving to XDP
+At XDP. Moving R
+Step 2854 moving to SVH
+At SVH. Moving L
+Step 2855 moving to SLR
+At SLR. Moving R
+Step 2856 moving to QJC
+At QJC. Moving R
+Step 2857 moving to CNX
+At CNX. Moving L
+Step 2858 moving to CTN
+At CTN. Moving L
+Step 2859 moving to NVJ
+At NVJ. Moving R
+Step 2860 moving to DPN
+At DPN. Moving L
+Step 2861 moving to TFT
+At TFT. Moving R
+Step 2862 moving to SHP
+At SHP. Moving R
+Step 2863 moving to SSN
+At SSN. Moving R
+Step 2864 moving to TTK
+At TTK. Moving L
+Step 2865 moving to VQQ
+At VQQ. Moving R
+Step 2866 moving to FPX
+At FPX. Moving R
+Step 2867 moving to RSG
+At RSG. Moving R
+Step 2868 moving to QNM
+At QNM. Moving L
+Step 2869 moving to DBX
+At DBX. Moving R
+Step 2870 moving to QHF
+At QHF. Moving R
+Step 2871 moving to FHL
+At FHL. Moving L
+Step 2872 moving to SSL
+At SSL. Moving R
+Step 2873 moving to KCF
+At KCF. Moving R
+Step 2874 moving to BMK
+At BMK. Moving L
+Step 2875 moving to JKH
+At JKH. Moving R
+Step 2876 moving to PJB
+At PJB. Moving L
+Step 2877 moving to VCJ
+At VCJ. Moving R
+Step 2878 moving to PTR
+At PTR. Moving R
+Step 2879 moving to GNP
+At GNP. Moving L
+Step 2880 moving to KQX
+At KQX. Moving R
+Step 2881 moving to LVT
+At LVT. Moving L
+Step 2882 moving to DKT
+At DKT. Moving R
+Step 2883 moving to GCL
+At GCL. Moving R
+Step 2884 moving to KJP
+At KJP. Moving R
+Step 2885 moving to QRP
+At QRP. Moving L
+Step 2886 moving to CMS
+At CMS. Moving R
+Step 2887 moving to XGR
+At XGR. Moving R
+Step 2888 moving to TCX
+At TCX. Moving L
+Step 2889 moving to KQT
+At KQT. Moving R
+Step 2890 moving to KTL
+At KTL. Moving R
+Step 2891 moving to CRN
+At CRN. Moving R
+Step 2892 moving to TBN
+At TBN. Moving L
+Step 2893 moving to SPT
+At SPT. Moving L
+Step 2894 moving to KSK
+At KSK. Moving R
+Step 2895 moving to VSD
+At VSD. Moving R
+Step 2896 moving to GST
+At GST. Moving R
+Step 2897 moving to DVN
+At DVN. Moving L
+Step 2898 moving to PHG
+At PHG. Moving R
+Step 2899 moving to TVR
+At TVR. Moving L
+Step 2900 moving to LJN
+At LJN. Moving R
+Step 2901 moving to NMN
+At NMN. Moving L
+Step 2902 moving to DRN
+At DRN. Moving L
+Step 2903 moving to XSC
+At XSC. Moving L
+Step 2904 moving to CFX
+At CFX. Moving R
+Step 2905 moving to MCL
+At MCL. Moving R
+Step 2906 moving to QBR
+At QBR. Moving R
+Step 2907 moving to XXH
+At XXH. Moving L
+Step 2908 moving to PHF
+At PHF. Moving L
+Step 2909 moving to LFL
+At LFL. Moving L
+Step 2910 moving to CMR
+At CMR. Moving R
+Step 2911 moving to GDS
+At GDS. Moving R
+Step 2912 moving to DBD
+At DBD. Moving L
+Step 2913 moving to QLT
+At QLT. Moving L
+Step 2914 moving to HQL
+At HQL. Moving R
+Step 2915 moving to SVH
+At SVH. Moving R
+Step 2916 moving to JBK
+At JBK. Moving L
+Step 2917 moving to BDH
+At BDH. Moving R
+Step 2918 moving to RJR
+At RJR. Moving L
+Step 2919 moving to CTN
+At CTN. Moving R
+Step 2920 moving to DRS
+At DRS. Moving R
+Step 2921 moving to BLM
+At BLM. Moving L
+Step 2922 moving to LGT
+At LGT. Moving R
+Step 2923 moving to SHP
+At SHP. Moving L
+Step 2924 moving to SMM
+At SMM. Moving L
+Step 2925 moving to KGR
+At KGR. Moving L
+Step 2926 moving to VQQ
+At VQQ. Moving R
+Step 2927 moving to FPX
+At FPX. Moving R
+Step 2928 moving to RSG
+At RSG. Moving R
+Step 2929 moving to QNM
+At QNM. Moving R
+Step 2930 moving to FNP
+At FNP. Moving L
+Step 2931 moving to DHB
+At DHB. Moving L
+Step 2932 moving to FHL
+At FHL. Moving R
+Step 2933 moving to PLN
+At PLN. Moving L
+Step 2934 moving to LMM
+At LMM. Moving R
+Step 2935 moving to BMK
+At BMK. Moving R
+Step 2936 moving to BPL
+At BPL. Moving R
+Step 2937 moving to PJB
+At PJB. Moving L
+Step 2938 moving to VCJ
+At VCJ. Moving L
+Step 2939 moving to QHM
+At QHM. Moving L
+Step 2940 moving to KQD
+At KQD. Moving R
+Step 2941 moving to KQX
+At KQX. Moving L
+Step 2942 moving to HSR
+At HSR. Moving R
+Step 2943 moving to GFK
+At GFK. Moving R
+Step 2944 moving to HGH
+At HGH. Moving L
+Step 2945 moving to QKX
+At QKX. Moving R
+Step 2946 moving to QRP
+At QRP. Moving R
+Step 2947 moving to JTL
+At JTL. Moving R
+Step 2948 moving to XGR
+At XGR. Moving L
+Step 2949 moving to BXB
+At BXB. Moving R
+Step 2950 moving to KQT
+At KQT. Moving L
+Step 2951 moving to BHG
+At BHG. Moving R
+Step 2952 moving to CRN
+At CRN. Moving R
+Step 2953 moving to TBN
+At TBN. Moving L
+Step 2954 moving to SPT
+At SPT. Moving R
+Step 2955 moving to KSK
+At KSK. Moving L
+Step 2956 moving to TFQ
+At TFQ. Moving R
+Step 2957 moving to SBB
+At SBB. Moving L
+Step 2958 moving to DVN
+At DVN. Moving R
+Step 2959 moving to DSS
+At DSS. Moving R
+Step 2960 moving to TVR
+At TVR. Moving R
+Step 2961 moving to QJV
+At QJV. Moving L
+Step 2962 moving to HVQ
+At HVQ. Moving R
+Step 2963 moving to DRN
+At DRN. Moving R
+Step 2964 moving to RRL
+At RRL. Moving R
+Step 2965 moving to CFX
+At CFX. Moving L
+Step 2966 moving to BSJ
+At BSJ. Moving R
+Step 2967 moving to DCV
+At DCV. Moving L
+Step 2968 moving to XXH
+At XXH. Moving R
+Step 2969 moving to JTR
+At JTR. Moving L
+Step 2970 moving to MDT
+At MDT. Moving R
+Step 2971 moving to CMR
+At CMR. Moving R
+Step 2972 moving to GDS
+At GDS. Moving L
+Step 2973 moving to PJT
+At PJT. Moving L
+Step 2974 moving to TTC
+At TTC. Moving R
+Step 2975 moving to XDP
+At XDP. Moving R
+Step 2976 moving to SVH
+At SVH. Moving R
+Step 2977 moving to JBK
+At JBK. Moving L
+Step 2978 moving to BDH
+At BDH. Moving R
+Step 2979 moving to RJR
+At RJR. Moving R
+Step 2980 moving to DRK
+At DRK. Moving L
+Step 2981 moving to DRS
+At DRS. Moving R
+Step 2982 moving to BLM
+At BLM. Moving R
+Step 2983 moving to TFT
+At TFT. Moving L
+Step 2984 moving to XPK
+At XPK. Moving L
+Step 2985 moving to SSN
+At SSN. Moving R
+Step 2986 moving to TTK
+At TTK. Moving L
+Step 2987 moving to VQQ
+At VQQ. Moving R
+Step 2988 moving to FPX
+At FPX. Moving R
+Step 2989 moving to RSG
+At RSG. Moving R
+Step 2990 moving to QNM
+At QNM. Moving L
+Step 2991 moving to DBX
+At DBX. Moving R
+Step 2992 moving to QHF
+At QHF. Moving L
+Step 2993 moving to GPM
+At GPM. Moving R
+Step 2994 moving to SSL
+At SSL. Moving L
+Step 2995 moving to LMM
+At LMM. Moving L
+Step 2996 moving to MPD
+At MPD. Moving R
+Step 2997 moving to BPL
+At BPL. Moving R
+Step 2998 moving to PJB
+At PJB. Moving R
+Step 2999 moving to RMC
+At RMC. Moving L
+Step 3000 moving to QHM
+At QHM. Moving L
+Step 3001 moving to KQD
+At KQD. Moving R
+Step 3002 moving to KQX
+At KQX. Moving R
+Step 3003 moving to LVT
+At LVT. Moving R
+Step 3004 moving to GFK
+At GFK. Moving L
+Step 3005 moving to GCL
+At GCL. Moving R
+Step 3006 moving to KJP
+At KJP. Moving L
+Step 3007 moving to XPM
+At XPM. Moving R
+Step 3008 moving to CMS
+At CMS. Moving R
+Step 3009 moving to XGR
+At XGR. Moving R
+Step 3010 moving to TCX
+At TCX. Moving L
+Step 3011 moving to KQT
+At KQT. Moving R
+Step 3012 moving to KTL
+At KTL. Moving R
+Step 3013 moving to CRN
+At CRN. Moving R
+Step 3014 moving to TBN
+At TBN. Moving L
+Step 3015 moving to SPT
+At SPT. Moving R
+Step 3016 moving to KSK
+At KSK. Moving R
+Step 3017 moving to VSD
+At VSD. Moving R
+Step 3018 moving to GST
+At GST. Moving L
+Step 3019 moving to PNB
+At PNB. Moving L
+Step 3020 moving to PHG
+At PHG. Moving L
+Step 3021 moving to FTJ
+At FTJ. Moving R
+Step 3022 moving to QJV
+At QJV. Moving R
+Step 3023 moving to NMN
+At NMN. Moving R
+Step 3024 moving to NMR
+At NMR. Moving L
+Step 3025 moving to RRL
+At RRL. Moving R
+Step 3026 moving to CFX
+At CFX. Moving R
+Step 3027 moving to MCL
+At MCL. Moving L
+Step 3028 moving to DCV
+At DCV. Moving R
+Step 3029 moving to QMN
+At QMN. Moving R
+Step 3030 moving to PHF
+At PHF. Moving L
+Step 3031 moving to LFL
+At LFL. Moving R
+Step 3032 moving to RCH
+At RCH. Moving L
+Step 3033 moving to JQM
+At JQM. Moving R
+Step 3034 moving to PJT
+At PJT. Moving R
+Step 3035 moving to QLT
+At QLT. Moving L
+Step 3036 moving to HQL
+At HQL. Moving R
+Step 3037 moving to SVH
+At SVH. Moving L
+Step 3038 moving to SLR
+At SLR. Moving R
+Step 3039 moving to QJC
+At QJC. Moving R
+Step 3040 moving to CNX
+At CNX. Moving R
+Step 3041 moving to DRK
+At DRK. Moving L
+Step 3042 moving to DRS
+At DRS. Moving R
+Step 3043 moving to BLM
+At BLM. Moving L
+Step 3044 moving to LGT
+At LGT. Moving R
+Step 3045 moving to SHP
+At SHP. Moving R
+Step 3046 moving to SSN
+At SSN. Moving L
+Step 3047 moving to KGR
+At KGR. Moving R
+Step 3048 moving to FSH
+At FSH. Moving L
+Step 3049 moving to QSB
+At QSB. Moving R
+Step 3050 moving to RSG
+At RSG. Moving L
+Step 3051 moving to DLB
+At DLB. Moving R
+Step 3052 moving to FNP
+At FNP. Moving R
+Step 3053 moving to QHF
+At QHF. Moving R
+Step 3054 moving to FHL
+At FHL. Moving L
+Step 3055 moving to SSL
+At SSL. Moving R
+Step 3056 moving to KCF
+At KCF. Moving L
+Step 3057 moving to MPD
+At MPD. Moving L
+Step 3058 moving to JKH
+At JKH. Moving L
+Step 3059 moving to QRS
+At QRS. Moving R
+Step 3060 moving to VCJ
+At VCJ. Moving R
+Step 3061 moving to PTR
+At PTR. Moving R
+Step 3062 moving to GNP
+At GNP. Moving L
+Step 3063 moving to KQX
+At KQX. Moving L
+Step 3064 moving to HSR
+At HSR. Moving L
+Step 3065 moving to DKT
+At DKT. Moving R
+Step 3066 moving to GCL
+At GCL. Moving L
+Step 3067 moving to QKX
+At QKX. Moving R
+Step 3068 moving to QRP
+At QRP. Moving R
+Step 3069 moving to JTL
+At JTL. Moving R
+Step 3070 moving to XGR
+At XGR. Moving L
+Step 3071 moving to BXB
+At BXB. Moving R
+Step 3072 moving to KQT
+At KQT. Moving L
+Step 3073 moving to BHG
+At BHG. Moving R
+Step 3074 moving to CRN
+At CRN. Moving R
+Step 3075 moving to TBN
+At TBN. Moving L
+Step 3076 moving to SPT
+At SPT. Moving R
+Step 3077 moving to KSK
+At KSK. Moving L
+Step 3078 moving to TFQ
+At TFQ. Moving R
+Step 3079 moving to SBB
+At SBB. Moving L
+Step 3080 moving to DVN
+At DVN. Moving R
+Step 3081 moving to DSS
+At DSS. Moving L
+Step 3082 moving to FTJ
+At FTJ. Moving R
+Step 3083 moving to QJV
+At QJV. Moving R
+Step 3084 moving to NMN
+At NMN. Moving L
+Step 3085 moving to DRN
+At DRN. Moving R
+Step 3086 moving to RRL
+At RRL. Moving R
+Step 3087 moving to CFX
+At CFX. Moving L
+Step 3088 moving to BSJ
+At BSJ. Moving R
+Step 3089 moving to DCV
+At DCV. Moving R
+Step 3090 moving to QMN
+At QMN. Moving L
+Step 3091 moving to JTR
+At JTR. Moving R
+Step 3092 moving to LFL
+At LFL. Moving L
+Step 3093 moving to CMR
+At CMR. Moving R
+Step 3094 moving to GDS
+At GDS. Moving R
+Step 3095 moving to DBD
+At DBD. Moving R
+Step 3096 moving to TTC
+At TTC. Moving L
+Step 3097 moving to HQL
+At HQL. Moving R
+Step 3098 moving to SVH
+At SVH. Moving R
+Step 3099 moving to JBK
+At JBK. Moving R
+Step 3100 moving to QJC
+At QJC. Moving L
+Step 3101 moving to RJR
+At RJR. Moving R
+Step 3102 moving to DRK
+At DRK. Moving R
+Step 3103 moving to NVJ
+At NVJ. Moving L
+Step 3104 moving to BLM
+At BLM. Moving R
+Step 3105 moving to TFT
+At TFT. Moving R
+Step 3106 moving to SHP
+At SHP. Moving R
+Step 3107 moving to SSN
+At SSN. Moving L
+Step 3108 moving to KGR
+At KGR. Moving R
+Step 3109 moving to FSH
+At FSH. Moving R
+Step 3110 moving to FPX
+At FPX. Moving L
+Step 3111 moving to BNR
+At BNR. Moving R
+Step 3112 moving to QNM
+At QNM. Moving R
+Step 3113 moving to FNP
+At FNP. Moving L
+Step 3114 moving to DHB
+At DHB. Moving R
+Step 3115 moving to GPM
+At GPM. Moving R
+Step 3116 moving to SSL
+At SSL. Moving R
+Step 3117 moving to KCF
+At KCF. Moving L
+Step 3118 moving to MPD
+At MPD. Moving L
+Step 3119 moving to JKH
+At JKH. Moving R
+Step 3120 moving to PJB
+At PJB. Moving L
+Step 3121 moving to VCJ
+At VCJ. Moving R
+Step 3122 moving to PTR
+At PTR. Moving R
+Step 3123 moving to GNP
+At GNP. Moving L
+Step 3124 moving to KQX
+At KQX. Moving L
+Step 3125 moving to HSR
+At HSR. Moving L
+Step 3126 moving to DKT
+At DKT. Moving R
+Step 3127 moving to GCL
+At GCL. Moving R
+Step 3128 moving to KJP
+At KJP. Moving L
+Step 3129 moving to XPM
+At XPM. Moving R
+Step 3130 moving to CMS
+At CMS. Moving R
+Step 3131 moving to XGR
+At XGR. Moving L
+Step 3132 moving to BXB
+At BXB. Moving R
+Step 3133 moving to KQT
+At KQT. Moving L
+Step 3134 moving to BHG
+At BHG. Moving R
+Step 3135 moving to CRN
+At CRN. Moving L
+Step 3136 moving to PJV
+At PJV. Moving L
+Step 3137 moving to SPT
+At SPT. Moving L
+Step 3138 moving to KSK
+At KSK. Moving R
+Step 3139 moving to VSD
+At VSD. Moving R
+Step 3140 moving to GST
+At GST. Moving L
+Step 3141 moving to PNB
+At PNB. Moving R
+Step 3142 moving to DSS
+At DSS. Moving R
+Step 3143 moving to TVR
+At TVR. Moving L
+Step 3144 moving to LJN
+At LJN. Moving R
+Step 3145 moving to NMN
+At NMN. Moving R
+Step 3146 moving to NMR
+At NMR. Moving R
+Step 3147 moving to XSC
+At XSC. Moving L
+Step 3148 moving to CFX
+At CFX. Moving R
+Step 3149 moving to MCL
+At MCL. Moving R
+Step 3150 moving to QBR
+At QBR. Moving L
+Step 3151 moving to QMN
+At QMN. Moving L
+Step 3152 moving to JTR
+At JTR. Moving R
+Step 3153 moving to LFL
+At LFL. Moving L
+Step 3154 moving to CMR
+At CMR. Moving R
+Step 3155 moving to GDS
+At GDS. Moving R
+Step 3156 moving to DBD
+At DBD. Moving R
+Step 3157 moving to TTC
+At TTC. Moving L
+Step 3158 moving to HQL
+At HQL. Moving R
+Step 3159 moving to SVH
+At SVH. Moving R
+Step 3160 moving to JBK
+At JBK. Moving R
+Step 3161 moving to QJC
+At QJC. Moving L
+Step 3162 moving to RJR
+At RJR. Moving R
+Step 3163 moving to DRK
+At DRK. Moving R
+Step 3164 moving to NVJ
+At NVJ. Moving L
+Step 3165 moving to BLM
+At BLM. Moving R
+Step 3166 moving to TFT
+At TFT. Moving R
+Step 3167 moving to SHP
+At SHP. Moving L
+Step 3168 moving to SMM
+At SMM. Moving R
+Step 3169 moving to TTK
+At TTK. Moving L
+Step 3170 moving to VQQ
+At VQQ. Moving R
+Step 3171 moving to FPX
+At FPX. Moving R
+Step 3172 moving to RSG
+At RSG. Moving L
+Step 3173 moving to DLB
+At DLB. Moving R
+Step 3174 moving to FNP
+At FNP. Moving L
+Step 3175 moving to DHB
+At DHB. Moving R
+Step 3176 moving to GPM
+At GPM. Moving R
+Step 3177 moving to SSL
+At SSL. Moving R
+Step 3178 moving to KCF
+At KCF. Moving L
+Step 3179 moving to MPD
+At MPD. Moving R
+Step 3180 moving to BPL
+At BPL. Moving R
+Step 3181 moving to PJB
+At PJB. Moving L
+Step 3182 moving to VCJ
+At VCJ. Moving R
+Step 3183 moving to PTR
+At PTR. Moving R
+Step 3184 moving to GNP
+At GNP. Moving R
+Step 3185 moving to TSS
+At TSS. Moving L
+Step 3186 moving to LVT
+At LVT. Moving L
+Step 3187 moving to DKT
+At DKT. Moving R
+Step 3188 moving to GCL
+At GCL. Moving R
+Step 3189 moving to KJP
+At KJP. Moving R
+Step 3190 moving to QRP
+At QRP. Moving L
+Step 3191 moving to CMS
+At CMS. Moving R
+Step 3192 moving to XGR
+At XGR. Moving L
+Step 3193 moving to BXB
+At BXB. Moving R
+Step 3194 moving to KQT
+At KQT. Moving L
+Step 3195 moving to BHG
+At BHG. Moving L
+Step 3196 moving to PMJ
+At PMJ. Moving L
+Step 3197 moving to PJV
+At PJV. Moving R
+Step 3198 moving to SPT
+At SPT. Moving R
+Step 3199 moving to KSK
+At KSK. Moving R
+Step 3200 moving to VSD
+At VSD. Moving L
+Step 3201 moving to SBB
+At SBB. Moving L
+Step 3202 moving to DVN
+At DVN. Moving L
+Step 3203 moving to PHG
+At PHG. Moving R
+Step 3204 moving to TVR
+At TVR. Moving R
+Step 3205 moving to QJV
+At QJV. Moving L
+Step 3206 moving to HVQ
+At HVQ. Moving L
+Step 3207 moving to NMR
+At NMR. Moving R
+Step 3208 moving to XSC
+At XSC. Moving R
+Step 3209 moving to DHF
+At DHF. Moving L
+Step 3210 moving to BSJ
+At BSJ. Moving R
+Step 3211 moving to DCV
+At DCV. Moving L
+Step 3212 moving to XXH
+At XXH. Moving R
+Step 3213 moving to JTR
+At JTR. Moving R
+Step 3214 moving to LFL
+At LFL. Moving L
+Step 3215 moving to CMR
+At CMR. Moving R
+Step 3216 moving to GDS
+At GDS. Moving L
+Step 3217 moving to PJT
+At PJT. Moving L
+Step 3218 moving to TTC
+At TTC. Moving L
+Step 3219 moving to HQL
+At HQL. Moving R
+Step 3220 moving to SVH
+At SVH. Moving R
+Step 3221 moving to JBK
+At JBK. Moving R
+Step 3222 moving to QJC
+At QJC. Moving R
+Step 3223 moving to CNX
+At CNX. Moving L
+Step 3224 moving to CTN
+At CTN. Moving L
+Step 3225 moving to NVJ
+At NVJ. Moving R
+Step 3226 moving to DPN
+At DPN. Moving L
+Step 3227 moving to TFT
+At TFT. Moving R
+Step 3228 moving to SHP
+At SHP. Moving R
+Step 3229 moving to SSN
+At SSN. Moving R
+Step 3230 moving to TTK
+At TTK. Moving L
+Step 3231 moving to VQQ
+At VQQ. Moving L
+Step 3232 moving to QSB
+At QSB. Moving L
+Step 3233 moving to BNR
+At BNR. Moving R
+Step 3234 moving to QNM
+At QNM. Moving L
+Step 3235 moving to DBX
+At DBX. Moving R
+Step 3236 moving to QHF
+At QHF. Moving R
+Step 3237 moving to FHL
+At FHL. Moving L
+Step 3238 moving to SSL
+At SSL. Moving R
+Step 3239 moving to KCF
+At KCF. Moving R
+Step 3240 moving to BMK
+At BMK. Moving R
+Step 3241 moving to BPL
+At BPL. Moving L
+Step 3242 moving to QRS
+At QRS. Moving R
+Step 3243 moving to VCJ
+At VCJ. Moving L
+Step 3244 moving to QHM
+At QHM. Moving R
+Step 3245 moving to GNP
+At GNP. Moving R
+Step 3246 moving to TSS
+At TSS. Moving L
+Step 3247 moving to LVT
+At LVT. Moving R
+Step 3248 moving to GFK
+At GFK. Moving L
+Step 3249 moving to GCL
+At GCL. Moving R
+Step 3250 moving to KJP
+At KJP. Moving L
+Step 3251 moving to XPM
+At XPM. Moving R
+Step 3252 moving to CMS
+At CMS. Moving R
+Step 3253 moving to XGR
+At XGR. Moving R
+Step 3254 moving to TCX
+At TCX. Moving L
+Step 3255 moving to KQT
+At KQT. Moving R
+Step 3256 moving to KTL
+At KTL. Moving R
+Step 3257 moving to CRN
+At CRN. Moving R
+Step 3258 moving to TBN
+At TBN. Moving L
+Step 3259 moving to SPT
+At SPT. Moving R
+Step 3260 moving to KSK
+At KSK. Moving L
+Step 3261 moving to TFQ
+At TFQ. Moving R
+Step 3262 moving to SBB
+At SBB. Moving L
+Step 3263 moving to DVN
+At DVN. Moving R
+Step 3264 moving to DSS
+At DSS. Moving R
+Step 3265 moving to TVR
+At TVR. Moving L
+Step 3266 moving to LJN
+At LJN. Moving L
+Step 3267 moving to HVQ
+At HVQ. Moving R
+Step 3268 moving to DRN
+At DRN. Moving R
+Step 3269 moving to RRL
+At RRL. Moving R
+Step 3270 moving to CFX
+At CFX. Moving L
+Step 3271 moving to BSJ
+At BSJ. Moving R
+Step 3272 moving to DCV
+At DCV. Moving R
+Step 3273 moving to QMN
+At QMN. Moving L
+Step 3274 moving to JTR
+At JTR. Moving R
+Step 3275 moving to LFL
+At LFL. Moving R
+Step 3276 moving to RCH
+At RCH. Moving L
+Step 3277 moving to JQM
+At JQM. Moving L
+Step 3278 moving to DBD
+At DBD. Moving R
+Step 3279 moving to TTC
+At TTC. Moving L
+Step 3280 moving to HQL
+At HQL. Moving R
+Step 3281 moving to SVH
+At SVH. Moving R
+Step 3282 moving to JBK
+At JBK. Moving R
+Step 3283 moving to QJC
+At QJC. Moving L
+Step 3284 moving to RJR
+At RJR. Moving R
+Step 3285 moving to DRK
+At DRK. Moving L
+Step 3286 moving to DRS
+At DRS. Moving R
+Step 3287 moving to BLM
+At BLM. Moving L
+Step 3288 moving to LGT
+At LGT. Moving L
+Step 3289 moving to XPK
+At XPK. Moving R
+Step 3290 moving to SMM
+At SMM. Moving R
+Step 3291 moving to TTK
+At TTK. Moving R
+Step 3292 moving to FSH
+At FSH. Moving L
+Step 3293 moving to QSB
+At QSB. Moving L
+Step 3294 moving to BNR
+At BNR. Moving R
+Step 3295 moving to QNM
+At QNM. Moving R
+Step 3296 moving to FNP
+At FNP. Moving R
+Step 3297 moving to QHF
+At QHF. Moving L
+Step 3298 moving to GPM
+At GPM. Moving R
+Step 3299 moving to SSL
+At SSL. Moving L
+Step 3300 moving to LMM
+At LMM. Moving R
+Step 3301 moving to BMK
+At BMK. Moving R
+Step 3302 moving to BPL
+At BPL. Moving R
+Step 3303 moving to PJB
+At PJB. Moving L
+Step 3304 moving to VCJ
+At VCJ. Moving R
+Step 3305 moving to PTR
+At PTR. Moving R
+Step 3306 moving to GNP
+At GNP. Moving R
+Step 3307 moving to TSS
+At TSS. Moving L
+Step 3308 moving to LVT
+At LVT. Moving R
+Step 3309 moving to GFK
+At GFK. Moving R
+Step 3310 moving to HGH
+At HGH. Moving R
+Step 3311 moving to KJP
+At KJP. Moving L
+Step 3312 moving to XPM
+At XPM. Moving L
+Step 3313 moving to JTL
+At JTL. Moving L
+Step 3314 moving to QLS
+At QLS. Moving R
+Step 3315 moving to BXB
+At BXB. Moving R
+Step 3316 moving to KQT
+At KQT. Moving R
+Step 3317 moving to KTL
+At KTL. Moving L
+Step 3318 moving to PMJ
+At PMJ. Moving R
+Step 3319 moving to PJV
+At PJV. Moving R
+Step 3320 moving to SPT
+At SPT. Moving L
+Step 3321 moving to KSK
+At KSK. Moving R
+Step 3322 moving to VSD
+At VSD. Moving R
+Step 3323 moving to GST
+At GST. Moving L
+Step 3324 moving to PNB
+At PNB. Moving R
+Step 3325 moving to DSS
+At DSS. Moving L
+Step 3326 moving to FTJ
+At FTJ. Moving R
+Step 3327 moving to QJV
+At QJV. Moving R
+Step 3328 moving to NMN
+At NMN. Moving L
+Step 3329 moving to DRN
+At DRN. Moving R
+Step 3330 moving to RRL
+At RRL. Moving L
+Step 3331 moving to DHF
+At DHF. Moving R
+Step 3332 moving to MCL
+At MCL. Moving R
+Step 3333 moving to QBR
+At QBR. Moving R
+Step 3334 moving to XXH
+At XXH. Moving L
+Step 3335 moving to PHF
+At PHF. Moving R
+Step 3336 moving to MDT
+At MDT. Moving L
+Step 3337 moving to RCH
+At RCH. Moving R
+Step 3338 moving to GDS
+At GDS. Moving R
+Step 3339 moving to DBD
+At DBD. Moving L
+Step 3340 moving to QLT
+At QLT. Moving R
+Step 3341 moving to XDP
+At XDP. Moving L
+Step 3342 moving to JQX
+At JQX. Moving R
+Step 3343 moving to JBK
+At JBK. Moving L
+Step 3344 moving to BDH
+At BDH. Moving R
+Step 3345 moving to RJR
+At RJR. Moving R
+Step 3346 moving to DRK
+At DRK. Moving R
+Step 3347 moving to NVJ
+At NVJ. Moving L
+Step 3348 moving to BLM
+At BLM. Moving R
+Step 3349 moving to TFT
+At TFT. Moving L
+Step 3350 moving to XPK
+At XPK. Moving L
+Step 3351 moving to SSN
+At SSN. Moving L
+Step 3352 moving to KGR
+At KGR. Moving R
+Step 3353 moving to FSH
+At FSH. Moving R
+Step 3354 moving to FPX
+At FPX. Moving R
+Step 3355 moving to RSG
+At RSG. Moving L
+Step 3356 moving to DLB
+At DLB. Moving L
+Step 3357 moving to DBX
+At DBX. Moving L
+Step 3358 moving to DHB
+At DHB. Moving R
+Step 3359 moving to GPM
+At GPM. Moving L
+Step 3360 moving to PLN
+At PLN. Moving R
+Step 3361 moving to KCF
+At KCF. Moving R
+Step 3362 moving to BMK
+At BMK. Moving R
+Step 3363 moving to BPL
+At BPL. Moving L
+Step 3364 moving to QRS
+At QRS. Moving R
+Step 3365 moving to VCJ
+At VCJ. Moving L
+Step 3366 moving to QHM
+At QHM. Moving R
+Step 3367 moving to GNP
+At GNP. Moving R
+Step 3368 moving to TSS
+At TSS. Moving L
+Step 3369 moving to LVT
+At LVT. Moving R
+Step 3370 moving to GFK
+At GFK. Moving L
+Step 3371 moving to GCL
+At GCL. Moving R
+Step 3372 moving to KJP
+At KJP. Moving L
+Step 3373 moving to XPM
+At XPM. Moving R
+Step 3374 moving to CMS
+At CMS. Moving L
+Step 3375 moving to QLS
+At QLS. Moving R
+Step 3376 moving to BXB
+At BXB. Moving R
+Step 3377 moving to KQT
+At KQT. Moving L
+Step 3378 moving to BHG
+At BHG. Moving R
+Step 3379 moving to CRN
+At CRN. Moving R
+Step 3380 moving to TBN
+At TBN. Moving L
+Step 3381 moving to SPT
+At SPT. Moving R
+Step 3382 moving to KSK
+At KSK. Moving R
+Step 3383 moving to VSD
+At VSD. Moving L
+Step 3384 moving to SBB
+At SBB. Moving R
+Step 3385 moving to PNB
+At PNB. Moving L
+Step 3386 moving to PHG
+At PHG. Moving R
+Step 3387 moving to TVR
+At TVR. Moving R
+Step 3388 moving to QJV
+At QJV. Moving R
+Step 3389 moving to NMN
+At NMN. Moving L
+Step 3390 moving to DRN
+At DRN. Moving R
+Step 3391 moving to RRL
+At RRL. Moving R
+Step 3392 moving to CFX
+At CFX. Moving R
+Step 3393 moving to MCL
+At MCL. Moving L
+Step 3394 moving to DCV
+At DCV. Moving R
+Step 3395 moving to QMN
+At QMN. Moving R
+Step 3396 moving to PHF
+At PHF. Moving L
+Step 3397 moving to LFL
+At LFL. Moving R
+Step 3398 moving to RCH
+At RCH. Moving R
+Step 3399 moving to GDS
+At GDS. Moving R
+Step 3400 moving to DBD
+At DBD. Moving L
+Step 3401 moving to QLT
+At QLT. Moving R
+Step 3402 moving to XDP
+At XDP. Moving R
+Step 3403 moving to SVH
+At SVH. Moving L
+Step 3404 moving to SLR
+At SLR. Moving R
+Step 3405 moving to QJC
+At QJC. Moving R
+Step 3406 moving to CNX
+At CNX. Moving L
+Step 3407 moving to CTN
+At CTN. Moving R
+Step 3408 moving to DRS
+At DRS. Moving R
+Step 3409 moving to BLM
+At BLM. Moving R
+Step 3410 moving to TFT
+At TFT. Moving L
+Step 3411 moving to XPK
+At XPK. Moving L
+Step 3412 moving to SSN
+At SSN. Moving R
+Step 3413 moving to TTK
+At TTK. Moving L
+Step 3414 moving to VQQ
+At VQQ. Moving R
+Step 3415 moving to FPX
+At FPX. Moving R
+Step 3416 moving to RSG
+At RSG. Moving L
+Step 3417 moving to DLB
+At DLB. Moving L
+Step 3418 moving to DBX
+At DBX. Moving L
+Step 3419 moving to DHB
+At DHB. Moving R
+Step 3420 moving to GPM
+At GPM. Moving R
+Step 3421 moving to SSL
+At SSL. Moving L
+Step 3422 moving to LMM
+At LMM. Moving R
+Step 3423 moving to BMK
+At BMK. Moving R
+Step 3424 moving to BPL
+At BPL. Moving L
+Step 3425 moving to QRS
+At QRS. Moving R
+Step 3426 moving to VCJ
+At VCJ. Moving L
+Step 3427 moving to QHM
+At QHM. Moving R
+Step 3428 moving to GNP
+At GNP. Moving L
+Step 3429 moving to KQX
+At KQX. Moving L
+Step 3430 moving to HSR
+At HSR. Moving L
+Step 3431 moving to DKT
+At DKT. Moving R
+Step 3432 moving to GCL
+At GCL. Moving R
+Step 3433 moving to KJP
+At KJP. Moving L
+Step 3434 moving to XPM
+At XPM. Moving R
+Step 3435 moving to CMS
+At CMS. Moving R
+Step 3436 moving to XGR
+At XGR. Moving L
+Step 3437 moving to BXB
+At BXB. Moving R
+Step 3438 moving to KQT
+At KQT. Moving R
+Step 3439 moving to KTL
+At KTL. Moving R
+Step 3440 moving to CRN
+At CRN. Moving L
+Step 3441 moving to PJV
+At PJV. Moving R
+Step 3442 moving to SPT
+At SPT. Moving R
+Step 3443 moving to KSK
+At KSK. Moving L
+Step 3444 moving to TFQ
+At TFQ. Moving L
+Step 3445 moving to GST
+At GST. Moving R
+Step 3446 moving to DVN
+At DVN. Moving L
+Step 3447 moving to PHG
+At PHG. Moving R
+Step 3448 moving to TVR
+At TVR. Moving R
+Step 3449 moving to QJV
+At QJV. Moving R
+Step 3450 moving to NMN
+At NMN. Moving L
+Step 3451 moving to DRN
+At DRN. Moving R
+Step 3452 moving to RRL
+At RRL. Moving R
+Step 3453 moving to CFX
+At CFX. Moving R
+Step 3454 moving to MCL
+At MCL. Moving L
+Step 3455 moving to DCV
+At DCV. Moving R
+Step 3456 moving to QMN
+At QMN. Moving R
+Step 3457 moving to PHF
+At PHF. Moving L
+Step 3458 moving to LFL
+At LFL. Moving R
+Step 3459 moving to RCH
+At RCH. Moving R
+Step 3460 moving to GDS
+At GDS. Moving L
+Step 3461 moving to PJT
+At PJT. Moving R
+Step 3462 moving to QLT
+At QLT. Moving L
+Step 3463 moving to HQL
+At HQL. Moving R
+Step 3464 moving to SVH
+At SVH. Moving R
+Step 3465 moving to JBK
+At JBK. Moving L
+Step 3466 moving to BDH
+At BDH. Moving R
+Step 3467 moving to RJR
+At RJR. Moving L
+Step 3468 moving to CTN
+At CTN. Moving R
+Step 3469 moving to DRS
+At DRS. Moving R
+Step 3470 moving to BLM
+At BLM. Moving R
+Step 3471 moving to TFT
+At TFT. Moving L
+Step 3472 moving to XPK
+At XPK. Moving R
+Step 3473 moving to SMM
+At SMM. Moving R
+Step 3474 moving to TTK
+At TTK. Moving L
+Step 3475 moving to VQQ
+At VQQ. Moving R
+Step 3476 moving to FPX
+At FPX. Moving R
+Step 3477 moving to RSG
+At RSG. Moving R
+Step 3478 moving to QNM
+At QNM. Moving L
+Step 3479 moving to DBX
+At DBX. Moving L
+Step 3480 moving to DHB
+At DHB. Moving R
+Step 3481 moving to GPM
+At GPM. Moving R
+Step 3482 moving to SSL
+At SSL. Moving R
+Step 3483 moving to KCF
+At KCF. Moving L
+Step 3484 moving to MPD
+At MPD. Moving R
+Step 3485 moving to BPL
+At BPL. Moving L
+Step 3486 moving to QRS
+At QRS. Moving R
+Step 3487 moving to VCJ
+At VCJ. Moving L
+Step 3488 moving to QHM
+At QHM. Moving L
+Step 3489 moving to KQD
+At KQD. Moving L
+Step 3490 moving to TSS
+At TSS. Moving R
+Step 3491 moving to HSR
+At HSR. Moving R
+Step 3492 moving to GFK
+At GFK. Moving R
+Step 3493 moving to HGH
+At HGH. Moving L
+Step 3494 moving to QKX
+At QKX. Moving L
+Step 3495 moving to XPM
+At XPM. Moving L
+Step 3496 moving to JTL
+At JTL. Moving R
+Step 3497 moving to XGR
+At XGR. Moving R
+Step 3498 moving to TCX
+At TCX. Moving L
+Step 3499 moving to KQT
+At KQT. Moving L
+Step 3500 moving to BHG
+At BHG. Moving R
+Step 3501 moving to CRN
+At CRN. Moving R
+Step 3502 moving to TBN
+At TBN. Moving L
+Step 3503 moving to SPT
+At SPT. Moving R
+Step 3504 moving to KSK
+At KSK. Moving L
+Step 3505 moving to TFQ
+At TFQ. Moving R
+Step 3506 moving to SBB
+At SBB. Moving R
+Step 3507 moving to PNB
+At PNB. Moving L
+Step 3508 moving to PHG
+At PHG. Moving R
+Step 3509 moving to TVR
+At TVR. Moving L
+Step 3510 moving to LJN
+At LJN. Moving L
+Step 3511 moving to HVQ
+At HVQ. Moving L
+Step 3512 moving to NMR
+At NMR. Moving R
+Step 3513 moving to XSC
+At XSC. Moving R
+Step 3514 moving to DHF
+At DHF. Moving R
+Step 3515 moving to MCL
+At MCL. Moving R
+Step 3516 moving to QBR
+At QBR. Moving L
+Step 3517 moving to QMN
+At QMN. Moving L
+Step 3518 moving to JTR
+At JTR. Moving R
+Step 3519 moving to LFL
+At LFL. Moving L
+Step 3520 moving to CMR
+At CMR. Moving R
+Step 3521 moving to GDS
+At GDS. Moving R
+Step 3522 moving to DBD
+At DBD. Moving R
+Step 3523 moving to TTC
+At TTC. Moving L
+Step 3524 moving to HQL
+At HQL. Moving L
+Step 3525 moving to JQX
+At JQX. Moving L
+Step 3526 moving to SLR
+At SLR. Moving R
+Step 3527 moving to QJC
+At QJC. Moving L
+Step 3528 moving to RJR
+At RJR. Moving R
+Step 3529 moving to DRK
+At DRK. Moving R
+Step 3530 moving to NVJ
+At NVJ. Moving L
+Step 3531 moving to BLM
+At BLM. Moving R
+Step 3532 moving to TFT
+At TFT. Moving R
+Step 3533 moving to SHP
+At SHP. Moving R
+Step 3534 moving to SSN
+At SSN. Moving L
+Step 3535 moving to KGR
+At KGR. Moving R
+Step 3536 moving to FSH
+At FSH. Moving L
+Step 3537 moving to QSB
+At QSB. Moving R
+Step 3538 moving to RSG
+At RSG. Moving R
+Step 3539 moving to QNM
+At QNM. Moving L
+Step 3540 moving to DBX
+At DBX. Moving R
+Step 3541 moving to QHF
+At QHF. Moving L
+Step 3542 moving to GPM
+At GPM. Moving R
+Step 3543 moving to SSL
+At SSL. Moving L
+Step 3544 moving to LMM
+At LMM. Moving R
+Step 3545 moving to BMK
+At BMK. Moving R
+Step 3546 moving to BPL
+At BPL. Moving R
+Step 3547 moving to PJB
+At PJB. Moving L
+Step 3548 moving to VCJ
+At VCJ. Moving R
+Step 3549 moving to PTR
+At PTR. Moving R
+Step 3550 moving to GNP
+At GNP. Moving R
+Step 3551 moving to TSS
+At TSS. Moving L
+Step 3552 moving to LVT
+At LVT. Moving R
+Step 3553 moving to GFK
+At GFK. Moving L
+Step 3554 moving to GCL
+At GCL. Moving R
+Step 3555 moving to KJP
+At KJP. Moving L
+Step 3556 moving to XPM
+At XPM. Moving R
+Step 3557 moving to CMS
+At CMS. Moving R
+Step 3558 moving to XGR
+At XGR. Moving L
+Step 3559 moving to BXB
+At BXB. Moving L
+Step 3560 moving to MTH
+At MTH. Moving R
+Step 3561 moving to KTL
+At KTL. Moving R
+Step 3562 moving to CRN
+At CRN. Moving R
+Step 3563 moving to TBN
+At TBN. Moving L
+Step 3564 moving to SPT
+At SPT. Moving R
+Step 3565 moving to KSK
+At KSK. Moving R
+Step 3566 moving to VSD
+At VSD. Moving L
+Step 3567 moving to SBB
+At SBB. Moving R
+Step 3568 moving to PNB
+At PNB. Moving R
+Step 3569 moving to DSS
+At DSS. Moving L
+Step 3570 moving to FTJ
+At FTJ. Moving L
+Step 3571 moving to LJN
+At LJN. Moving R
+Step 3572 moving to NMN
+At NMN. Moving L
+Step 3573 moving to DRN
+At DRN. Moving R
+Step 3574 moving to RRL
+At RRL. Moving R
+Step 3575 moving to CFX
+At CFX. Moving R
+Step 3576 moving to MCL
+At MCL. Moving L
+Step 3577 moving to DCV
+At DCV. Moving R
+Step 3578 moving to QMN
+At QMN. Moving L
+Step 3579 moving to JTR
+At JTR. Moving R
+Step 3580 moving to LFL
+At LFL. Moving L
+Step 3581 moving to CMR
+At CMR. Moving L
+Step 3582 moving to JQM
+At JQM. Moving R
+Step 3583 moving to PJT
+At PJT. Moving R
+Step 3584 moving to QLT
+At QLT. Moving R
+Step 3585 moving to XDP
+At XDP. Moving L
+Step 3586 moving to JQX
+At JQX. Moving L
+Step 3587 moving to SLR
+At SLR. Moving R
+Step 3588 moving to QJC
+At QJC. Moving R
+Step 3589 moving to CNX
+At CNX. Moving R
+Step 3590 moving to DRK
+At DRK. Moving L
+Step 3591 moving to DRS
+At DRS. Moving R
+Step 3592 moving to BLM
+At BLM. Moving L
+Step 3593 moving to LGT
+At LGT. Moving R
+Step 3594 moving to SHP
+At SHP. Moving R
+Step 3595 moving to SSN
+At SSN. Moving R
+Step 3596 moving to TTK
+At TTK. Moving L
+Step 3597 moving to VQQ
+At VQQ. Moving R
+Step 3598 moving to FPX
+At FPX. Moving R
+Step 3599 moving to RSG
+At RSG. Moving R
+Step 3600 moving to QNM
+At QNM. Moving L
+Step 3601 moving to DBX
+At DBX. Moving R
+Step 3602 moving to QHF
+At QHF. Moving R
+Step 3603 moving to FHL
+At FHL. Moving R
+Step 3604 moving to PLN
+At PLN. Moving L
+Step 3605 moving to LMM
+At LMM. Moving L
+Step 3606 moving to MPD
+At MPD. Moving L
+Step 3607 moving to JKH
+At JKH. Moving R
+Step 3608 moving to PJB
+At PJB. Moving R
+Step 3609 moving to RMC
+At RMC. Moving R
+Step 3610 moving to PTR
+At PTR. Moving L
+Step 3611 moving to KQD
+At KQD. Moving R
+Step 3612 moving to KQX
+At KQX. Moving R
+Step 3613 moving to LVT
+At LVT. Moving L
+Step 3614 moving to DKT
+At DKT. Moving R
+Step 3615 moving to GCL
+At GCL. Moving R
+Step 3616 moving to KJP
+At KJP. Moving L
+Step 3617 moving to XPM
+At XPM. Moving R
+Step 3618 moving to CMS
+At CMS. Moving L
+Step 3619 moving to QLS
+At QLS. Moving R
+Step 3620 moving to BXB
+At BXB. Moving R
+Step 3621 moving to KQT
+At KQT. Moving L
+Step 3622 moving to BHG
+At BHG. Moving R
+Step 3623 moving to CRN
+At CRN. Moving L
+Step 3624 moving to PJV
+At PJV. Moving R
+Step 3625 moving to SPT
+At SPT. Moving R
+Step 3626 moving to KSK
+At KSK. Moving R
+Step 3627 moving to VSD
+At VSD. Moving L
+Step 3628 moving to SBB
+At SBB. Moving R
+Step 3629 moving to PNB
+At PNB. Moving L
+Step 3630 moving to PHG
+At PHG. Moving R
+Step 3631 moving to TVR
+At TVR. Moving R
+Step 3632 moving to QJV
+At QJV. Moving L
+Step 3633 moving to HVQ
+At HVQ. Moving R
+Step 3634 moving to DRN
+At DRN. Moving L
+Step 3635 moving to XSC
+At XSC. Moving R
+Step 3636 moving to DHF
+At DHF. Moving L
+Step 3637 moving to BSJ
+At BSJ. Moving R
+Step 3638 moving to DCV
+At DCV. Moving R
+Step 3639 moving to QMN
+At QMN. Moving R
+Step 3640 moving to PHF
+At PHF. Moving L
+Step 3641 moving to LFL
+At LFL. Moving R
+Step 3642 moving to RCH
+At RCH. Moving L
+Step 3643 moving to JQM
+At JQM. Moving L
+Step 3644 moving to DBD
+At DBD. Moving L
+Step 3645 moving to QLT
+At QLT. Moving R
+Step 3646 moving to XDP
+At XDP. Moving R
+Step 3647 moving to SVH
+At SVH. Moving R
+Step 3648 moving to JBK
+At JBK. Moving L
+Step 3649 moving to BDH
+At BDH. Moving L
+Step 3650 moving to CNX
+At CNX. Moving L
+Step 3651 moving to CTN
+At CTN. Moving R
+Step 3652 moving to DRS
+At DRS. Moving L
+Step 3653 moving to DPN
+At DPN. Moving R
+Step 3654 moving to LGT
+At LGT. Moving R
+Step 3655 moving to SHP
+At SHP. Moving R
+Step 3656 moving to SSN
+At SSN. Moving L
+Step 3657 moving to KGR
+At KGR. Moving R
+Step 3658 moving to FSH
+At FSH. Moving L
+Step 3659 moving to QSB
+At QSB. Moving R
+Step 3660 moving to RSG
+At RSG. Moving R
+Step 3661 moving to QNM
+At QNM. Moving L
+Step 3662 moving to DBX
+At DBX. Moving R
+Step 3663 moving to QHF
+At QHF. Moving L
+Step 3664 moving to GPM
+At GPM. Moving R
+Step 3665 moving to SSL
+At SSL. Moving L
+Step 3666 moving to LMM
+At LMM. Moving R
+Step 3667 moving to BMK
+At BMK. Moving L
+Step 3668 moving to JKH
+At JKH. Moving R
+Step 3669 moving to PJB
+At PJB. Moving R
+Step 3670 moving to RMC
+At RMC. Moving L
+Step 3671 moving to QHM
+At QHM. Moving R
+Step 3672 moving to GNP
+At GNP. Moving R
+Step 3673 moving to TSS
+At TSS. Moving L
+Step 3674 moving to LVT
+At LVT. Moving R
+Step 3675 moving to GFK
+At GFK. Moving R
+Step 3676 moving to HGH
+At HGH. Moving L
+Step 3677 moving to QKX
+At QKX. Moving R
+Step 3678 moving to QRP
+At QRP. Moving L
+Step 3679 moving to CMS
+At CMS. Moving R
+Step 3680 moving to XGR
+At XGR. Moving R
+Step 3681 moving to TCX
+At TCX. Moving R
+Step 3682 moving to MTH
+At MTH. Moving L
+Step 3683 moving to BHG
+At BHG. Moving R
+Step 3684 moving to CRN
+At CRN. Moving R
+Step 3685 moving to TBN
+At TBN. Moving R
+Step 3686 moving to JCV
+At JCV. Moving L
+Step 3687 moving to KSK
+At KSK. Moving R
+Step 3688 moving to VSD
+At VSD. Moving R
+Step 3689 moving to GST
+At GST. Moving L
+Step 3690 moving to PNB
+At PNB. Moving R
+Step 3691 moving to DSS
+At DSS. Moving R
+Step 3692 moving to TVR
+At TVR. Moving R
+Step 3693 moving to QJV
+At QJV. Moving L
+Step 3694 moving to HVQ
+At HVQ. Moving R
+Step 3695 moving to DRN
+At DRN. Moving R
+Step 3696 moving to RRL
+At RRL. Moving L
+Step 3697 moving to DHF
+At DHF. Moving R
+Step 3698 moving to MCL
+At MCL. Moving R
+Step 3699 moving to QBR
+At QBR. Moving L
+Step 3700 moving to QMN
+At QMN. Moving R
+Step 3701 moving to PHF
+At PHF. Moving R
+Step 3702 moving to MDT
+At MDT. Moving R
+Step 3703 moving to CMR
+At CMR. Moving L
+Step 3704 moving to JQM
+At JQM. Moving L
+Step 3705 moving to DBD
+At DBD. Moving R
+Step 3706 moving to TTC
+At TTC. Moving L
+Step 3707 moving to HQL
+At HQL. Moving R
+Step 3708 moving to SVH
+At SVH. Moving R
+Step 3709 moving to JBK
+At JBK. Moving L
+Step 3710 moving to BDH
+At BDH. Moving L
+Step 3711 moving to CNX
+At CNX. Moving L
+Step 3712 moving to CTN
+At CTN. Moving R
+Step 3713 moving to DRS
+At DRS. Moving R
+Step 3714 moving to BLM
+At BLM. Moving L
+Step 3715 moving to LGT
+At LGT. Moving R
+Step 3716 moving to SHP
+At SHP. Moving R
+Step 3717 moving to SSN
+At SSN. Moving L
+Step 3718 moving to KGR
+At KGR. Moving R
+Step 3719 moving to FSH
+At FSH. Moving L
+Step 3720 moving to QSB
+At QSB. Moving R
+Step 3721 moving to RSG
+At RSG. Moving L
+Step 3722 moving to DLB
+At DLB. Moving L
+Step 3723 moving to DBX
+At DBX. Moving L
+Step 3724 moving to DHB
+At DHB. Moving R
+Step 3725 moving to GPM
+At GPM. Moving R
+Step 3726 moving to SSL
+At SSL. Moving L
+Step 3727 moving to LMM
+At LMM. Moving R
+Step 3728 moving to BMK
+At BMK. Moving R
+Step 3729 moving to BPL
+At BPL. Moving L
+Step 3730 moving to QRS
+At QRS. Moving R
+Step 3731 moving to VCJ
+At VCJ. Moving R
+Step 3732 moving to PTR
+At PTR. Moving R
+Step 3733 moving to GNP
+At GNP. Moving L
+Step 3734 moving to KQX
+At KQX. Moving R
+Step 3735 moving to LVT
+At LVT. Moving R
+Step 3736 moving to GFK
+At GFK. Moving L
+Step 3737 moving to GCL
+At GCL. Moving L
+Step 3738 moving to QKX
+At QKX. Moving R
+Step 3739 moving to QRP
+At QRP. Moving L
+Step 3740 moving to CMS
+At CMS. Moving R
+Step 3741 moving to XGR
+At XGR. Moving R
+Step 3742 moving to TCX
+At TCX. Moving R
+Step 3743 moving to MTH
+At MTH. Moving L
+Step 3744 moving to BHG
+At BHG. Moving R
+Step 3745 moving to CRN
+At CRN. Moving R
+Step 3746 moving to TBN
+At TBN. Moving R
+Step 3747 moving to JCV
+At JCV. Moving L
+Step 3748 moving to KSK
+At KSK. Moving R
+Step 3749 moving to VSD
+At VSD. Moving R
+Step 3750 moving to GST
+At GST. Moving L
+Step 3751 moving to PNB
+At PNB. Moving R
+Step 3752 moving to DSS
+At DSS. Moving R
+Step 3753 moving to TVR
+At TVR. Moving L
+Step 3754 moving to LJN
+At LJN. Moving R
+Step 3755 moving to NMN
+At NMN. Moving L
+Step 3756 moving to DRN
+At DRN. Moving R
+Step 3757 moving to RRL
+At RRL. Moving R
+Step 3758 moving to CFX
+At CFX. Moving L
+Step 3759 moving to BSJ
+At BSJ. Moving R
+Step 3760 moving to DCV
+At DCV. Moving L
+Step 3761 moving to XXH
+At XXH. Moving R
+Step 3762 moving to JTR
+At JTR. Moving R
+Step 3763 moving to LFL
+At LFL. Moving R
+Step 3764 moving to RCH
+At RCH. Moving L
+Step 3765 moving to JQM
+At JQM. Moving R
+Step 3766 moving to PJT
+At PJT. Moving R
+Step 3767 moving to QLT
+At QLT. Moving L
+Step 3768 moving to HQL
+At HQL. Moving R
+Step 3769 moving to SVH
+At SVH. Moving R
+Step 3770 moving to JBK
+At JBK. Moving R
+Step 3771 moving to QJC
+At QJC. Moving L
+Step 3772 moving to RJR
+At RJR. Moving L
+Step 3773 moving to CTN
+At CTN. Moving R
+Step 3774 moving to DRS
+At DRS. Moving R
+Step 3775 moving to BLM
+At BLM. Moving R
+Step 3776 moving to TFT
+At TFT. Moving L
+Step 3777 moving to XPK
+At XPK. Moving R
+Step 3778 moving to SMM
+At SMM. Moving L
+Step 3779 moving to KGR
+At KGR. Moving R
+Step 3780 moving to FSH
+At FSH. Moving L
+Step 3781 moving to QSB
+At QSB. Moving L
+Step 3782 moving to BNR
+At BNR. Moving L
+Step 3783 moving to DLB
+At DLB. Moving R
+Step 3784 moving to FNP
+At FNP. Moving R
+Step 3785 moving to QHF
+At QHF. Moving R
+Step 3786 moving to FHL
+At FHL. Moving L
+Step 3787 moving to SSL
+At SSL. Moving L
+Step 3788 moving to LMM
+At LMM. Moving L
+Step 3789 moving to MPD
+At MPD. Moving R
+Step 3790 moving to BPL
+At BPL. Moving R
+Step 3791 moving to PJB
+At PJB. Moving L
+Step 3792 moving to VCJ
+At VCJ. Moving L
+Step 3793 moving to QHM
+At QHM. Moving R
+Step 3794 moving to GNP
+At GNP. Moving R
+Step 3795 moving to TSS
+At TSS. Moving L
+Step 3796 moving to LVT
+At LVT. Moving R
+Step 3797 moving to GFK
+At GFK. Moving L
+Step 3798 moving to GCL
+At GCL. Moving R
+Step 3799 moving to KJP
+At KJP. Moving R
+Step 3800 moving to QRP
+At QRP. Moving L
+Step 3801 moving to CMS
+At CMS. Moving R
+Step 3802 moving to XGR
+At XGR. Moving L
+Step 3803 moving to BXB
+At BXB. Moving L
+Step 3804 moving to MTH
+At MTH. Moving L
+Step 3805 moving to BHG
+At BHG. Moving R
+Step 3806 moving to CRN
+At CRN. Moving R
+Step 3807 moving to TBN
+At TBN. Moving R
+Step 3808 moving to JCV
+At JCV. Moving R
+Step 3809 moving to ZZZ
+finished reached
+3809
